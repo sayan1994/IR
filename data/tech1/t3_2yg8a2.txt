@@ -1,0 +1,185 @@
+Hey Guys!  Thanks for doing this AMA - I'm moving to a new team at work where I'll be working with EMET.  Do you guys have any training on MVA for EMET or know when some will be available?
+Hey guys,  As someone with a very old Microsoft certification ID who has balanced both formal education along with certifications with a veritable alphabet soup of acronyms behind my name, how do you feel this role of establishing a virtual academy will play out?  Do you feel that this environment is something that should be considered supplemental to other educational sources or experiences, or is this something for the next generation to base their career growth around?  Thanks for doing the AMA!
+Good suggestion, and to be honest we're light on this (Enhanced Mitigation Experience Toolkit), for those looking for the toolkit, see: http://www.microsoft.com/en-us/download/details.aspx?id=41138  We're adding this to our list of MVA topics for the first half of 2015.
+Thanks!  Also, MVA is just awesome - I've been learning tons from the courses you guys have up there.  Keep it up!
+Thanks for doing this AMA Whose Idea was MVA?How did it start?
+What is life?
+Will MVA offer in the future a deep dive into machine learning on Azure? 
+A journey not a destination.
+That's a great question and something we think about a lot given the same team here at Microsoft looks after certification as well. MVA is a great way of getting quickly skilled up on tech in a variety of areas, while certification is validating/proving your knowledge and skills. As a result, MVA does have certification related courses but it also has a much larger variety of topics than what can be covered through certification.
+What's your greatest success story?
+Hey guys! I'm from Peru, will MVA offer learning on Advanced topics for Android with Xamarin?
+Which course did you had the most fun with? And what is the greatest thing about this job? And what are your future plans with MVA?  I watch MVA very often. Unfortunately not live, because of another timezone.
+How do you choose members of the community to come and speak on the topics the MVA is interested in publishing?
+what is value of MVA points?
+Our Latin American subsidiary offices started it back in 2007 with a focus on IT pro courses. It was a better way to get lots of people access to training than our traditional methods. It was very successful and was quickly adopted by the corporate team. We added developer focused training in 2012 at the same time we started doing the live Jump Starts from Redmond.
+Why not make retired courses available in some sort of archive? There is always useful insights even on old content.
+Thanks for the response.  I think the balance between awareness and knowledge of a particular subject is great operationally, but it's the certification that still drives so many HR departments and headhunters.  When I looked through MVA, I saw things broken down by subject (Server, Game Development, DevOps, etc), but not much further than that.  I understand that it's great to have a defined course for a particular need, but have you given thought to pairing course content similar to university tracks?  Something that would say 'Okay, you want to be a SysAdmin?  Take these twelve courses in this order for the fundamentals.'  It seems like it go hand-in-hand with some of Microsoft's own certification tests.
+Microsoft appears to be shifting certification materials from MS Press to MVA? Do you think MVA can offer the same depth of education a a book can offer? 
+I finished a "Know It, Prove It" track. It then pointed me to Born2Learn. Born2Learn had two problems: a dead link from a Pearson ad that promised 3 developer exams for the price of one and the 70-480 wiki was not editable. Is Born2Learn still active?
+Abhishek Nandy has a great story. https://www.facebook.com/abhishek.nandy.7?fref=ts He was working as help desk support but started using MVA courses to teach himself app development. He's used MVA to learn how to write his first app for the store, and has gone on to win a bunch of awards. Currently I think he's got a start up he formed with a few other developers. In terms of lots of people getting trained, our Virtualization and Hyper V course had almost 10,000 people watching concurrently. That was a big one for us.
+What are you all thinking that we could do with the accumulated points?
+Born 2 Learn was never *active* ;)
+Yes, there is still a very active community there. We'll follow up with them about the wiki. Those get pretty heavy usage and should be available. 
+With large corporate web application in mind, It's a good idea to use AngularJS + WebAPI or it's better to start with a basic MVC project?
+Well, I guess I know now who I'll be going for for some beginner's coding lessons! Thanks for this AMA!
+Great topic. We'll be following up with the course planner responsible to be sure he's got it on the roadmap
+It's not a bad idea. At this point we have erred on the side of caution because we don't want people wasting time on something that is out of date. But we understand that depending on your specific needs even the old stuff can be helpful.  Another factor is that we have over 2,000 courses and managing the catalog is something we're still getting good at.
+Can you offer some MVA sessions with SHORTER duration - say from 9am-1pm PST (instead of 5pm)?  This would be good for East Coast developers to watch it live from 12noon-4pm (instead of going all the way to 8pm EST).  Or perhaps make it 2-days session instead?  Thanks.
+The difference isn't necessarily the depth (with a book you have no limit on how deep you can go) but the difference is more the learning style we are trying to support. Different people will find different modes useful in different contexts. MVA is great for people that want the experience of hearing it from a human and even having the opportunity to ask questions in real time (during our live courses).  It's not so much we're shifting, as spreading ourselves out. (MS Press is on our team as well - we've got a good 360 degree approach)
+are you going to offer functional programming course (F#)? 
+Should I put MVA courses in my resum? How can someone wanting to assess me tell that I take MVA seriously and not just grabbing brag points? Maybe a points over time average chart?
+Wondering if you would agree that coding is a very important skill for students today to learn and if there are other more specific skills and what way people might go about acquiring those?
+What can I learn at your academy ?? 
+The real time questions on MVA are the most entertaining part. The questions asked generally tell more about a product or technology than the answers.
+Why not a course on SPA web applications using (Microsoft's) WinJS?
+Also, based on some of the recent books you have released (or failed to release), I would say to are spreading yourselves a bit thin.
+Can you turn the camera around and show us the studio and team that helps make your great content?
+The answer is "yes" We've got classes on all three of those   It depends on what you are trying to accomplish. With Angular + Web API there are limitations from an SEO point of view. If you don't care about having the content on the page discovered by search engines, it will really shine. You get the ability to mimic a full application within a browser.   On MVC your pages will be standard html pages that can get optimized for search engines.   But you can use both, choosing the right tool where you need the right strength. For an ecommerce site, you might want the main catalog to be displayed from MVC but when you add things to your cart you would choose AngularJS + Web API 
+How much training in education do the trainers go through before releasing a video? By training I mean instructional design and classroom management, not subject matter expertise. Some of the videos are real hit or miss in the category. 
+Ok. Thanks for the explanation.
+There's a broad range of technologies: development (C#, F#, scripting, etc...), IT (networking, server/client, device management, security) and some interesting open-source topics coming soon.
+how I can put public MVA profile to my resume (linkedin)?
+We are starting to do more short duration courses. We are very conscious that we've got a global audience and try to accommodate as best we can from our studios here in Redmond. We do have some short courses "Quick Start Challenges" which take under an hour to do
+Also interested. Especially using R.
+My belief is that our kids need to learn programming as a mandatory course beginning as early as possible eg. primary school.  Have you folks thought about tailoring courses for children - using a similar delivery - targeted specifically to educators??   *Teachers would likely be very happy to just setup a class projector and have you guys teach!*
+Considering students of any age two skills everyone should learn are 1) the ability to touch type Fast typists have an advantage in our world, and coding teaches you that 2) everyone should have some familiarity with how to code. For IT pros, when you have to automate things, you'll be doing things that will make doing PowerShell much easier. The skills you learn from one language will be transferable to another. Even if you aren't getting into technology, just learning how to think logically is very helpful.  C# for Absolute Beginners and JavaScript for Absolute Beginners taught by Bob Tabor are a great place to start. We also recommend the Intro to Python course Christopher Harrison and Susan Ibach is also great for beginners
+Why isn't MVA promoted more places like Convergence?
+Will MVA have courses made in Portugal, in Portuguese mainland or Brazil, I think there's a huge community that would like to have courses on their "own" language.
+Yes, we've heard some great stories about people using their MVA courses to get new jobs or to get promoted. We're looking to tie MVA work more closely to official skill validation in the future.
+You mentioned Typing as a skill. Any suggestions on tools for typing skills, and are typing skill for programming any different than general typing?
+I find that some courses are very similar and find it difficult to distinguish what they offer. For example: "Build Web Apps with ASP.NET Jumpstart", "Introduction to ASP.NET MVC", "Developing ASP.NET MVC 4 Web Applications Jump Start".  All these courses are named similarly. Is there anything you can do to refine the categories or target audience for courses without having to go through the content of every course?
+I like the ability to pick and choose individual courses, but I also think that it would be nice to have a series of courses packaged up to cover the overview and deep dive, in a logical progression, for particular topics. Maybe something centered around the certification exam organization?  Is this a feature that I am not seeing, or maybe coming in the future?
+Some of the highlights are our PowerShell courses, and keep an eye peeled for anything taught by Simon May who covers IT pro topics like Active Directory and Windows 10. The beginner courses mentioned in the AngularJS v Web API courses are great. Also we've got good deep courses on game development using C++ and Direct X But there's a lot more there.
+Will there ever be true online privacy? 
+Is there a way to see how many points I am away from moving up a user position. Early on as I took a course I jumped up several hundred users in the US. Lately it has required taking several courses just to move up by one user position and if I slack off for a few days I go backwards fairly fast.
+Hi guys, thank you for providing great MVA sessions, and I really enjoy the online interactive Q&amp;A.   Another question: will MVA provide more sessions on Data Analytics, Big Data...?
+Do you really read the comments we make when rating a course?
+We look for people who have a following and credibility. We work quite a bit with the MVP community as well. We are looking to branch out and find learners as well to increase our engagement. 
+Hi, Project Bond and Project Orleans are some really great platforms/frameworks that have come from Microsoft Research, any chance we could see a course or two on those topics?
+Yes! That's exactly what we did with Know it. Prove it. (http://aka.ms/knowitproveit). We picked eight different areas of technology, then tried to select the best courses and then put them in a logical order. Let me know if you were thinking of something else, but we had a huge amount of success - over 55,000 people taking part - so we're definitely looking at what challenges we can do next for this.
+Not sure at the moment. It's certainly a possibility.
+We'd love to do that! Stay tuned!
+For me, it is Know it. Prove it. (http://aka.ms/knowitproveit). Over 55,000 people doing eight challenges across more than 140 countries. We did a bunch of new things with KiPi - forums, integrated blog, leaderboards and most importantly, selected a logical set of courses to do for each area.
+(Christopher here) I'm going to be working on cleaning that up in the future. We'll actually be doing an MVC 6 MVA in the near future, and then cleaning up the older ones that you mentioned.
+I Think that, if a student had only 3 attempts to each assessment and by the end of the course, the final grade was enough someone could get a certificate, if not, they could do it once again within a month, maybe those certificates would have more relevance in the "market", the way it his, one can be hammering the test copying the questions and answers and could get a LOT of MVA point in a day, week, month, and be at the top by cheating. Can't be something be done about it?
+I'm so thrilled you're doing this!  tl;dr: can you recommend a course/curriculum to bridge the gap between "Hello world. This is a blue, 2 door, convertible car named Steve" console app and the corporate, web/intranet deployed, TFS driven environment of a "real" environment that may have dozens or hundreds of individual applications (specifically C#)?  I'm a new developer. I've been extraordinarily fortunate to be hired into a position with plenty of time to learn, and an existing code base of ~1M lines ranging from classis ASP to MVC, signal R and many other acronyms that I don't even understand yet.  But I keep running into an issue in beginning my journey.  The "beginner" courses at most sites hammer through the same basic materials at breakneck speed: IDE, Hello World, variables and types, program flow (loops etc.), classes and methods and then...  WHAM!! Inheritence, polymorphism, and lots and lots of really specific yet esoteric toolsets and methodologies of advanced OOP, but not really the "when" and "why" for me to understand why   At the end I have a simple console application that creates and displays various objects (bank accounts, or cars, or some kind of Mr. Potatohead style collection of methods) and while I get the nuts and bolts, there is no place to go to bridge from there to what I see at work every day.  I don't mean that to be snarky, but building a basic console app isn't that hard. Knowing how to build, deploy and integrate an intranet based application is considerably more challenging and there doesn't seem to be any place to go to learn the transition.  Having said that, I LOVE the courses that exist. I just find myself scratching my head after 10 minutes thinking, "Welp, I'll google that and start down yet another road."  Not that I mind, and like I said I'm very lucky to get paid for doing it; I just feel like because I'm so new to development that there is some key information that I'm missing about going from rookie to novice.  Thanks for your time and all the work you do to help us get through!
+We'll definitely look into the dead link. And since we're doing the Know it. Prove it. Certification Challenge there this month, which relies on those Wikis we're definitely invested in making sure they're working.
+Can you add CC (subtitles) in English for all videos you post? (e.g. ones posted in German community)
+Great, thanks Christopher.
+&gt; For me, it is Know it. Prove it. (http://aka.ms/knowitproveit). Over 55,000 people doing eight challenges across more than 140 countries. We did a bunch of new things with KiPi - forums, integrated blog, leaderboards and most importantly, selected a logical set of courses to do for each area.  
+The ALM courses, the PowerShell ones with Snover are the ones that jump out.
+Jerry Nixon &amp; Darren May, Christopher Harrison &amp; Jon Galloway are fun pairs.
+For an upcoming grad in Computer Science from a California State University, is the Beginner's Section still the place to start?
+The cameras are a little sensitive and swinging them around would be a little tricky. However, we'll post up some photos for you. 
+I'm sure others have tools they love, but to answer the second part there isn't any real difference between keyboard skills and programming keyboard skills, save for the semicolon.
+ I'm a student developer of mobile apps, cloud apps connected to azure but i came to know about all those technologies by microsoft it showcase people who conducted a workshop in our college. so my question is as a student developer how can i get azure services for app development by the way i don't have any credit card can u please suggest me a solution to access azure services as i am a student i can't afford for azure services ?
+Check out my blog post here. I have instructions on how to get to your public MVA profile. https://borntolearn.mslearn.net/kipi/b/kipi/archive/2015/03/02/day-30-what-an-amazing-ride
+We absolutely do! There's not so many of them that we can't get through them all. They are super helpful, and please make comments. We can learn if people are actually using the course, if people are dropping off, what's good, what's bad, etc.
+We've actually already started doing that: http://www.microsoftvirtualacademy.com/learn-to-code And we're doing more. We feel very strongly about that too. :)
+All published courses have CC. We have experimented with doing CC live in the past and are continuing to explore that.
+Absolutely!
+Please do courses which go beyond just being an introduction or tutorial.  Please do courses on app architecture, a real life application has several layers, please talk and show best practices what these layers are, and how they work.  Do you have plan to do this kind of courses? Thanks
+Why not consider being a sounding board for other community training? List up coming code camps, and developer conferences and links to getting more information. Things like CodeStock, DevLink, Kansas City Developer conference.
+Absolutely! Making sure courses are available in multiple languages is something that is very important to us.
+Have you checked out Know it. Prove it? It's available on MVA (http://aka.ms/knowitproveit) to do what you're suggesting. Eight different topic areas, a series of courses, arranged in a logical progression. Let me know if I misunderstood your question.
+Where's Portugal? :)
+[deleted]
+We're certainly looking at new courses that cover architecture.
+Check out DreamSpark
+For a long time, the points were just for fun. We are looking to do a few things and trying to consolidate the point system with other Microsoft sites (forums, certification, etc). Short story, we're working on it. Stay tuned! 
+I'm a student developer of mobile apps, cloud apps connected to azure but i came to know about all those technologies by microsoft it showcase people who conducted a workshop in our college. so my question is as a student developer how can i get azure services for app development by the way i don't have any credit card can u please suggest me a solution to access azure services as i am a student i can't afford for azure services ?
+Make them more credible
+Up to you! There is nothing wrong with starting at the beginning and working your way up if you find it too easy. Go to MVA for real-world examples and you'll learn some interesting tricks they might not have had time to teach you in class. 
+I had seen it but dismissed the idea because of the time-based "hurry while it lasts" nature.  It struck me as a competition/code-jam thing which is cool, but not my particular cup of tea.  I'll take another look and see if it is more than I originally thought.
+Would we be able to see at some point the results/feedback of the Assessment tests for the courses we take?
+Why there are a lot of courses on games but Project Spark is not addressed?
+Channel 9 offers really good videos and has an excellent archive of content. Do you speak to them about trends and topics that need to be covered by MVA?
+When will be Visual Studio 2015 released?
+Why time-box it?  The idea is great, I don't see what "hurry and finish before March 26" adds to it?  
+[deleted]
+Any plans for IoT subjects? I'd really love to learn how to gather sensor data with Windows on a Device and aggregate it unto Azure for reporting.
+We totally understand that. We really work with our instructors to nail down the presentation :) Rick Claus has a great blog on how to deliver impactful demos: http://regularitguy.com/2012/11/29/how-to-deliver-impactful-demos-part-1machine-prep/ 
+[deleted]
+Hi guys! What are your thoughts on bitcoin? 
+i already have a dreamspark account when i try to create account in azure for free trail it is asking me a credit card for registration which i don't have.so can i get azure services like bizspark so that  i can develop lot many apps every month 
+[deleted]
+Trade them to earn credits for azure?? (Please?) :)
+Will MVA hold future courses of Windows usage (not for programmers), like getting to know the OS, etc? Would be good for Windows 10! I'm also hoping for an Microsoft Office challenge in the next KiPi! And thanks a lot guys, I think I mentioned it before on a post in the KiPi website, but putting some of the courses in my resume actually got me some interviews (without any College diploma/degree)  I saw Andrew mentioning some of my favs bands(Jimmy Eat World,Sick Puppies and Artic Monkeys, the other two he mentioned i never heard before) while he was doing the Gaming Challenge.  Tell him to share some of the bands he listens I'm always up for new rock bands!!! His taste in music is cool!
+Is there any sort of WINAPI w/ C++ tutorials in the works, or will there ever be?  I mainly develop with WINAPI, and the documentation is fantastic, but there are little to no introductory tutorials for beginners in it. 
+Are you monitoring MVA for bots? Some of these top student scores are obscenely large. E.g. Guntram Leuprecht has 10,628 points. 
+I once met Jeffrey Snover here in Amsterdam. He is a fun guy! :)
+I definitely think the Know it Prove it structure and organization of courses is great and a welcome asset to your growing catalog, but the temporal nature of it can be offputting.
+Great suggestion! We'll pass it along to our content team. 
+To the left of Spain ;)
+For a while, the points were just for fun but we're coming up with a few ways to try and integrate the point system into other Microsoft sites (forums, certification, etc). We'll have some ideas for you. Stay tuned!
+We have a few courses on Project Spark! Here's one: http://www.microsoftvirtualacademy.com/training-courses/creating-games-with-project-spark 
+Actually, the extra incentive of time-based does work for a good number of people. That said, we're looking at how we can implement this for a more permanent, "do it in your own time" thing.
+Happy to hear! We're having fun, and it's thanks to members like you. Never stop learning :)
+There's a course on MVA http://www.microsoftvirtualacademy.com/training-courses/quick-start-challenge-project-spark!
+Great suggestion! We do have a mobile apps course related to IoT. Check it out: http://www.microsoftvirtualacademy.com/training-courses/mobile-apps-to-iot-connected-devices-with-windows-azure 
+What's the easiest way to learn C++ in 21 days?
+Haha! I'm more than happy to continue sharing bands I listen to, but my tastes are varied! :)
+Hello guys, Have you ever consider designing a full tutorial of ASP.Net MVC, starting from 0 to N-Tier Layer (Repositories, DTOs, DAL, Unit of Work, UI) as result app? Also giving us what are the best practices in this mixture?
+I like how every one bad mouths Microsoft, yet you guys offer tons of free learning with your virtual labs.  Keep up the good work.
+[deleted]
+When will we start seeing training materials and available Dev kits for Hololens?
+I tend to do most of my training from MVA by downloading the videos; are there any plans to make it so you can download an entire course at once versus individually?
+This was not an answer. I was expecting something mentioning topics covered or a reference to an expert in pedagogy/andragogy. Also, the link was an article on how to do the very basics of a video presentation, not an advanced topic such as how to make an effective video for educational purposes. 
+What are the best courses for someone who is just starting out in IT?
+In your experience, do you feel being a jack of all trades speaks more volumes vs. a specialist in one area or vise-versa?  Side note, I'm currently taking your asp.net MVC course right now to get myself more acquainted with web programming. It's been really good so far from the start, I would like to try to continue with this after I finish
+The Hyper-V @ MVA was great, was a big help in me getting my cert.
+[deleted]
+Do you have beginner courses? I for one have very basic stuff about C. If yes where do i sign up?
+As a computer science student, what is the most important thing to get out of college? What looks the best to employers? 
+Do you guys use linux or are you forced to use windows? Does Microsoft know that programmers need a better platform?
+Why did TechNet subscriptions go away? 
+[deleted]
+Just like the IT guys where I work, "We'll get to that sometime in the future."  Never happens.  
+Do you find Microsoft to suffer strongly from [NIH syndrome](http://en.wikipedia.org/wiki/Not_invented_here)?  For example, would it be discouraged to contribute code to the [AOSP](https://source.android.com/) platform itself if it would prove useful for MS's [Android apps](https://play.google.com/store/apps/developer?id=Microsoft+Corporation), or to avoid the [Rust](http://www.rust-lang.org/) project and language simply because it was created externally?  How would you say any of that has changed over time?
+What about the possibility of a virtual hands-on sandbox to work with? I personally learn better hands on than watching videos.. But if I could watch a video then apply what I just learned.. I excel much faster and retain everything better plus If one doesn't have the means to pay for the hardware and/or software to apply these skills, it would help them out a bunch.  I can't be the only one, right? :) 
+Nice one! Did not know about it.
+I hate when I search a problem with Google, and it lists a bunch of forums containing nothing but "check this forum out on the same problem". Sometimes those links they provide don't even exist anymore. Do you have any way of combating this issue answer-seekers have?
+As someone who is in the first year of a major in computer engineering, what do you think are the most important programming languages i should know?   I'm currently learning java in college but i don't see many current applications being developed on it, i would love your opinion
+I am desperate for some extensive training in VM use on AZURE. My boss has pretty much mandated I become an expert on it and I can't find much in the ways of training for azure specific to virtual machines. ie load balancing, best practices, etc.  Any chance of something like this showing up sometime in the near future? 
+How do you feel about the current disconnect between the level of expertise that Microsoft certifies at, and the lower level that Microsoft teaches?
+Wonder if Abhishek would mind his footsteps being copied :-)
+I took know it prove it for office 365, passed 70-346 with flying colors. Taking 347 later this month.
+How can I learn to fly drones for a living?
+Why is Linux better for programming? Honest question. 
+Despite being late to the IAMA, I assume you'll be keeping tabs on it.   I'd love to add support for this. Being from the country of Europe, rushing home from work to get ready for a 5pm start, finishing at midnight or 1am can be a touch brutal.  Especially when sessions overrun, "lunch"times drift into the unknowable, and partner's meals and children's bedtimes suffer as a result.  And then do it again the next day, or even more days.  And then you miss 10 mins of a breezed-through setup instruction because you promised bathtime at when you thought the 10 minute break would be, and have to wait 2-3 weeks until the edit makes it to the catalogue to figure out what you missed.  Having said that, thanks for the Python/Flask course last week Christopher, no hard feelings. I value the MVA highly, and have learnt a ton in many areas, whether or not those points mean anything.  Though, please, please do everything you can to at least keep that hour break when you say you will. 
+What's the easiest qualification I can get and get a job? 
+Streaming applications in a browser for ISVs with existing apps that are too complex to rewrite.  Any hope there? I'd love to host mine on azure.
+What do you mean by learn? Do you know fundamental stuff like data structures and algorithms and need to learn the syntax or are you starting from square one?
+From an MVA perspective, we try to be inclusive. We have courses on Android, iOS, cross-platform tools like Xamarin, and as I mentioned during the AMA time, we also teach about how to use things like Construct 2, GameMaker and Unity. 
+Ah, yeah, that sounds tough. I'm actually Australian and can share your experience, albeit at the other end of the clock. We're definitely looking at shorter duration courses and live events but actual timeslots are tough.
+We don't have plans for that right now, sorry.
+We love looking at new technology, and we know that it's a lot of fun for our MVA users, so we'll definitely look into these.
+Thanks for the suggestion.
+We do have those next level courses. For example, while C# Fundamentals for Absolute Beginners is at the entry level, the Programming in C# Jump Start or Implementing Entity Framework with MVC are the next steps.
+Could you help me understand what you're asking? After the assessment is done, it should show you which questions you got incorrect.
+We partner closely with Channel 9. They're our best buddies.
+Also, thanks for the suggestion for Office. We have some great challenges planned for the next KiPi, so hopefully you'll have fun.
+We have a number of courses on MVC, depending on your level of expertise and interest. Just go to the search page and enter MVC and see if one of those courses fits the bill for you.
+Well, thank you. Personally, I think the team does a great job and everyone here is super passionate about trying to do the right thing for developers and IT professionals.
+Oh wow, that's a great question and it depends on what you're after. However, personally, I would recommend the C# for Beginners course - http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners. We also have a "for beginners" topic page that has a number of other entry-level courses. http://www.microsoftvirtualacademy.com/training-topics/for-beginners
+Thanks for the feedback on the MVC course - always great to hear from people who are getting something out of what we do. For your former question, it's an "it depends" answer. When I look at my own experience, I consider myself a jack of all trades and I do quite well with what I know. However, I have huge respect for the guys and gals who are laser focused on a specific area and become gurus in their field. 
+Yes! We have some great courses and even have a "for beginners" section on MVA http://www.microsoftvirtualacademy.com/training-topics/for-beginners. If you want a starting point, please check out our C# for beginners course here: http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners
+This is another "it depends" answer, but from my experience, getting the fundamentals of programming down is key, and if you can learn more than one language then you're setting yourself up for great success in the industry. It's always easier to learn a new language or technology if your brain has already had to go through the translation between two or more.
+We would love to do this, but it's a question of resources. We're definitely looking into it though. 
+Java is used extensively in the industry, as is C#. The good news is that the transition between these two languages is fairly straightforward, and if you know two, it's easy to learn others.
+We have extensive training available for the level of expertise that we certify at. It's called Microsoft Official Curriculum and is delivered through learning partners worldwide. Our partner finder site can help you find the nearest one to you: https://www.microsoft.com/learning/en-us/find-partner.aspx  Also, check out www.certificationchallenge.com where you'll find additional resources, forums and other support to help you prepare for a certification.
+http://imgur.com/YfSkuqt
+We hear you on that! Have you checked out this course? It's on SQL Server in Azure VMs. http://www.microsoftvirtualacademy.com/training-courses/sql-server-in-azure-virtual-machines-developer-jump-start 
+Java and C# are definitely two of the most popular we see. You should check out these courses on Java &amp; C#. You might learn something you haven't learned in the classroom: http://www.microsoftvirtualacademy.com/training-courses/javascript-fundamentals-for-absolute-beginners and http://www.microsoftvirtualacademy.com/training-courses/c-fundamentals-for-absolute-beginners
+You are not alone! Like Andrew said, we are looking into ways to integrate all types of learning. 
+Andrew showed you one of our most popular courses! Bob's course is a perfect place to start. All you need to do is sign up for an account! You can do that here: http://www.microsoftvirtualacademy.com/
+Thanks for sharing! Stay tuned for some upcoming MVC courses!
+Thank you! Really means a lot to us and we always want to hear your feedback on how we can make MVA even better. 
+Nutella or Peanut butter?
+Being Australian, I'd say Vegemite. But if you had to force my hand, Nutella (which I pronounce Nut-ella, not Noo-tella).
+ty so much for the answer :) i'll definetely check out your courses for c#
+I was referencing this comic.  http://m.imgur.com/gallery/Qfjgm8h/
+I have experienced MOC first hand, and I believe you would be hard pressed to get the MCTs to agree that a 40 cram is sufficient for the MCSE level materials.  EDIT:  I felt I had to clarify this a bit for posterity. I understand that the groups who make the tests are not the same group that make the training material, and I understand the very good reason for that. My complaint is that the people who make the tests write them to a higher level then the trainers teach at. This means that anyone who relies on Microsoft training material to pass exams is only going to hit their mark %75 of the time. This gap has grown larger since the reintroduction of the MSCE.   My hope is not that the certifications become easier, but that the training materials aspire to the same level. 
+Unix with bash offers a lot more flexibility than the windows ms-dos terminal.
+Why has Microsoft Windows ABANDONED older games (late 90's - early 2000's) with NO built in solution so that we can still play them? Do they realize we have major bucks tied up in those old games?  dual boot is my last/only hope.

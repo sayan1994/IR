@@ -1,0 +1,268 @@
+Microsoft sucks ? 
+Microsoft is okay.  I remember in the late 90s it is popular to hate on Microsoft but their image has gotten better since then.
+How much forward would you say the PC is in making games for?  Rather than PlayStation, or Xbox?
+[deleted]
+What technology do you use to create your apps?
+I started with Basic on C64.  I made Save Larisa with Turbo Pascal on a 486DX2/66.  Currently use an i5 touch screen PC.  I mostly write my apps in Adobe Air with help from Photoshop and Adobe Audition.  But I am starting to play with Blender and Unity to make 3D games.
+PC has many different programming environments compared to PlayStation and XBox.  Games made for PlayStation and XBox require extra credentials and really need a distributor more so than PC games which can be delivered from services such as Steam.
+[deleted]
+Did you get any kind of notice that the game was going to be available? Or did you just browse the list and find it in there?
+Nope no notice.  I actually found out about it from Reddit's front page a couple months back that the Internet Archive compiled that list.  I clicked through and had a look and was like... damn didn't expect that.  EDIT: I am happy that they chose to put it on there though.
+Since you are developing for iOS, whats your opinion on metal?
+It is more useful than OpenGL and doesn't freeze up the CPU as much.  But I still prefer Unity over Metal as more devices can run the app.  It would be useful for more high end graphic developers.  I like how Asphalt 8 runs now using the Metal API (but that's not my game).
+Which app are you most proud of ?
+I like Shazam the most out of any app, mostly because a mobile device is perfect for that sort of app.  Out of games i've wrote i'd say Lands of Crom which was an old BBS door game.  I am currently reworking it into a mobile app.  Out of the apps I have on the store i'd say the ones that got to number 1 as it gave me a fuzzy feeling :)
+What would you recommend to a new software developer interested in developing games?  Any recent resources or tools you find would be good to start off with/hit the ground running?
+why are most of your iOS games free but [Muzzle](https://itunes.apple.com/us/app/muzzle/id587349412?mt=8) is $219? 
+YouTube, Stack Overflow, and some subreddits are also useful.  I would recommend Adobe Air for newbies as it's quite easy to work with.  It is beneficial to learn UI/UX as the look and feel of apps is one of the most important things.  I started with textbooks though.
+That's because I don't want anyone downloading it.  EDIT: Mostly because it is a bit broken and easier than taking it off the App Store.  I don't think anyone would be silly enough to buy it when it is going to be free once I fix it up.  It still works but not how I want it.
+Apple and Microsoft seem to be leaning in towards each other. Although I'm hoping iOS stays dominant in the app market, I don't want to learn anymore languages
+Did you have a crush on Alex Mack? I know I did.
+[deleted]
+Do you know where the Internet Archive got your game? Was it available on any of those shareware websites?
+Yes I had a major crush on her LOL, the whole reason I made the Save Larisa game.  I wouldn't miss an episode.  Good old 90s.
+It looks like they got it from MobyGames as someone posted it up there in 2007.  It is on quite a few abandonware sites around the internet though.
+Why does Muzzle cost $220?
+I've heard Apple often bump heads with devs, but seriously it's hard to *remove* an app? That seems like it should be a couple of clicks..I'm curious, how do they make it hard? what's the process of removing an app like?
+To this day I can't see a puddle and not be aroused.  &amp;nbsp;  ^(edit: I should add, living in North West England, this is a major inconvenience.)
+In the broadest sense what would you say has been the single most significant change in software development since you started and today?
+Basically you cannot call an App that name again if you take it off.  Also you lose all the current users of that app.
+Basically because I don't want people to buy it.  I gave a more in depth answer earlier to someone else :)
+Any advice for aspiring software developers?
+The ease of making apps and basically how limitless the ideas can be these days.  When I first started it was on a C64 which was a pain even editing code once it was written.
+[deleted]
+Just go to iTunes connect, and uncheck all countries in which it is for sale.  It will come off the store until you recheck the countries later.
+Oh, I see. Sorry, didn't see your other response. Thanks for giving us cool stuff to do on our mobile devices!
+You have the potential to change the world.  You can go with making apps you find useful yourself or go with something that could change lives around the world.  I know it sounds kinda corny, but even the Internet came alive due to software developers.
+Learning new *languages* isn't a problem really, it's the *APIs.*
+if you were going to make a game similar to Save Larissa nowadays, which celeb would you focus a game on?
+Well both are completely new ideas so I'd say they're equally problematic. Although I agree most of a new language is learning the APIs that are made for it.
+whats the first thing you would do if you had alex mack's power of being able to turn into the weird metal-fluid?
+A game about Bruce Jenner would be funny
+Guess you're not a developer because the past couple of years Microsoft became a pretty cool company. They open sourced a bunch of stuff, have been working on open standards and changed their overall view about community work.   I'm quite impressed with how much they changed. 
+Do you play any PC games now? If so, what interests you?
+You realise that android market is bigger?
+GTA 4 is my fave PC Game.  GTA V Online is my fave game overall but that's on console.
+They're still horrible in how they keep forgetting about the shit they introduce, like WPF or Silverlight, or treating .NET as a second class citizen when it comes to new APIs like Direct2D and everything.
+Bigger yes, but I see iOS as more dominant because it has a higher amount of quality apps than android, whereas android just has more apps (there are a lot of great apps on android too). I think this is because of the language used and the broad phone market android has.
+How did you get into software development?
+My dad got me into it by giving me a computer for my 8th birthday and heaps of programming textbooks.  When I was 3 playing Venture on Colecovision I said to him that I wanted to make games.
+You have a really awesome dad.
+Woah, you made Shazam!?!?
+What is your favorite platform to develop for?
+Who is Larisa?
+[deleted]
+Yeah but he wouldn't get the $219 from the one or two people that happen to buy it after this AMA.
+/r/titlegore  How did it feel to know your game was uploaded online? Did you care? We're you angry or proud. Or what?
+I prefer iOS Universal (iPhone, iPod Touch &amp; iPad).
+However, back then, it seems like there was much more potential to be the *first* at something fundamental. Or what do you think?
+What's your favorite food?
+I was proud.  I don't mind what people do with it as I made it like 17 years ago now.
+Unity has Metal support as well. 
+What's your stance on having retro games available to play for free like the internet archive does? What about emulation?
+Which of your apps reached #1?
+If the game is old enough I cannot see any problem personally as it helps preserve them for future generations to see exactly how games were.
+Chilli con carne
+If we're talking what has the best revenue for developers..would you rather throw in a cheap app or two every month or investing your time and money in making a complex one before releasing it? Which is more rewarding?
+That's not at all what I meant. I mean number of users. Also it's not true that android don't have the same amount of quality apps anymore.
+It does seem like that, but there is that saying that everything that could be invented has been invented.  I feel we are just at the start and there should be massive breakthroughs in the future.
+That's one of my favorites too! I have an amazingly hearty and spicy recipe that I make usually once a month. 
+It's my favorite movie!  What was it like working with Shaq??
+Guess Song, XOX and Fast Brick: Smash The Bricks.
+Was a fee charged to register Save Larisa? If so, how much did you end up making off of registrations?
+Four comments in and this AMA is already over my head. I'm not sure what I expected. 
+I'd say a complex one would be more rewarding personally as it's more of an achievement but even a simple app can be rewarding as long as the user experience is amazing.
+Errrmmm ... I just managed to "play" the game for about 10 seconds until its DRM triggered and told me:      UNREGISTERED VERSION     PLEASE REGISTER!  ... typed out really s .... l .... o ..... w ..... l ...... y .....  So, did you expect your copy protection to (mis?)fire two decades later when you made your game?  And why is the Internet Archive distributing unlicensed copies? ;)
+The fee was $5 for registration.  I did give away a few registrations back in the day but no one ever paid to registered it.  It's okay because I make money from my App Store apps these days.  Win some, lose some.
+[deleted]
+why are you so angry   who made you like this
+Looks like /u/cacafuego2 pussed out and deleted his comment after talking smack.   I'm right there with ha!
+I should find the key maker I made for that game (if I still have it) and just give the Internet Archive a registration key.
+Yeah, that's pretty annoying :/  Edit: Being forced to reload the page after you lose is not annoying? Ok then
+That's kinda fucked up.   I hope nobody buys it on accident. 
+Vulkan is coming, rejoice! 
+Ha ha, good one!
+What advice do you have on marketing apps? I wrote a .99 utility app (iOS- estimates your shopping cart total with tax and against budget), but with such low margins, have to be careful with every marketing dollar. 
+I thought he was asking about metal music
+Yeah, this has nothing to do with Mike Trout at all!
+[deleted]
+How easy is it to make an iOS app/game using air?  I know js/Jquery, HTML, CSS, unreal, maya, zbrush,Photoshop, after effects, etc, and actually work at a AAA studio now, just interested in seeing how difficult it would be.
+OP, what are your thoughts on Matt Harvey's return?
+[deleted]
+Oh you had one of those newfangled math co-processors.
+Do people ever buy it at that price anyways?
+There were a lot of ideas in the 1980s and 1990s for which the technology was known to be primitive: 3-D, biofeedback, networking, and social interaction.  Did you have ideas back then which you had to put on the shelf and which you now say "okay I can finally do that old thing now"?  I have a friend for whom that was the case. He was a classically trained museum artist who moved to video games and attempted faux 3D and introspective existential psychology. Publishers told him to come back in 20 years.  https://en.wikipedia.org/wiki/John_O%27Neill_(video_game_designer)
+I don't know, he said not to buy it. He can't tell me what to do. I however don't have 219 dollars. 
+I think he is saying of all apps, Shazam is his favorite.  Of the ones he's made the ones that got to number 1 are his favorites.
+How the fuck do I get to Larisa!?  
+[Me in this thread](http://gfycat.com/UnitedImpureAlaskajingle)
+What Ms-Dos game you spent most time playing?
+How did manage to deal with the copyright situation?
+More dominant because simpletons usually just pick Apple because it's cool
+I am a Web developer with some basic android apps, apple apps and extensive asp.net and Web front end experience. I was once an expert in flash with actionscript 2 and 3. What medium would you recommend for me to get into gaming quickly and profitably? Even if it's a simple game making only $500 a year.
+They have the Unregistered Version, as the game is very keen on telling us (painfully slowly). Would you be willing to provide them with the full registered version?
+Some people do pick apple because it's cool, but those people have never done a line of programming in their lives. I prefer Apple because it has a smaller range of phones meaning no compatibility issues (not really anyway) and a much closer consumer to corporate base, as well as the developer base. I don't think android comes close.
+What books/tools/software/anything/magic potion would you suggest to someone learning android/iOS with only knowledge of python and Java? 
+Why press 'Y' to continue?
+I'm pretty sure they're going with the "It's better to ask for foregiveness than permission." route. If someone asks them to remove a game, they'll likely do so. Otherwise, there's no copyright situation to be dealt with.
+Baseball! 
+Can you still poke 53280? Maybe with a zero?
+[deleted]
+Jason Scott is a hero. I am so glad archive.org hired him.
+You mean chili?
+Maybe some rich redditors from /r/firstworldanarchists 
+Swiss cheese or American?
+I was going to, but now I know my actions will be ridiculed on the internet I won't.  Edit: deleted a silent k   Edit\s: Wow, thanks for the comments
+I hope you see this...  I really like puzzle games and that one looks interesting, but it's not very color blind friendly---your greens and reds are right on my threshold for not being able to tell the difference between them. Usually you can just fix this by making the green paler or something easy like that though.  Thanks!
+Would you consider open sourcing your old enough games, assuming you still had the source somewhere and the publisher had folded/would allow it?
+Hey man fuck what we think you do what you want to.  Done let anyone tell you different. 
+Hey man. I interviewed Jason Scott of archive.org a few years ago on my podcast. Very interesting guy!   Much like you - I started coding on a Commodore 64 when I was a kid. I developed a few small games in BASIC - nothing crazy. Still have my C64! Only recently got back into game development with Unity. Seems to be the way to go at the moment, especially on Steam.   What's your views on the huge array of "Early Access" titles now available. A lot of them seem to rely on the paying customer to test the games for bugs, rather than having stringent in-house testing. In my view, this can often lead to a poor user-experience. Do you think such a model is good or bad for the game industry? 
+What are the chances Alex Mack ever played this game? She was my first crush.
+Do you think it's possible to make good money by getting into writing mobile apps, for an experienced developer?   Or is it more or less luck now unless you're a lone developer?  Do you make more as an independent developer than if you were to get a job? 
+[deleted]
+They should pay for a permanent registration like anyone else. Make sure you demonstrate that the current average price for your games is $219.00. 
+Just make some shit clone pay to play game with tons of microtransactions. If you're just looking to turn a profit that is. Of course, if you don't want to be a huge piece of shit you can try to make an actually decent game as well. 
+That's remarkably similar to how I learned.  Except I was grounded and the terms for being ungrounded was learning VB4 (it was hardly cheap).    I was actually super excited when I got VB5.  Oddly I don't use VB anymore (C# and C++)
+Been bery good to me 
+Would you mind sharing? I'm going to be making chili soon, might as well try something new. 
+Shazam was the first app that truly blew me away. It's one of the first apps I install on every new device and I've probably used it at least once per week for years.
+[deleted]
+They're just different graphics engines. Metal is a fairly recent addition to iOS, so called because it runs 'close to the metal'. The idea is that by offering less overhead, more of the processing power can be used for graphics. I haven't used it myself. API stands for Application Programming Interface, and really it's just a set of rules that tells one program how to interact with another. The API says what kind of queries you can run and tells you what kind of responses to expect back.
+Number of users doesn't mean that there's more money in the market, though - it's about how much money is in it. iPhones don't make up a majority of the market share of smartphones sold, but Apple dwarfs every other smartphone company in terms of profit. If the average iOS user is significantly more willing to spend money on apps than the average Android user, it doesn't make much sense to develop for the platform that's unlikelier to be profitable for you.
+[deleted]
+Sure! I do it in a slow cooker on low for about 8 hrs but you could definitely do it in a pot for much much less time. Brown the meats, chop the veggies (make sure to drain and rinse the beans) and just throw it all together.  - 1 lb ground beef  - 1 lb ground pork  - 1 yellow onion  - 1-2 green bell peppers  - 4 habaneros  - 4 jalapenos  - 3 cloves garlic  - 3 tbsp green onion  - 3 15oz cans of beans (I use light red kidney, dark red kidney, and pinto, gives nice variation in taste and color)  - 1 14.5oz can diced tomatoes  - 1 6oz can tomato paste  - 1 8oz can tomato sauce  - 12oz (1 bottle) of lager  - 1 cup water  - 1/4 cup chili powder  - 1 tbsp ground cumin  - 1 tsp garlic powder  - 1 1/2 tsp ground cayenne pepper  - 1 tbsp salt  - 1 1/2 tsp fresh ground pepper  Makes about 6 quarts (fills my crock pot to the top).  [Finished product.](http://www.imgur.com/gD9kiXa.jpeg)
+I'm thinking the same thing. I know some of those words
+I find the Internet Archive's attitude towards the videogame collection so bizarre. I know they're doing it for the purpose of historical preservation - and that's something to be lauded - but the fact that they house games that are still being sold makes me wonder where they drew this arbitrary line of what's okay and what's not okay to freely distribute.
+He didn't make Shazam.
+Anybody remember the "I Like Money" iOS app from a few years ago? It was like $5999.99 and it was literally just a picture of money. I think a dozen people bought it, half of them intentionally.
+Lazy Game Reviews is a channel on YouTube by a guy who really enjoys PC gaming from the late 80's into the 90's. Lots of DOS reviews on there.  [This] (https://www.youtube.com/watch?v=Wx4Py7-WK7k) is his video discussing the archive and he definitely criticizes the legality of it and doesn't view the archive as 100% positive.
+My whole life has been a lie for the last several seconds
+How do you feel about MUDs? And did you ever code for one and/or play?
+Thank you so much! I'm a big fan of spicy foods and using my slow cooker, so this is perfect. 
+Thank you for giving me information unlike Deletey Comment Magee over here 
+Maybe the archive website should have payed for a key rather than stolen and hosted the game without permission?
+Any time! Scale up or down the habaneros, jalapeos, and cayenne to taste. Oh, and I love to serve it topped with a little cheddar and eat it with Frito's scoops sometimes. 
+Well im more talking about ad revenue. Of course apple users are more willing to spend money. They paid for the damn phone in the first place. Of course they don't care about spending money.
+Yes, I agree?  Edit: They didn't steal it because it was already freely available, but they should've fixed that problem.
+Oddly? After learning C/C++, The only term I gave my employer was that I will never use VB :) You like it?
+Reminds me of a "How to become a millionaire" book priced at $1000 with the only words written in it: "Write a book about how to become a millionaire"
+[deleted]
+People do this on eBay all the time .... if something is just temporarily out of stock, it's a lot easier to just raise the price to something ridiculous &amp; return the price to normal when your stock is in.
+Oh fuck. You just answered an age old mystery of mine. A search of reddit claimed it was for money laundering purposes. 
+Its been long enough to be public domain. They aren't violating anything and the developer just said he's going to try to get them a key because he didn't encounter that.
+I think he missed this post, but somewhere else on the page said he has to find the keygen he made and he'll send it to them.
+What has changed that made companies and clients to only care about graphics rather than story, imersion and gameplay? I remember the first fallouts being so immersive, i bought the new ones and only played the once each.
+They go public domain after 20 years. So even if they are still being sold they didn't really violate any laws, just ethics *maybe.*
+I LOVE this answer.  Can you elaborate on your Adobe Air usage?  What do your projects look like?  Is it all Flex/AS?  What version/s of the framework/s do you use?  Are you a part of any relatively active communities that discuss the sort of work you do?  As a c++, java, and web stack developer who often gets sucked into UI/UX crap-work, I can say that I LONG for the projects I was a part of that leveraged Adobe Flex.  ReactMobile gives me hope, but there really was nothing better than the awesomeness of Action Script w/ Flex.  It really was pretty.  Not even -- it was beautiful.
+also i Am Rich app which displayed some kind of mantra about being rich. that and an icon with a glowing ruby. 
+Ah cool, thanks.
+odd? no, that's good! 
+Steel is the best super hero movie ever made. 
+What is your favourite android game?
+Depends where they're from, the UK is 70 years after the death of the author.
+[deleted]
+Chili and fritos is my favorite food on the planet. My family calls them "frito floats."
+Your punishment was to learn Visual Basic.... You're dad is a monster!
+It's the same rule for the US.
+Where did you get 20 years from?
+Are you aware of the dosgames.com community?  They've been keeping the DOS games scene alive for a while now :)
+I'd volunteer to crack it for fun if the author doesn't care.
+From the past :( I forgot Disney fucked everything up.
+At least nobody has given out a meaningless reddit gold yet. Or the even more meaningless edit to thank them for their meaningless gesture.
+If you can't find it then I'll crack it for you.
+Chili may be the common term, but it actually is chili con carne if it has meat in it.
+&gt; the terms for being ungrounded was learning VB4   That borders on child abuse.
+Phonegap will be your best friend if you don't want to learn objective-c.
+Hi - Sorry to correct you, but MobyGames does not distribute any games, all they do is post screenshots, credits and trivia about them. They also link to official websites and places to purchase the games.
+incoming TIL post
+General interest question for you:  Do you find the alternate color modes in games like battlefield useful?  I wonder why more developers don't do this, if it works that is. 
+/r/blender would be glad to have you. great community. 
+[deleted]
+I haven't played battlefield, but Starcraft II has a color toggle that is supposed to make it easier to see enemy units in team games (turns all friendly units green and all enemy units red apparently), but if I ever have that on I make poor decisions! The default colors have a lot more contrast for me and it's not hard to remember a couple different colors.  I think Halo or CoD had an option to make the usernames/radar colors blue and red instead of red and green.   That stuff always helps!!!
+They didn't even spell-check the stupid mantra.  It was like beating one of those NES games, and the end screen was like CONGRATUTATIONS, YOU HAV BEAT A GOOD GAME ONB THIS DAY.  This was the mantra:  &gt; I am rich  &gt; I deserv [sic] it  &gt; I am good,  &gt; healthy &amp;  &gt; successful  https://en.wikipedia.org/wiki/I_Am_Rich
+Don't you mean "by accident"?  Who says "on accident"????
+I prefer SoundHound; I haven't compared recently, but a few years ago, it would consistently recognize songs where Shazam regularly had trouble. I also preferred the interface.
+[deleted]
+PC soon :D
+Xbox and PS have digital distribution though. Xbox even has common code with Windows (when Windows 10 comes) so you can have integration and crossplay
+[deleted]
+ cross play worked so well last time they tried it. If they don't provide adequate Keyboard and mouse support, it will fail again.
+While we're on the subject of DOS games, where can I play rogue?
+How do you feel about copyright law and how it pertains to software? Let's just say we aren't going to be seeing today's games on the Internet Archive in 20 years.
+Actually he has 16 games on the App Store meaning the average price of his games is $13.69.
+I never thought of that. Thanks for the idea.
+It's not at all difficult (though impossible on Google Play). Funny enough you can only remove it if it's actually ON the app store. So if you made a draft you can't remove it. Yeah, iTunes Connect is shitty...
+[deleted]
+You are a one of your old games?
+Not difficult at all, but Flash is super dated and bloated. I wouldn't recommend using it anymore. Unity is the thing right now for making mobile games and it'll certainly make you far more productive than Flash. Though there are things that Flash can do that Unity can't do very well (and of course vice versa).  There's also OpenFL, which is a bit better than Flash but it still suffers from many of the same problems (like memory management being super complicated due to the GC being a bit shit).
+Shhhh. We need the circlejerk.
+That sounds about right. 
+[deleted]
+Most engines are adding metal support. I know ue4 has it working. I think unity 5 has support for it now.
+Many silly people do. 
+Shazam contracted with a few independent labels to expand their recognition and imho is much better than sound hound now
+You're winner!
+Wait, you can make apps outside of x code?? Any Windows support yet? 
+Can you explain in non-criminating terms how one cracks a key like that? Do you brute force it, or is there software you run ? Do you decompile it and find the algorithm that checks the key? I have many questions.
+[deleted]
+Nah, go head and criminate y'self. 
+Sounds amazing :)  Cooking on Low, presumably?
+I am Ron Burgundy?
+Another colour-blind fella here!  I always try out colour blind modes in games that have them out of interest, and without fail turn them off again after a couple of minutes. It's great they're there, but frankly the few different colours use in game interfaces (say, red and blue) are easily distinguished.
+Did you make the android version as well or is that a port from somebody else?
+VIKING BLACK METAL
+Which subreditts specifically?
+The author has been dead for 70 years?  I don't think you understand how copyright works.
+Yep! I'd probably do no more than 4 hrs on high if you wanted to cook it faster. I'd imagine a pot on the stove maybe an hour or two on med-high. I like the slow cook so all the flavors have plenty of time to marry together. Sometimes if there's not enough spice I also throw in some splashes of cayenne pepper sauce (Frank's).
+Tons of people do. Not saying it's corrects, just that I have heard it many times. Similar to people saying "I could care less" when they mean they "*couldn't* care less".
+Ugh! There's just so many!
+When do we add Scott Tenorman's parents?
+What are your thoughts on Swift? I'm learning web dev now, aiming to move towards iOS, and I'm not sure if I should start with Objective-C and move to Swift, or start with Swift and potentially learn Objective-C later.
+https://www.reddit.com/r/IAmA/comments/2y8bc8/iama_one_of_my_old_msdos_games_was_released_as/cp78r7b
+I do not understand this reference.
+&gt; Its been long enough to be public domain  Actually, no it hasn't
+It's a South Park reference.
+Ewww.... ObjC. Or is it Swift now?
+Don't know how their choice of music is of relevance here. /s
+Annie was hotter.
+A game like this should be rather easy to crack. There is no need to even understand or brute force the key verification algorithm because at the end of the verification the key value (or the key value after some modification from the algorithm) gets compared to some expected value or has to fit certain criteria. The check for that gets implemented using a conditional jump in the assembly code. This looks a little bit like this: If the key is valid don't jump and continue with the code that tells the game that it is a registered copy otherwise skip that part by jumping over it. (Or it could be the other way around and the code being jumped to would be the code that tells the game it is a registered copy). So all one has to do is to replace this conditional jump with some instruction that causes the code to simply never jump and always just continue with the next instruction. There is another trick to this though: because if you were to change the size of the jump instruction that would mean the position of all following instructions would change and thereby affect all jumps to that code which would almost be guaranteed to break your program. Luckily there is a very nice instruction in the x86 instruction set to help us here: NOOP, it's an instruction that does nothing and is just one byte wide and has no parameters. So you can simply replace the jump instruction and each of its parameters with NOOP instructions without changing the position of the following instructions.  You can use tools like [HTE](http://hte.sourceforge.net/) to edit the binary and be able to see the asm instructions alongside the hex values of the binary. (I'm sure it's not the best program to do that, but it was the first one I got working here on linux. IDA seems like a much nicer tool for this job, but the free version didn't support DOS binaries). You can switch to the disassembler mode by pressing F6, and choosing mz/image. Oh and you need to know the hex value of the instructions you want to use, NOOP for example is 90.  I wonder what the jump instruction at 000005ca does...  (Disclaimer: I've never actually done this before and am by no means an expert, so maybe I'm wrong about some details or... well... everything :)
+r/titlegore
+/r/gamedev is a great place to start
+I'm a fan of low-and-slow, too. Think it would work in a cast-iron pot in the oven, too? (real, not modern/laquered) -- Low is about 200F, high is about 300F for most slow-cookers.
+I'm sure it would be fine.
+Whoops, air, I mistook air for edge...the perils of being on reddit while sick .
+ever played legend of the red dragon bbs game or usurper? Loved those games
+This is what I do.  Works great.  Just uncheck all the territories. 
+They should have called it Black Iron Man.
+EDIT: /u/alexanderpas points out below that I misunderstood this exemption.  There is a [DMCA exemption](https://archive.org/about/dmca.php) for software distributed in obsolete forms. The Archive advocated for this exemption.
+Those are just DRM circumvention exemptions, not blanket copyright exemptions.
+Actually, when [less than 2% of your userbase](https://www.google.com/#safe=off&amp;q=Android+Lollipop+adoption+rate) is running your latest operating system, even after months after its release, you have a problem.  This makes the numbers inflated and developers know it, which is why even big companies like Blizzard release Android versions of their software [months after iOS gets them](http://i.imgur.com/l7GxXst.png). It also makes developing and using modern APIs like [Metal](http://blogs.unity3d.com/2014/07/03/metal-a-new-graphics-api-for-ios-8/) impractical.
+The games with no price don't count. 
+Lucky for you ranting about computers is a hobby of mine
+Crazy! Thanks so much for taking the time to explain all that. I've always wondered....  Now would it be more complicated if the developer checked for a licensed version multiple times through out the code? 
+Was this computer by chance a gateway 2000?
+Glad you enjoyed my short introduction. I was curious about this myself a couple of years ago and read some stuff about it, but never found something to apply this to. Then I saw the post about this game, tried it and got immediately annoyed by the copy protection. Combine that with the fact that the game is extremely small and you have a good project to finally try the stuff I read about.  I don't think that checking multiple times would make this much more complicated since in the end you'd just have to apply the same technique again just in a different place.  But if you were to have some online component, you could implement a mechanism that sends the key or a value based on the key to the server for verification, which means you would have to write a key generator. To do that you'd have to reverse engineer the algorithm used to generate keys by looking at the client side code used to verify them. That can be made even more secure by adding additional criteria to a key that only get checked on the server side, which means you'd have no way of figuring them out from the client side code. Or you could try to verify that the binary has not been modified using check sums. This check sum verification would likely end up in a conditional jump instruction though...  There are probably lots of other counter measures along with techniques to work around them, but I since I've never been in the scene, that's all I can think of right now.
+You are absolutely correct. 
+Yes I used to love Legend of the Red Dragon 1 and 2.  I didn't play Usurper as much.  I liked Arrowbridge.
+I personally find Objective-C hellish.
+Sure I give you permission to do that.
+Flex 4.6 and Air 17.0.  I use Github and help people struggling at times in the comment sections. 
+Yes used to love them back in the BBS days.
+Swiss Cheese
+Do all of your comments contribute so much?
+Dune 2
+I would say you would have zero problem.  You would just need to learn the syntax and stuff, but with that experience I cannot see you running into difficulties.
+You asked a question and I gave you an answer. Is that not a contribution?
+Also a colorblind here! Daltonic is the scientific word I believe. However, yes the different colors helped me in BF4. 
+Very cool and very interesting. You know a lot for someone "not in the scene" lol. Thanks for your time! I appreciate it.
+Except that their price is $0 so they do count.
+I write all of my iOS apps on PC.  You will need access to a Mac to send apps to the App Store via XCode or Application Loader.  I use Application Loader.  I use Adobe Air to create my iOS apps.  Famous apps (not mine) such as Angry Birds and SongPop were also written in Adobe Air.  What made me first get into Adobe Air was reading a blog by one of the Angry Birds developers.  The SongPop developers open source their Air Native Extensions so anyone can use them.
+Even if less than 2% use lollipop there is still a huge number of users that have a version that is recent enough that they can use apps.
+Wow I didn't know that, last time I had written one for school it was all xcode or hackintosh. Going to check it out again, thanks! 
+That's only average price if add all of the prices together and divide by one. The actual price is about $11.58
+Well, maybe he did. 
+Pretty much what I planned to do. I'm not making a full blown key gen. I'm going to patch the executable then shoot it to the author.  
+I just got my VM (old version of windows) up and I'm installing the tools on it now. I plan to just patch the executable and verify it's safe via online scanners and links to the results. When it's done I'll shoot you over the exec with a binary patch via bsdiff. You can then also verify the patch and can distribute the patch, the patched executable, both, or whatever you want to do with it.  EDIT:  Okay, I'm a moron. I must have been on autopilot or something, because I thought Windows XP and my normal tools would work. I finally found a copy of Windows 98 SE and softice.   If you just want to play the unregistered game on xp (I run OSX and XP is the only one I've tried it on so far) below is how you can get it to run locally. I'm posting this, because I couldn't even play the game at first and I assume less technical people wouldn't ever get it to run.  -- Start: Getting The Game To Run --  The program was wrote in Pascal and used a buggy version of CRT.ASM which caused a runtime error. The way to fix this is to recompile, but that's not an option so we use PatchCRT.exe to fix the issue. Initially PatchCRT.exe failed which I assumed was due to compression. I ran it against unp and then PatchCRT.exe works.  So to just get the unregistered version to run:  1. Download ftp://archives.thebbs.org/archive_utilities/unp411.zip 2. Download ftp://archives.thebbs.org/patchcrt.zip 3. run svlarisa.exe against unp.exe 4. run the uncompressed svlarisa.exe against patchcrt.exe 5. Play the unregistered game.  -- End: Getting The Game To Run --
+What did you use to develop when you were 8 years old?
+I think you've got it a little backwards here: the version that's being hosted is the unregistered shareware version, which is perfectly fine to redistribute.  That's why the shareware nag screen is coming up.  If they bought a license, they'd be redistributing a registered commercial copy, which would be a copyright violation.  Of course, they've got tons of commercial software up there too, so I'm sure they're not worried about that, anyway.
+How does cracking a game works?

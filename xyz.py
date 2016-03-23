@@ -12,7 +12,7 @@ from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
 from gensim import corpora, models
-from nltk.tokenize import StanfordTokenizer
+# from nltk.tokenize import StanfordTokenizer
 import gensim
 ######################################################################
 # The following strings are components in the regular expression
@@ -203,11 +203,12 @@ p_stemmer = PorterStemmer()
 doc_new_set = []
 doc_test_set = []
 
-path = './data/tech1/*.txt'   
-files = glob.glob(path)  
+path = './data/tech1/*.txt'
+files = glob.glob(path) 
 # print files 
 for name in files[0:35]: # 'file' is a builtin type, 'name' is a less-ambiguous variable name.
     try:
+        # print name
         with open(name) as f: # No need to specify 'r': this is the default.
             doc_new_set.append(f.read())
     except IOError as exc:
@@ -276,7 +277,8 @@ dictionary_test = corpora.Dictionary(texts_test)
 corpus_test = [dictionary_test.doc2bow(text) for text in texts_test]
 
 # generate LDA model
-ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=10, id2word = dictionary, passes=200)
+ldamodel = gensim.models.LdaMulticore(corpus, num_topics=10, id2word = dictionary, passes=200,workers=3)
+# ldamodel.save('lda.model')
 
 #print (corpus[0])
 K = ldamodel.num_topics

@@ -1,0 +1,739 @@
+Users, please be wary of proof. You are welcome to ask for more proof if you find it insufficient.   OP, if you need any help, please message the mods [here](http://www.reddit.com/message/compose?to=%2Fr%2Fiama&amp;subject=&amp;message=).  Thank you!   *[I am a bot](/r/AutoModerator/comments/q11pu/what_is_automoderator/), and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose?to=%2Fr%2FIAmA) if you have any questions or concerns.*
+what is the best IDE for Java and/or C++?  Also why?
+how much free time do MIT  students have?
+What is your favourite programming language that you use for the robotics field?
+How does research go from being discovered at a publicly funded institution to being owned by a private corporation?  How much of artificial intelligence concerns companionship for humans (such as in Her)?
+I have two questions, one far more important than the other, so here goes...  1) How far away are we from robo-assisted "personal care"?     2) Given the chance, would either of you augment (with current and newly developed equipment) yourselves, and if so: to what extent?
+[deleted]
+What is currently the most challenging aspect of developing artificial intelligence?  (i.e. What are the roadblocks to me getting a mechanical slave?)
+Can I get into computer science after a bachelors in non-cs field? 
+How close are we to Skynet or self-aware computers ?
+Why did you decide to study AI? What for?
+So when it comes to progamming a neural net and the trigger threshold (at least that's what I think it's called), can you explain a bit of pseudo-code about how the logic might work for a robot making a decision and how the "neurons" fire?  Say for instance if you wanted a robot to learn what a ball was.  What kind of neurons would be required and how would they interact?
+[deleted]
+[deleted]
+[deleted]
+ARIEL: enough to do an AMA
+Do you know any good free sites that you can use to get your feet wet in programming and actually working with it?
+What the best advice you can give to a senior Computer Science major that's about to graduate?
+Do you think its more important to teach kids today about hardware or software? For example arduinos and breadboards vs javascript and linux.
+what is the best food on campus?
+What do you recommend for a high school looking at getting started with robotics?  I have some money to spend, but obviously limited.
+ I remember reading this article about robot sex becoming a mainstream thing in 2050, according to a few robotics experts:  http://www.digitaljournal.com/article/256430  Do you agree or disagree with this assertion?
+Did any of you have difficulty with computer science? I'm in my senior year and it's killing me. I don't know much about robotics, but I find it fascinating.
+What do you think is the best way to motivate future generations of children to get involved. My nephews, 7&amp;8 respectively, know far more than I did at around that age, when I just used paintbrush on Windows 5.0 and played basic games.   They've got their own iPads and play their games. What do you think I can do to get them more interested in coding and technology? so they don't just become part of that generation that stares at their screen all day pointlessly but actually does something useful with that knowledge.   Also, how viable do you think self-driving, self-operating, technology is?  And if you're Reddittors, what are your favorite subs?
+I hope I don't break any rule by asking this but... I am at a point in my life where I'm thinking if it's worth going to a Computer Science College (and work part-time to be able to pay it) or just start working in the programming industry. I have a passion for technology, computers and programming and I've learned a lot of programming languages and doing some projects out of passion. (It's to the point I'm programming daily for a indefinite period of time [at least an hour tho]) I could easily get a job in my town just because of all this. What would you advise me to do?
+ARIEL: vim
+Will a computer be able to learn from it's mistakes in the future?
+What is a good long term strategy for becoming a boss?
+Have you ever been rickrolled?
+PATRICK: I mostly use C++ for any code that runs on the robot although I use python for plotting and validation code.
+ROSS: Unfortunately quite a ways off.  Robotics are still quite brittle and take a lot of effort to get them to do anything.  Humans in comparison are annoyingly robust.  Skynet is still quite a ways off.  Not to get too technical, but "self-aware" is a fuzzy concept that is hard to define.  For computers, you need to have unfortunately strict definitions, so it is hard to answer until we have such a definition.
+I have had a general interest in engineering and mechatronics and have finally decided to act on it. I'm currently a full time public accountant but am looking to pursue an online engineering masters degree (from NC State). I am currently enrolled in the edx.org MIT 6.00.x python intro class taught by Eric Grimson to begin my studies of programming. I've also purchased a bunch of arduino parts that I plan to tinker with later this summer.   * Would you have any other suggestions for me to help pursue a career in robotics?  * Is python a good way to start or would you suggest a different language.  * Also - do you work with Eric Grimson a lot? He seems like an awesome guy and has a very odd resemblance of Phil Dunphy in my opinion!  Thanks for doing this AMA!
+PATRICK: I use emacs. I'm not sure why. It gets me all mixed up with the keys that every other editor uses. I wouldn't recommend it. But I am completely hooked.
+ARIEL: I use python and C++.  Both languages are well supported in [ROS](http://www.ros.org/) . 
+So why is computer science amazing?
+ARIEL: Whitehead institute has pretty good lunch. 
+By "personal care" I assume you mean jacking you off right?
+Why get into a field where a major breakthrough could actually help evil people enslave mankind (even more than it is now)?
+ROSS: Absolutely!  One of my labmates was a math major, another Electrical Engineering.  I know of another person who is a business major who is learning CS.  The nice thing about CS is there is a lot of places to start learning how to code and a supportive online community.  CS is a different way of thinking so there is a hard learning curve at first.  Once you start thinking in coding, then picking up other languages can be a lot easier.
+The robotics field seems to have a very high cost of entry; hardware is often prohibitively expensive for those starting research and significant understanding is required to evoke simple, reliable behavior using noisy sensors and actuators with limited memory and processing capability.  Are there any robotic platforms or simulation environments that you feel provide the great entry point for new researchers looking to get excited about robotics?
+[deleted]
+This is really cool! I find this topic really interesting. What accomplishments do you think robots/robotics will reach in the next 5, 10, and 20 years?
+How close are you to being able to invent a Terminator?
+Who are going to be the leading robot industries?  Do you think we really realize how much bots are going to change our lives?
+I am currently in CSC 250 at my school and only know Java. What languages would you recommend learning and what would you say the best way to learn them is?  
+PATRICK: There are probably many paths from research to industry but a relatively common one is for one or more researchers from a group to create a private entity which licenses the technology from the academic institution. Infrequently, in my experience, does the private corporation own the research that was created at the academic institution although the private corporation may own technology that it creates separately.  On the companionship question, I don't know too much about that topic. I know that there are some groups that work on human-robot interaction in the space of emotional interaction. There are some groups who work on robots to help people on the autism spectrum. But I am not sure what the percentage of people working on those problems are although I would guess it's not huge.
+ROSS: 1) Well... cop out answer, but it depends.  Fully autonomous health care robots that would fully displace human health care professionals will be decades.  The level of difficulty in that job (and difficulty for robots is deviation) is immense.  Smaller aspects can be automated, but as a whole, a long time. 2) I would love to augment my brain with access to the internet.  When hitting a problem and then taking the time to go and search online for the solution is so inefficient.  If that could be done in thoughts, that would be awesome!  Also, one of my friends is working on a wearable version of Facebook that could remind you when you know someone.  Would avoid those awkward situations when you pretend to know someone.
+Have you ever been to boston dynamics?
+http://en.wikipedia.org/wiki/Editor_war don't you start this up, this is a safe place!
+Not OP here, but RE: your nephews, you should have them try a program like [Scratch](https://scratch.mit.edu/), which aims to make coding more accessible for younger kids. I think it was created by some other folks at MIT.
+What is the best way to get started with Robotics? Which is the best resources to learn robotics considering previous knowledge in programming?
+What do you think the best languages to learn are? For money? For knowledge? Overall?
+How exactly can I prepare to study robotics and hardware engineering in high-school? I'm really interested in the field, and would love to get some knowledge in my brain and experience under my belt before I head to college. 
+PATRICK: This question is pretty general, and most people will have different answers on the topic. I think there are many big problems with developing AI. I think one is representation. It is hard in a general way to think about how to represent a problem or parts of a problem to even begin to think about how to solve it. For example, what are the real differences between a cup and bowl even if humans could easily distinguish them. There is a representation question there for one very specific type of problem. On the other end of the spectrum, how to deal with the huge amount of information that we humans get every moment of every day in the context a robot or computer is also unclear. What do you pay attention to? What do you ignore? How much to your process all the little things that happen? How do you reuse information that you learned later? How do you learn it in the first place?
+What are the funniest or most interesting failures that you've experienced while working with your robots? 
+ROSS: So I started when I was young with Legos.  I loved building things and then later, with Lego Mindstorms, started programming then.  That led into a full obsession with building robots.  When I got to college, I was a MechE, but then realized that most of robotics is in CS.  So I went the more AI route afterward.  To be clear, Robotics and AI are two related, but different things.  Robots are the physical embodiment of computers.  Machine Learning is a separate field that is closer to what most people consider AI.  Robotics has three main components that makes the field different from others: 1. Things have to run in real time. 2. We can move around in the current state of the world. 3. We can change the current state of the world.  Side tangent, but important distinction. :-)
+ARIEL: I learned how to program in my introduction to CS class at UCSC (CMPS5J), which uses [Processing](https://processing.org/). It's easy to install and start writing and running code. It also fits neatly with [arduino](http://www.arduino.cc/) to start building physical projects.     A couple of years ago I learned html/css/java on [codeacademy](http://www.codecademy.com/)  &gt; actually working with it  By the first day you should be able to do the following things: * processing- simple computer animations  * arduino - build a circuit that flashes an led  * codeacademy - boring website with colors and lists   
+worst parts about grad school?
+ROSS: I'm waiting for someone to say gedit. :-P
+How important is electronic princliples to your degree? Was there a class on it, or did you jump right in? What areas of math should one focus on?
+Does anyone among you have the conviction it is time to develop a programming language which is comprised solely of drag &amp; drop graphical elements on touchscreens?
+What's your favorite technological advancement?
+First of all, excellent choice of band shirt - Against Me is great.  Second of all, what's the most exciting thing about your education and opportunities? MIT is one of the greatest schools for this sort of knowledge and learning - what have you been able to do through being at MIT that you wouldn't get elsewhere?  Also, obligatory - what's your favorite part about Boston question. 
+How can I get into programming a robot? Are there any cheap kits online which you could recommend a self taught programmer?
+ROSS: Figure out what you enjoy and want to do. Pursue that.  Once you have that goal, then figure out how to break down the path into sizable and manageable chunks of work.  It is WAY too easy to bite off more than you can chew...  I speak from experience.  :-P
+[deleted]
+SublimeText or get out :D
+PATRICK: I guess it's possible, but if that is where we end up first on this train, I would be surprised. The article that you linked to suggests that people have built robots for all kind of things, and it suggests that those robots work, are deployed, and are now solutions to problems. Those suggestions, which pervade media stories about robotics, are not accurate. We have produced demonstrations of robots that can do certain things, but those sorts of robots that might sound like precursors before we get to "important" sex robots don't exist in any general way yet.  Also, I don't know anyone who is working on it or thinks they should be.
+ROSS: DO IT!  Robotics is awesome and the future!  The best thing to do is to just do stuff.  Whatever stuff is.  You learn a heck of a lot just building and programming robots.  Many high schools have FIRST Robotics teams which are fantastic groups that teach practical experience.  In high school I build a self-leveling autonomous underwater vehicle.  It was a bunch of PVC pipes fit together with a waterproof electronics box and bilge pump motors.  Was super simple, but I learned a lot from doing it. :-)  *sniff* the memories!
+Hi! I'm a first year in computer engineering attending a university in Lund, Sweden!  Could you give me 3 reason to choose robotics when the time comes around? :) 
+Ariel: I learned python in graduate school and use it as my main goto language for my side projects.  The easiest way to learn a language is to have a project that you need to use it with.   Other languages I like: C.
+ARIEL: You have to take graduate courses instead of undergraduate ones :(
+[deleted]
+ARIEL: I love my bluetooth headphones.
+Total layperson here. Will artificial intelligence soon dominate mankind? Why or why not? If so, what form will their rule take?   Thank you for doing this AMA. Unless our new silicone overlords declare you to be heretics, in which case please don't mention me.  Edit: Of course I misspell intelligence the one time I get a reply from an MIT scientist.
+Is it a level of difficulty thing or they just less interesting?
+what should we be doing with robots that we're not doing right now? 
+ARIEL:  1. you can see them 2. they are cool 3. robots  Joking aside, the most compelling aspect of robots is their ability to actively manipulate and change their environement.  
+PATRICK: When I was an undergrad I did a little computer science but mostly worked on the mechanical and electrical systems for robots. It wasn't until after my masters degree did I realize how interested I was in computer science and AI. At first, when I tried to switch fields, I would say the 100% undergraduates in my lab knew way more about the field and computer science than I did. To put it in perspective, the first day I was in my current lab, one of my wonderful mentors taught me how to "cd" in my linux terminal. That was years and years ago, and now I am about to finish a PhD in computer science. But the hill was a very, very hard to climb. It gets easier over time.  If you really like robotics and you are having trouble in some computer science classes, I would start by encouraging you to keep working at it. If at some point you decide that the computer science part of robotics is not for you, you can pursue the mechanical or electrical side. You may also enjoy the development aspect of writing code more than the deep algorithmic thinking on the other end of the computer science spectrum or the opposite.  Some people take longer or shorter to learn certain things. I know I took a really long time to understand most of what I understand now. If it's worth it to you, keep pushing. But keep your goals in mind as you make decisions of what to pursue.
+ROSS: The future is both!  I was in San Francisco last year and one of cofounders from [ANKI](https://anki.com/en) told me something that I found quite profound.  "The execs at Google stay up late at night worrying about what students are talking about in college dorms.  The execs at GE sleep soundly knowing no one is going to make a new jet engine anytime soon."  Yes, you can argue the specifics, but the idea is that hardware offers a lot of security since it takes a lot of effort and time.  There is a lot of people going into CS now.  In the EECS (Electrical Engineering and Computer Science) department, I think nearly 90% of undergrads are in CS.  CS is a growing area, but as we do more and more just CS stuff, the hardware will again become the limiting factor.  The MobileEye cofounder gave a great talk at MIT a few weeks back about how they make hardware that only runs one algorithm, but super fast, energy efficient and cheap.  That seems to be the future!
+ROSS: Will humans be able to learn from their mistakes in the future?
+Hi, i have a bunch of questions.   1. What is the coolest things that you have made a robot do?  2. I want to build a life size robot tiger (building robots always seemed more fun than programming them) * 2.a How do you replicate muscles on robots that mimic animals?   * 2.b If I built it and put it's details on the internet, would you be interested in writing code for it?  * 2.c How long will it take before we have robot tiger pets that act like real pets? (except with less eating of owners) 3. If i wanted to work in the MIT robotics lab but not as a student/researcher, what can I do?   Thank you!  Edit: I have no idea how to format things. 
+ARIEL: start your own company.
+ROSS: Fake it until you make it.
+Thank you for your reply. I'm gonna keep trying and pushing. I only have a year left.
+ROSS: http://magoosh.com/sat/files/2014/10/htcs_img2.gif
+Why is Wednesday the best day for 6.01 office hours?
+How close is mankind to the advent of realistic robot Fuck dolls?  
+Do you have any thoughts on the Julia language?
+PATRICK: No, but I know a number of people that work there and love it.
+ROSS: Because you get to create new things!  Other sciences discover what is already there (more pure sciences), but CS you make new things!
+How's it feel to be smarter than me?
+PATRICK: You mean like the transistor?
+Meatbags just got rekt!
+PATRICK: Yes, actually. I wrote a blog post about it [here](http://bit.ly/IqT6zt).
+PATRICK: Yes, the people who are involved used this conference room before us.
+ROSS: Not as much as the media would suggest... Even popular robots like self driving cars are probably decades out for full autonomy.  I'm looking forward to seeing the future.  Don't want to make any predictions because I'll probably be wrong.  hehee
+@Patrick I didn't realize MIT had sports. Are you any good?
+[A computer will be able to learn from a human's mistakes in the future.](http://i.imgur.com/mKmzcHB.png)
+ROSS: Not me personally, but I've seen and work with people who compete in the DARAP Grand Challenge.  They use the ATLAS robot which is super impressive!  They do great work!
+ROSS: Depends on what age you're at.  I started with Lego Mindstorms when I was younger.  Then ardinos and raspberry pi are great!
+Any interest in creating 3D touchscreen interfaces for your robotics projects? https://hyperplaneinteractive.com/blog/  
+What are your ringtones?
+How far away are you from making a pole-vaulting robot, and do you think humanity is in danger of losing all chance at Olympic gold to non-sentient mechanical beings?
+try atom
+ROSS: A better question is whether we have the conviction to write our theses.  Hehehe....
+do you guys know if you want to work in industry or pursue academia?
+ROSS: So so so far away from skynet.  We fleshies are annoying robust at what we do.  I will probably spend the rest of my career trying to even match the current media hype today.  :-P
+What are the best ways to learn how to code as a high schooler/What is most useful to learn?
+ROSS: Are animals religious? What is a box? What is the meaning of life? Those are easier question to answer.
+PATRICK: I have heard that LEGO mindstorm is awesome for younger people. I think buying an adruino and some simple electronics is a reasonably cheap way to start learning parts of the robotics puzzle. But at some point, you have to ask what kind of robot you are looking to have. If you are looking for a big humanoid robot, getting access to one of those platforms will be hard. But creating a "robot" which can manipulate your world in interesting ways is not impossible or super expensive but may take some to a lot of creativity. In the end, the line of what is a robot is pretty fuzzy.  There are other people trying to come up with accessible ways for people to do robotics. Some researchers in the Distributed Robotics Lab here in CSAIL are working on various things with that aim. One of them you can read about [here](http://newsoffice.mit.edu/2015/can-led-robot-garden-make-coding-more-accessible-0218).
+Which robots are closer to the "state of art" in robotics?  Which are the most powerful trends in robotics now?  What you think about the integration with robotics and big data?
+ROSS: Technology is a key that can open both good and bad doors.
+ROSS: I use C++ with a smattering of Python.
+PATRICK: Mine is the super mario brothers theme.
+As someone just finishing his degree in EECS and prepping for a Master's at MIT, what should I expect out of CSAIL and the Stata Center? I hear there are per capita more robots than people in the building
+ROSS: Humpback whale mating calls.  ;-)
+ARIEL: vibrate
+ROSS: Hang in there! My lowest grade in undergrad was in my AI class.  Bugged me so much I'm now doing my PhD in it.  :-P
+What's the most important topic that many aspiring roboticists overlook in their studies? What classes do you wish you'd pay more attention in?
+TIL the media lies
+Whitehead institute. Sounds delicious.
+&gt;Unfortunately
+How does it feel to have your name sound the same as [ROS](http://www.ros.org/)?
+@Patrick how challenging is MIT now as compared to it's heyday, let's say 2006? I hear the coursework was more intense and the undergrads considerably tougher back then
+PATRICK: I think the most exciting part of an MIT education is the hug number of opportunities ahead of a person. I think there are a lot of great schools out there. So not as to detract from any of them, but I think the MIT education puts graduates in a place where not only they have more opportunities to follow their dreams than they know what to do with but that they have the confidence through experience to believe they will be able to solve the technical problems that come at them in those opportunities.  The best part of Boston is that I've seen Against Me! and Rancid here multiple times.
+Did you look at Scott Aaronson's musings on consciousness from the viewpoint of quantum information theory? If so, what do you think about the general idea?  For readers: Scott Aaronson is another CSAIL researcher, his thesis is that consciousness should at the very least be a non-reversible computation, in a precise sense related to QIT.
+what do you think about Mechatronics engineering? is it has any thing to do with robotics? 
+Are you familiar with any high school robotic competitions, and if so which would you recommend to look into?   I'm working with some friends in the MATE competition this year, but I don't know if there are other good ones to compete in.
+PATRICK: We made it yesterday, and yes.
+That is awesome. Hopefully I can turn it around.
+@Patrick? Any suggestions?
+ROSS: I got started with Legos and building things.  I know of some summer camps that make minecraft mods so students can play change the games they play, and then 3-D print out their minecraft world.  I thought that was awesome!  Most people have the curiosity to think of things they want to do with robots.  The hard part is picking what is easy to break down into manageable chunks.  I gave up Reddit for my new years resolution last year because I was spending too much time here.  I went for all the useless things like /r/funny and /r/pics.  hehe
+[deleted]
+I'm trying to move my career into computer science\software development from more of an IT Ops role and I'm finding that virtually every place is looking for people to do web site development.  What companies\industries\etc. would you advise to check on for more "pure" CS?  Difficulty:  My degree is in Information Technology with emphasis on software engineering, not a CS degree.
+What's the easiest way for someone fresh out of high school to get into your line of work? Should I just start taking computer science classes and learning programming languages and hope for the best?
+I work with industrial robots for automation and manufacturing. What should i be looking for coming out of academia that will improve the capabilities of the machines I work with?
+What's your least favorite part about Boston?
+2006'ers barely got shin splints 
+ROSS: Tell me about it... Super hard.  Easier to start with smaller problems.  I actually don't use a physical robot for my research, but I use a xbox kinect style camera to collect data by hand.  Many research areas of robotics don't need the physical robot.  With that said, Clearpath has some robots that you can use to move around (annoying at times though).  Wish I had a better answer...
+What's a good action video game with an API that allows AI agents? In addition, what's your favorite learning algorithm? Neural Nets have always (for me) performed worse than other algorithms. 
+PATRICK: There are online course information on a number of top universities' websites. MIT has open courseware. FIRST robotics is also a great opportunity available in a lot of areas. I would suggest trying to tinker with some things. If there are no structured opportunities in your area, order a arduino and some leds and start learning the basics. You might get ideas on what to do next by doing that.
+Does being a roboticist and understanding mechanical systems help you coach pole vault? Would you say it gives MIT a technical edge over the colleges it competes against? And in this vein (as a pole vaulter myself), what are your thoughts on the "drive" phase?
+ROSS: Depends entirely on what you want to do.  C++ is a good all-around language for me.
+Hey. I'm currently a mechanical engineering student. I'm interested in pursuing mechatronics later on. Do you guys see mechatronics taking off in the future with all this talk about robotics? Thanks!
+In terms of curriculum, where would you like to see High Schools go in order to better prepare the populace for a world filled with robots?
+PATRICK: I think the at least the most difficult part of grad school is that there is no answer book. Research by definition doesn't have a clear answer or a clear end. Learning how to ask the right questions and give your best answer to them is a very hard process that ultimately is rewarding (I'm almost done) but has lots of frustrations along the way.  But grad school itself, at least for me, is really awesome. Maybe my advisors are too good.
+ROSS: If you have a FIRST robotics team, that is a fantastic way!  I am a huge fan of FIRST!  More generally, just start building and coding on something.  The lessons learned by just doing are invaluable, and probably better than you would learn in a class anyways.
+What do you think about legislation regarding AI and robotics in order to ensure we don't create our own successors? Do you think anything can hold back that tide?
+So I recently got my hands on an Intel Edison board but I can't think of anything to do with it. Where do you get your ideas and where should I start with building robots using it?  For example, I know the Edison has 4 PWM pins on it but I have no idea how to utilize it. There's no way 5V.5A is powering a motor
+I'm fascinated by A.I. What is the current limiting factor for creating a measurably intelligent A.I.? Is it an either or, (a system that learns well but can't problem solve, or a system that problem solves well but can't learn)?
+I'm currently doing my bachelor in CS (us equivalent would be undergrad I guess) and I plan to do artificial intelligence as my specialization module next year, so a super cool AMA to follow, thanks for doing this.  What are your thoughts on doing a PhD in CS? It seems like a huge investment, does it make sense if one is planing to go into the private sector after uni anyways? Also any general advice on uni or stuff you would've done differently in retroperspective?
+What is computer science? In your opinion, what is better about CS than engineering (mech, civil)?
+ROSS: Funniest?  Programming a robot to hug my advisor.  He has seen enough failed robot demos to be sufficiently worried.  hehehehe.  Most interesting? Those maddening bugs that seem to make no sense, but then it all clicks quickly (has to be quick because otherwise it is maddening).  When my robot wasn't working when the window was open, but worked just fine when it was closed. Was so confusing, but window was reflecting light that was blinding the IR camera.
+PATRICK: I think the obvious places we should be using robots if possible are situations that are not great for humans. For example, dangerous rescue operations could be conducted by robots eventually. Really tedious jobs or jobs that cause humans long term injury could be done by robots. Dangerous jobs also fit in that category. I also think that jobs that you can get a human to do but are inaccessible except for wealthier people like having 24 elderly care in the person's own home, etc, are great places to go.
+what are the programs that you frequently use when you deal with robotics? 
+ROSS: All I want for Christmas is a guilt-free holiday where I don't have to think of all the work I should be doing. Research really never ends - there can always be more.
+I am entering into a computer science undergraduate program next fall. What do you suggest I do to prepare? Also what version of Linux should I learn about before starting?
+PATRICK: The more I learn the more I realize that I don't know anything.
+I hear you can learn pretty much anything from youtube videos
+ROSS: I probably will be going the start up route.  Robotics feels where computers were in the 70's.  Exciting times ahead!
+Ariel gets it.
+First! Also, [FIRST!](http://www.usfirst.org/roboticsprograms/frc)
+Heathen.
+How much vision do you guys use in creating plans? I'm planning on doing computer vision for my Master's/PhD and was wondering how big of a field it is in applied robotics. 
+(   )
+PATRICK: I think if you are just starting anything is better than nothing. I would recommend finding a python tutorial and doing a basic project. You can start by going through a step by step tutorial, but I recommend moving on quickly to a project you actually want to do as that will keep your interest. If you like web pages, you could also try web programming.
+What's your take on the recent scare campaign from big names over the dangers of A.I.?  As a follow-up if you agree with them: Is it just because you see A.I. as slave labor or do you believe something of high intellect would want to harm people?
+[deleted]
+I wanted to do sex robotics but NSERC pulled my grant.
+I've only dabbled in coding, but I suppose it's important even if I decide to major in some type of hardware engineering. Thanks for answering my question! 
+ROSS: Funny... we are waiting for industry to improve the capabilities of our robots...  Probably more stuff coming out in Computer Vision in the short timeframe.
+Will Fisto from fallout be a reality soon?
+Dude, are you just asking them to tell you to do what you think you want to do?  Just do it.
+PATRICK: It can be related to things like control theory and signal processing. There are lots of interesting fields that overlap heavily. Strictly, they are not the same thing, but I know a number of people doing cool mechantronics research, some of which are definitely robots.
+Have you heard of Aldebaran Robotics? NAO and/or Pepper? Opinions? 
+Scientific computation: Python  High-performance: C++  Web: Typescript (no, seriously, even the Angular guys are on it now)  Personal growth: Haskell
+Do you have any recommendations on good books/tutorials for robotics and/or AI?   What's the best way to get started?
+ARIEL: I don't think there's any correct advise we can give since there's not a binary answer.  In making your decision keep in mind there's more to college than preparing for a CS job.  You might find you're interested in other fields where you can combine your computer science background. 
+PATRICK: FIRST robotics and Zero robotics are both high school competitions you can look into.
+ROSS: Expect to get lost in Stata.  :-P  http://www.motifake.com/facebookview.php?id=78572  
+Be real. How long until VR and robots have come to the point where we can fuck them?
+How close is your job to Big Hero 6? In all seriousness, what is the day-to-day like?
+I've always been curious, I understand how electricity flows generally, amps and volts and basic stuff, but I have no idea how they translate to making changes on a piece of computer hardware to make a computation, how a transistor works and how it physically changes to met a demand, and how that affects the output of that computation to make a result on my screen. Can you take us through the process, from electron to pixel?
+I know that the school district next to mine has a robotics program, but I've been skeptical about joining due to complications. Maybe I could ask my school board to consider having some type of extracurricular robotics activity. Doubt it would work, I just go to a small school in Iowa, so it wouldn't be a good investment on their part unfortunately. Thanks for answering my question though! I'll certainly be looking into the FIRST program as well as the opencourseware. 
+* What is your favourite pose graph SLAM algorithm? * What do you think of the [Wikipedia article on Monte Carlo localization](https://en.wikipedia.org/wiki/Monte_Carlo_localization)?
+PATRICK: I don't think it's a bad idea to do what you said. I think that at the very least will give you a sense of the field and how much you enjoy it. It will also give you better grounding to decide what direction  that you'd like to pursue. You might find something in your first few classes that tells you what you really want to do.
+How do you feel about Python?
+[deleted]
+Greetings!  I am a high school librarian looking to help our school support robotics and programming.  We have several teams building robots and competing in VEX, but they're doing this on their own time (and with their own money).  I'd love for our school to make this an elective and help defray competition costs.  Question:  Do you know of a curriculum which could serve as the framework for an elective like this?
+[deleted]
+@Patrick  What's poop vaulting at MIT like?
+ROSS: Robotics is still a new-ish field, so there really aren't set paths.  I have spent most of my time being reactive to the knowledge I need rather than proactive.  I can't remember the last time I used code or specific concepts from a class I was in.  Classes are good for broad overview. Python works great!  I'm a C++ user myself, but should probably do more python. I don't work with Eric.
+PATRICK: I think it's a hard but important question. Unfortunately, for all of history, lots of people make technology that is great for mankind but can be easily abused to be dangerous. I think you can try to legislate certain things so that they get out of hand, but in the end, most things are a double edged sword that I'm not sure legislation can dull.
+- how many jobs are robots going to replace?  - What kind of robot would like to make most?  - Will robots acquire the three [well, four actually] laws of robotics?  - What is a benefit of robots most people don't think about enough?  - What is a danger of robots most people ignore?
+what are the fields a roboticist can work in rather than robotics?!
+PATRICK: It would be great to see more high schools have opportunities to continue to explore STEM fields for those that are interested. Offering advanced math, science, and engineering would be great, but not everyone will enjoy these things.
+What's an average MIT student's opinion of smaller engineering schools?  I personally went to SDSM&amp;T, and have always wondered how my school is perceived.  
+no, he means doctors and. so no doctor House M.D. on the television, but doctor bleep-bloop M.D.
+A magnetized needle and a steady hand. 
+ROSS: 1) Make me Mac and Cheese 2) Do it! 3).a Motors are currently the primary actuators for robots.  Some research on muscles, but hard to beat motors. 4).b You generally need to sit down with robots since issues can be hardware or software.  So probably not. 5).c I'll leave that up to you! 6) Depends on your skill set.
+ARIEL: Awesome! Does the school expect prior programming experience?  I would guess not.  To prepare you probably can just work on math.   I don't think the version of linux matters as much as learning to use the terminal effectively. Have fun! College rocks. 
+What's your favorite color?
+ROSS: My labmates love it.  I haven't converted yet though.
+How can I start programming?
+What do you think about the Rapyuta company? I think they use ROS for their cloud-something-controlled robots. So many robotics startups these days :)
+WHERE IS BAYMAX?! 
+PATRICK: Google, Kiva, Boston Dynamics (now google), iRobot, Amazon, etc all have a hand in the robot world on the industry side. Not to mention the many smaller companies who are involved. I'm not sure who will lead as it's unclear what leading means. If we don't all have a unified goal, it's not clear that any one thing is the leader.  I think the change in our lives will be much more gradual than people imagine. I think as changes occur much as changes have occurred with the internet, we will have some time to think about it even if we don't make perfect decisions.
+ROSS: FIRST!!!!!!!!!!!!!
+If you want to learn Python I strongly suggest code academy. 
+Is it possible for students/researchers outside of MIT to visit the lab and just kinda ogle at all the robotics in CSAIL? I have a Master's in Electrical Engineering and I would love to learn more about all of this (my university had no courses in AI at all), but I am not a MIT student. And I feel that it would be a great learning experience to just watch other people work with robots! Sorry if this sounds stupid. 
+Hey, im a teenager who took a course in LEGO mindstorm robot building and programming, and i know and have experience with python, andthing i can do to get on the path to learning robotics?
+ Any thoughts on singularity ?
+ROSS: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6766528
+ARIEL: It depends on the robot platform. In undergrad I used a robot which had propriety software I used.  Currently, I work with the [PR2](https://www.willowgarage.com/pages/pr2/overview) and use [ROS](http://www.ros.org/).    
+[deleted]
+ARIEL: Black
+You're asked to create a robot that can entertain a bunch of drunks at a party. What do you program it to do?
+ROSS: I have the goal of having a robot clean my house.  I then figure out the 100 reasons why it can't and pick one to work on.  :-P  You can use that to power small servo motors.
+ARIEL: It rocks!
+Cochlear implants. Can they be innovated, both hardware and software for consumer use? Different cool uses, not just so we could hear like average hearing person. If so, what can I do to nudge the industry that way?
+Fister Roboto!
+ARIEL: what means date?
+How often do you guys use recursion when programming?
+How far away are we from watching humanoid robots boxing each other on TV?
+ARIEL: dance
+When will I be able to turn into Robocop?  Human bodies are weak. 
+PATRICK: We all know it. It has its uses. And it has times where it's not so useful.
+ARIEL: We get visitors all the time.  Check out the campus tours info: http://web.mit.edu/institute-events/events/tour.html 
+Did you guys do any undergraduate project and do you have any advice for someone who wants to go to grad school for computer science?   
+ARIEL: Build a personal website!
+I honestly don't know what I was expecting with this question.
+ROSS: ISAM!!!!!!  Shameless plug of Prof. Michael Kaess.  :-P.  In reality though, it is extremely good and efficient for real-time incremental pose graph optimization. Dellaert's Lab has GTSAM which is probably the "easiest" codebase to get working.  I like the wiki page.  Particle filter methods are a bit old now and pose graphs are what are most used these days. 
+My CSAIL shirt is too big. Can I get a smaller one?
+How did guys decide whether to go to industry vs academia after your undergrad?  Also any general tips for an aspiring PhD student who is currently doing their undergrad?
+I think that already exists
+ROSS: A lot better now that robots are cool.  Brutal in high school way back when.
+Patrick, would you consider making a pole vaulting robot?
+ROSS: I hate it when people say robots replace jobs.  They displace jobs.  A tractor displaced 100 ditch diggers a century ago.  Robots are good at repetitive jobs, while humans get bored.  The job market is going to change, but robotics moves slowly and I have full confidence in our ability to outrun the snail that is robotics research.  :-P
+AS someone trying to get into computer science, what language do you think best/recommend to start with? 
+PATRICK: I think unfortunately getting interviews can be hard if you don't have the thing on your resume they are gonna want. I think there are lots of non web site development jobs. Lots of start-ups, for example, need people to write software for the actual things they are building and not just for the websites. But start-up or not, they are going to require a certain set of skills to considering you over someone. It sounds like you have knowledge of the area. You could try to look or try to subscribe to job postings for software developers and look at companies which are not web or app companies. There are lots out there. If that doesn't pan out, maybe there is a way to get a faster than 4 year college accreditation in computer science or software development that will help you get your foot in the door. I've seen some programs around. 
+ROSS: So many!  The skills used are applicable all over the place.  On of my friends works at a hedge fund that specifically recruits robotics people.  One of the lead technical people at the beginning of the Oculus Rift was a famous roboticist from UIUC.  Since the field is so interdisciplinary, the possibilities are great!
+First time anyone has responded to an AMA question of mine thank you! And yeah, the law of unforeseen consequences will be a real bitch in regards to this question. I know there has been and is currently a big push in the pentagon and defense industries to "keep a human in the loop" with drone tech, but I would be shocked if completely autonomous bots and drones hadn't already been tested and perhaps used in the field. Awesome bomb EOD robot that can clear an entire highway of IEDs sounds awesome. Incredibly frightening self thinking and firing death from the sky machine? Not so awesome. I don't know how we as a species are going to fare with this challenge. 
+ROSS: We are all students.
+Do you think that robots (e.g. self-driving cars) could start replacing low skilled laborers soon? (In enough numbers that it could be a problem)  Do you think that one of the reasons why it is hard to get into programming is the nature of some modern computer languages? Java is seen by some as too bureaucratic, C++ too low level. Maybe script languages can help, especially now that JavaScript is very fast?
+&gt; In your opinion, what is better about CS than engineering (mech, civil)?  ARIEL: I think there are great things about all engineering fields, but here are a few reasons CS stands out to me.  First, it's fast to build, break, and re-build things. On a more practical side, it's low cost and has low barriers to entry.  You don't need a formal education to write a program.  It's easy to distribute your code to other people to replicate and build off of.   
+Just out of curiosity - what kind of problems do you see with it? Just wondering if the reasons you can think of are ones we wouldn't even think of.
+PATRICK: I don't know much about video games besides golden eye for N64. But in terms of learning, I'd say that the right algorithm is problem dependent. Neural nets seems to be useful these days in the "big data" realm. I have seen them not work well in other contexts. Any algorithm will have strength and weaknesses, and which one to choose will likely come down to performance on your problem.
+ROSS: Depends what I had for breakfast.  Today, fuchsia.
+Do you think AI is something dangerous to humanity? Big names in tech always say its a bad idea, but I'm not convinced that AI would necessarily become a threat to, or see humans as a threat (why does everything I see depict them as malevolent, when they could be benevolent?). 
+ROSS: Start with "Hello World"
+FIRST. At high school level, probably FRC. http://www.usfirst.org/
+ROSS: In a movie.
+PATRICK: I think that we will always need mechanical engineerings. The same might be true for mechatronics people or roboticists. It's hard to predict the future, but the skill set involved in all of those areas are certainly useful likely for the foreseeable future.
+PATRICK: Yeah, don't invert matrices.
+ROSS: Keep doing what you're doing.  Try and find some project to work on with others!  It is a lot of fun.
+Hey guys, I'm 15 and very interested in majoring in Computer sciences in a few years. I'm not sure exactly what for yet, but what should I know (languages, etc.) to start out strong in college? I'm learning Java and will be taking a computer science course at my high school.
+ROSS: Well played my friend
+PATRICK: Have you tried finding a FIRST robotics or Zero Robotics team in your area? You could also try to talk to professors at a local college to see what kind of research they are doing. Sometimes if you talk to the right person, you might get your foot in the door in a lab where you can start working on things.
+ROSS: Occasionally 
+PATRICK: I know that MIT and CSAIL have tours. I'm sure you could explore the area on a tour. I'm not sure if opportunities exist out there to "shadow" a researcher.
+ARIEL: keep in mind, ROSS was homeschooled. 
+PATRICK: Check out a number of other questions on this topic in the thread. I'd suggest finding an online python tutorial and going at it.
+ROSS: I totally read that as shipping themselves in boxes.  :-P   I think I heard battlebots is coming back!
+PATRICK: Black
+gedit!  But no really, for learning I've always used something like IntelliJ or Eclipse.
+ROSS: Robots are weaker overall...  Don't underestimate how robust your body is.
+Currently i'm a undergraduate physics student, with about 4 years of coding experience. Doing some hardware on the side as well. Assuming one was to combine these aspects with physics, do you think a physics background would go well in the field of robotics? Specifically which parts?
+Were any of you ever part of FIRST? 
+PATRICK: I've seen them go into medical device design, data analytics, computer vision systems, signal processing, machine design, etc etc etc. Robotics is a multidisciplinary field that means that you can likely do lots and lots of other things.
+Many upvotes for you, sir.
+I had to write a rudimentary implementation of this 30 years ago to make it possible for computers to be put to use in restaurants.  I dubbed it point of sale software and it became a requirement in hospitality operations.  Giving users the power to develop graphical applications for themselves so that they don't have to rely upon programmers proved to be a very good idea.  I'm looking for something similar to happen at a lower level than the applications themselves.
+ROSS: I did too many undergrad projects.  Lost a lot of sleep.  Robots are just so cool!  Remember that robotics is hard.  Break things into manageable chunks.  It is easy to think something humans do on a daily basis without thinking can be easy, when it is extremely difficult to program.
+ROSS: Have Ariel wash it for you.  :-P
+Tips into being atmitted at MIT pleaaase! I want to be in that school so much, but seeing that only 7% of applicants are admitted, i kind of get discouraged
+i'm an undergraduate robotics engineering student, what should i do to gain some hands-on experience in myfield? what are the places where i can take an internships?
+PATRICK: I don't know of any off the top of my head. You could check out a lot of open courseware or EdX courses that are related to robots. I'm not certain how useful that would be. I also don't know what support FIRST or Zero robotics has in terms of teaching people the skills they need to compete.
+How do you pronounce Roboticists?
+Nah, shit's fucked. Knees hurt. Back hurts. Eyes are bad. 
+Do you think programming should be a required course in all American schools? Do you believe everyone can be benefited by knowing programming skills?
+Can you explain with examples the difference in AI when the program is embodied in a robot vs. not?    My understanding is that without a physical body, the bot isn't able to comprehend the physical world due to the frame problem.    Do different types of bots experience the world differently?    Does it make learning easier? Or simply possible?   
+PATRICK: I think a great thing to do is check out the MIT opencourse ware on the courses 6.002 and 6.004. There is a lot of great information there. After I took those courses, it was clear to me (for a while) how you go from basic electrical components to computer (although doing so would have been super hard).
+Have you seen 'Ex Machina'?  What are your view points on media's portrayal of AI?   Do you think the negative terminator aspect of AI has limited funding or negatively impacted the progress within the field?   If you could pick one area of robotics that doesn't have the exposure you wish it did what would it be? (Technical answer here is fine, don't layman it too much). 
+ARIEL: I enjoyed doing undergraduate research and being a TA at UCSC.  Continuing on to graduate school was the most natural choice for me.   I recommend getting involved with research at your undergrad and see what happens from there.
+Damn, I asked a similar question. I'm curious too :) 
+Can I join you on your weekend trips to Vegas to count cards?
+ROSS: Robots were primarily in academia (at least the ones I wanted to work on), so it was an easy choice for me.  Make sure you enjoy the work.  Many people do PhDs for the sake of it, and then it is 5+ years of misery.  I really enjoy it!
+[deleted]
+How often have you been in this situation? http://imgur.com/Nowri4w
+ARIEL: required? no.  beneficial? definitiely. 
+PATRICK: I would say the part of the older brother trying and trying to get the system to work and continuing to struggle is accurate. I think that is the process of research. But in my experience, having a fully functioning system is always hard.
+PATRICK: I've suggested on other replies that finding a python tutorial online and trying it out is a decent way to get started.
+Can robots really beat the us soccer team by 2020?
+I really want to learn a thing or two about robotics, and hopefully eventually make my own little robot that can scoot around on wheels and talk with me. I know a thing or two about computer programming (in Objective C, Java, and just started using Swift, I can learn other languages if need be), and about electronics (I took a class this semester on electronics), but I am not an engineering major, I am a chemistry major...  My question is (and I'm serious): how hard is it to pull off something like this? Can I learn how to do it myself through resources on the internet or do I need an extensive knowledge of electronics...  Could I salvage pieces off of already-made devices and assemble them into one slightly-bigger robot? I really have been wanting to do this lately, and my first step was going to be creating a program that can carry out conversations and has emotions, etc. but it would be text-based (you talk to it by inputting text instead of voice).  What do you guys think??
+Do you have something that folds your clothes for you? If so, can I invest? I've only made adaptive robots in my time. Not even good ones. I just don't have the circuitry required.
+So... I am a Control's Engineer. When I was tuning a PID controller a while back my thesis adviser told me that roboticists love the D... is this true... and can you help me tune mine?
+[deleted]
+ARIEL: I think everyone in engineering could benefit with improved technicial writing skills. 
+Do you think it's likely we will have computers with human or near-human intelligence in the next 30-50 years?  And if (or when!) this happens do you imagine humans will quickly become obsolete at almost all jobs? I mean why have humans do it when computers are just as good (and soon will become even better)?
+ROSS: Actually, I walked into lab my first week at MIT and someone said "ROS sucks!".  It was an awkward first meeting.  :-P  I have de-ROSed my computer (took a fresh install of Linux).  Life is much better now.  :-)
+What did you guys do in highschool?
+PATRICK: I think people often listen to rich and/or successful people regardless of their knowledge. I think that AI is so far from where people pretend it is now that the things that people should be afraid of they don't even think about. I think the most worrisome parts of AI at the moment is how sites like Facebook can learn preferences and predict people's choices using simple "AI" algorithms with all the free info people give them.  I don't think we are anywhere near skynet type AI.
+I do robotics (animatronics) as a pass time. I have no formal training in the subject and it's mostly for fun. I basically only use small servos and an arduino or two. I've found this is pretty limiting, s'ecially when it comes to things that are a little heavy.  What do you guys use for motion? Power source? What do you think about small servos and are there more powerful things out there? And, for my own curiosity, did you ever encounter a problem that gave you a lot of frustration and wasted time only to find out it had a really simple solution?
+rekt
+No ocw or mitx? ...
+ARIEL: imposter syndrome at MIT
+[Reference.](https://xkcd.com/378/)
+PATRICK: Computer vision is a huge, important problem in robotics. Human vision is incredibly good. If machine vision was that good, we could do all kinds of stuff.
+Hear that. It comes off as a blowoff class like English 1 but no, you're going to need to know how to tell people how to use your product or it's never going to sell. I work at a small software company with a lot of potential and the lack of accurate and readable documentation is one of the major things holding us back.
+ARIEL: microcontrollers is where it's at
+that is a really unfair answer. academics have access to capable hardware platforms that have many sensors that are underutilized. Surely, there's hardware advances to be made, but there's also a lot of untapped potential in existing platforms. 
+I've coded solely java for about 4 years and only played around with things like C++, python, ruby etc and am looking to pursue a degree is something along the lines of software development. Do you think AI and robotics would be something that could interest me, asking mostly are they similar enough that I could share interests and also what advice could you give towards pursuing a career in this?
+ROSS: I'm not worried. https://what-if.xkcd.com/5/
+ARIEL: SO GOOD
+I'm looking to get into prosthetic design and manufacturing, I just completed my associate's degree at my community college, and now I'm trying to transfer.  I don't think I can get into MIT, what was your second/third/10th choice of schools for robotics?
+what are the background fields that i should learn more and dive in to work in the field of robotics?
+Whats the best advice you can give someone who wants to have a job in computer sciences or robotics? 
+ARIEL: work hard and remember to apply
+so in an earlier AMA with Bill Gates he said one of the things in the future he was interested in was robotics, my dad currently works in robotics design but hasn't explained really what lead him there, he is a tad eccentric so that is my first thought but really do you think robotics is the next big thing. And btw good luck with all of the work you do?
+Ross, how was 15-112? 
+PATRICK: It's really hard to say. I think one thing is that "cool," flashy demos are general not approaches that are generalizable to different environments. So we might make lots of progress in those time spans. But it might be hard to tell if you aren't deep in it.
+ROSS: Don't believe what the media says.  They have a long way to go.  Just as tractors displaced ditch diggers, robots will eventually displace current workers.  The question is whether humans can adapt faster than robotics, which as someone in the field, I'm not concerned at all.
+ARIEL: I'm not sure what's going on there
+Thanks for the reply! One more thing: what would you reccommend for a teen to do if they were interested in this field, to 'get a head start'?
+ARIEL: No.
+PATRICK: I'm not sure I understand the question. Electrical engineering is very important to building robots but not so much to programming them. Calculus, differential equations, and linear algebra are important areas.
+vim is not an IDE...
+ROSS: MIT is not the make or break place.  Plenty of other good schools or paths outside of college.  My little brother is a high school drop out and makes me look like the idiot. http://www.reddit.com/r/Entrepreneur/comments/25u81a/im_15_and_i_have_20_people_working_for_me_all/  
+Do PhD students have extensive research backgrounds before entering the program? Are there any with none?
+Should I study computer science?   If I want to study *something* computer related, what should I study that will land me a job? Computer science/engineering/programming, robotics?   Do you think the job market is too saturated or will be in the next ten years?   In your opinion, what technology/field has a lot of potential?  Sorry for the load of questions. Thank you for the AMA!
+What do you see as the most disruptive technology or technique that will be implemented in the next 5 to 10 years?
+I'm doing my MSc in CS, I am thinking of doing the following research paper for my summer project "Can you kill a machine?" I understand it gravitates more to the philosophy of AI, but, What do you think? Any ideas? Still just an early idea, others to fall back on but not as exciting or interesting. 
+PATRICK: I think that getting a PhD can be important if you plan to go into academics or industry. I am happy that I did mine. I wanted to understand things that I wouldn't get a chance to learn in an industry job which is often constrained by having to make money. I wanted to learn how to do and do research. And that is a very different skill than building a system or convincing someone to buy it. Getting a PhD is an investment into something that is distinctly different than getting a job after undergrad. Ask more people about it and see if it aligns with your goals.
+[deleted]
+Hey there, I'm currently doing Comp Sci at uni in the UK and am currently learning Java. My question is, how difficult is it to switch between several languages once you've learned one such as Java? (as I'm thinking of learning C or C++ over the summer)
+I do programming and all that jazz. I've been thinking of getting into robotics and have a general understanding of electronics. Were should I start? What tools should I have in my utility belt? Can I work with you!?
+You guys have room for someone who studies human computer interaction? I would love to make my graduate semesters at a place like this.
+So what *is* the ultimate answer to programming, academia, and anything?
+Technological singularity... when ? (your opinion)  http://en.wikipedia.org/wiki/Technological_singularity  what do you think about this ?  *Steve Wozniak on AI: Will we be pets or mere ants to be squashed our robot overlords?*  http://www.computerworld.com/article/2901679/steve-wozniak-on-ai-will-we-be-pets-or-mere-ants-to-be-squashed-our-robot-overlords.html    
+Can you make a genetic algorithm that is designed to find primes numbers really fast?
+Preferred rotational method? (Euler, Quaternion, Transformation Matrices, Axis Angle, whatever else that I might not know)
+What is a good board or kit to start experimenting with 3D? All boards I could find were either too expensive, or support only one camera, or support two but can't synchronize them. Is there anything reasonably priced with reasonable resolution (say 1920x1080 24p) that supports two synced cameras? 
+&gt; The question is whether humans can adapt faster than robotics  Can they? I am sure that it is no problem to you or me, but I doubt that people working blue-collar jobs can simply all go to college. What worries me is that "robot revolution" just won't be nearly as labor intensive as industrial revolution was.  Thanks for answering me, anyway.
+If you guys manage to create good enough robots, it will lead to unemployment, war, inequality and social strife. Did you ever ask yourself if you should build better robots?
+A lot of people would kill to even audit graduate courses at MIT (most given by leaders in the field about things not even in textbooks yet). I don't know how anyone could think this is the 'worst' part about grad school...
+[deleted]
+I've heard this mentioned as the 3 D's : dull,  dirty and dangerous.     I'm interested in rescue operations,  I've always wondered how they keep communication with the robot in a rescue situation,  do they wait for the robot to come back (if autonomous)  or they keep a constant line of communication somehow? 
+How can i be like you oneday? what are your story? how you reached what are you today?
+Y'all just left, but I'll post my question anyway in a hope that you might see it.  Did you watch mecha anime at all as a child and if so, has that inspired your work as a robotist in any way?  I literally just had this essay prompt in my elective anime course and would love to know if it applies to the US as well as Japan.  
+Sorry I'm late. I am a sophomore in high school and MIT is my dream school. Do you have any advice for me to give myself the best chance?
+That's the joke :) It's an expression of the "real programmers don't need X" meme.
+I'm looking to start a robotics course in university soon any tips that may prepare me?
+Waiting for industry to improve capabilities? Uh... Isn't it exactly the opposite? The current capabilities used in industry came from research. This is true about all technology...
+Fake it until you become it. 
+Like others have said, check out FIRST Robotics. If your school doesn't have a team, look for area high schools that do. 9 times out of 10, they'll let you join.  There are 2 high school levels, FTC and FRC. FTC stands for FIRST Tech Challenge and features smaller robots (18"x18"x18") and is a much cheaper team to run. FRC stands for FIRST Robotics Challenge and features much bigger robots (up to 120lbs and can be 6' tall or more).  Also, if you watch videos of this year's FRC game, you'll be disappointed. Watch almost any other year to get a much better idea of what the games are normally like.
+Once you get it, you feel like a wizard
+What do I need to do to even have a chance of getting into Grad school (probably just a Masters program) at MIT? What helped you? I'm not currently at any big name University, do I even stand a chance?
+FIRST is the big name, but if you have a limited budget, you can also do VEX Robotics.
+[deleted]
+You didn't learn Java on Codecademy, you learned JavaScript.
+I'm a graphic designer, a few years back being able to do things for web like flash ads or dream weaver were all the rage and in demand, now it has switched to engineers, UX/UI design. The web phase lasted about ten years, how long do you think the fire for engineering will last? (Or perhaps what will it evolve into as things/products change)
+I want to be a robotic engineer like you guys, What are the 10 most important things to learn to prepare myself for this career choice? 
+:( I like Gedit You have plenty of great plugins that make it quite good. 
+[deleted]
+.vimrc or GTFO
+half-life 3 confirmed?
+So how close are we really to getting artificial intelligence? 
+Do you think society as a whole will embrace the notion of replacing humans with robots, particularly in jobs that involve human interaction, such as health care?  Obviously, all anyone who runs a hospital or clinic wants to do is save money, and robots could help with that. But how do you think customers or patients will feel about this?  Is it really all just a matter of whether or not the technology exists?
+I know that, but i just really want to get into mit and its my life goal and dream, but i just think its impossible, how did you get admitted and how can i have a higher chance of being admitted is what i was asking Thanks a lot in advance, i reaaaally want to study there
+I work on many industrial robots, Fanuc, ABB, Motoman, etc.  Do you see any of these manufacturers making a home model anytime soon?  Also, can you please hire me to work for you?
+isn't that what engineering is?
+TIL General electric makes jet engines
+As a person who is headed there next year: Don't force it. Don't do things to look good on applications. Do things that interest YOU. If you do what you love, and you are truly a fit for MIT, they'll let you in. 
+I read this comment and started googling for "PATRICK lang". Guess I know now why I didn't get into MIT.
+What's it like being a robot? Do you get sad that you can't feel emotions? 
+Has the Raspberry Pi had any impact on your professional development and if so, at what point in your career did it do so and what are your impressions on it's use and accessibility for students and hobbyists in your field?  
+As a high school student with aspirations to go to this prestigious college, what would you recommend doing to get in and what we're your high school resumes like when you applied for MIT?  Edit: specifically for Patrick, as I did not read that only one of you did undergrad at MIT. Thanks! 
+[deleted]
+[deleted]
+That sounds much more exciting! But my brain doesn't compute this way. I find all of the sciences interesting but I can't seem to understand things past the intermediate level at best. So I guess my point is that I won't get to feel like a wizard and it makes me a little sad.
+[deleted]
+I got kicked out of a restaurant once for...enjoying...a sound bite of humpback whale mating calls. I demand acceptance into MIT. My high school GPA was below 2.5 but I got straight A's in elementary school so I'm good, right?
+Can I email you my Python project codes for input so I can get an A in my computer programming course? Thanks :)
+General Electric makes everything.
+I'm a freshman in CS and I would love to get into robotics/electronics for fun in my spare time. What would you recommend as a good, relatively simple first project that combines programming with the mechanical side of robotics? Something preferably not too complicated or expensive... Thanks for the AMA!
+[deleted]
+[deleted]
+When will we see war robots?
+Oh my god give me that tech! I'm so tired of forgetting peoples names.
+[deleted]
+Will you laugh at my jokes?
+[deleted]
+I'm thinking of buying a roomba, thoughts?    Additionally, do you guys foresee home robotics taking off soon?  I would love a lawn mowing robot or even better versions of my already existing clothes washing robots. I would like them to fold and hang as well.   Will there be robots that can dust?  Can they move around picture frames and get the bunnies under a piece of shitty furniture you dont even want but pledge every weekend anyway?  Robots are neat. I wish they were more common in the home. 
+Have you heard of raspberry pie? I just received one from my wife but have yet to play around with it. Just curious what you think of them.
+I can't run this on my laptop smoothly, I'm serious. Atom just is incredibly sluggish
+Ok, can you describe the thought processes involved with coding, because to me it seems obsurdly linear and like, as someone who wants to study game design and someone who is on the school robotics team, I recognize the importance of coding as a thing but despite understanding all the language and the commands I can't wrap my head around the mindset. I guess. does that make sense? I hope that makes sense
+Creamy and delicious.
+such a white thing to do
+As an MIT student: it depends. Take four classes a semester and nothing else, you'll more or less be fine. Take five classes, four hard classes, or an extracurricular or two and it's easy to get wrecked. Also, MIT is much more hard than it is time-consuming. In my experience, homework hasn't been "I had to work for twelve hours on this one problem set." It's more often "I looked at the first question on this problem set and I literally have no idea what to do."
+[Actually, Baymax is (or will soon be) at Carnegie Mellon University](http://www.cs.cmu.edu/~cga/bighero6/).
+When I started grad school I used gedit, now it is Qt Creator or nothing.
+[deleted]
+What resources do you guys have in the way of materials and fabrication? I studied CE so I'm comfortably nestled between hardware and software, but most of my projects suffer from lack of raw materials and/or tools to work with them.  
+Call me old-fashioned but I really don't like GUI-based programming languages that basically do all the GUI programming for you. I feel you don't get a fundamental understanding of everything involved. A few lines of code and you can impress your friends but I don't feel like you've actually learned anything. I personally would recommend Python as you can do a lot of cool things and move up and down the "abstraction tree" as you wish.  In terms of robotics, I would highly recommend C or C++, but if you don't feel like you're ready for that level of "advanced" programming, Node.JS or Python would probably be a good choice as well.
+You've got a case of erektile dysfunction. Learn your reddit better!
+No. Engineering is the study and application of attending meetings and safety briefings.
+Can you explain the difference? I've always been confused on this matter. They're related, right?
+What would you say to my physicist friends who claim that computer science is no science but a subset of mathematics at best?
+[deleted]
+[deleted]
+What are a few things you do daily to keep abreast of the latest in the tech world? How to you keep your skills sharp?
+I await your glorious ruling Sergei Bubkatron 9000 and Renaudilus Lavillenie XJ7.
+[Skynet](http://www.skynet-solutions.net/) is alive in Oklahoma.
+Do you guys use [ROS](http://wiki.ros.org)? If not, why not?
+As a EE who also knows software, [yessss](http://www.reactiongifs.us/wp-content/uploads/2013/10/yes_napoleon_dynamite.gif).
++1 for Lego mindstorms; it's how I got into computers and programming. 
+What programming languages do you think are worth learning/the most important to learn? I already know a bit of C from first year engineering, but unless I take an extra course my discipline doesn't offer more programming and I quite liked it. 
+How would you go about making a robot that does a perfectly random shuffle on a deck of 52 playing cards?
+Nano Masterrace  ^^^Don't ^^^kill ^^^me, ^^^I ^^^actually ^^^use ^^^vim.
+Basically a neuron is a vector of scaling constants.  You take your inputs, scale them with your vector of constants, and add all the results together to get an output.  It's really just matrix multiplication.  Your input is a single column vector and each neuron is a row vector in a matrix.  Lets look at at a single neuron that can tell an apple from an orange.  For a very simple example, we set up a camera aimed at a table and each pixel is an input to a single neuron.  Lets say that a positive output indicates an apple and negative indicates an orange.  To teach the neuron how to do this, we show the neuron lots of different apples and oranges.  In the teach mode, we adjust the scaling constants for each sample to make the output more like what we want.  There are lots of different algorithms for adjusting the constants, but a popular one is [backprop](http://en.wikipedia.org/wiki/Backpropagation).  Once you're done training the neuron, then you no longer adjust the constants when you're in operational mode.  You should be able to show it an apple or orange sample that it's never seen and can correctly identify it.  If you show it something else, a peach for example, the output is basically meaningless because you never trained it to detect a peach.  The more output choices you want, the more neurons you will need.  Not exactly pseudo-code, but more of just a wordy explanation of the process.  Also, I may have left out some minor details.
+A few years ago I saw a spectacular keynote presentation on Hierarchal Temporal Modelling of AI by Jeff Hawkins at RSA 2008.  Link: https://www.youtube.com/watch?v=oozFn2d45tg  I was super excited about this AI, and it really felt like we were cracking the barrier of making machines actually learn like humans.   We've seen a lot of improvements, but we still don't have an AI that can hold a conversation as well as a 6-year old.   What gives? 
+I am just beginning a doctoral program in deep learning. For neural networks or machine learning in general, I'd love to keep a list of emerging technologies to gain inspiration and see the field develop.   How can I keep tabs on what's new in robotics? What are the major problems being worked on?
+Go to college. People will tell you that it is possible to make it without a degree, but it really just makes everything easier to have the degree (and the knowledge that comes with it of course). Unless your only college options are insanely expensive, I highly recommend getting a 4-year degree.
+Do MIT Robotics students have as much sex as Reddit assumes they do? (I.e between once a year and once every five years)
+How do you get excited about programming and computer science?   I personally have tried to learn to code but quit because it was boring me to tears.  Although technology can obviously provides good outcomes, do you think technology can be just as harmful as it is good?
+Try utilizing a mind palace.
+Looks like I should have checked myself before I rekt myself.  I'll show myself out.
+Companies that have their own in house R&amp;D departments drive advancement as well.
+&amp;#3232;_&amp;#3232;
+Starting computer science next year.... Should I purchase a Mac or a PC?
+I want to get into robotics, I've always liked them, but never really got into building them. I was recently looking into starting but I'm not too sure where the best place to start is. Do you have any recommendations?      Also I know AI right now is still working it's way towards a viable peak, do you think that would be the best aspect to get into for robotics; as opposed to hardware aspect for example. 
+[deleted]
+Any advice for an international student hoping to go to MIT?
+so just b urself. wow good advise
+Why do you think that MIT is better than Carnegie Mellon?
+[deleted]
+What was your first large programming project that you even completed? I'm in high school right now and looking for inspiration. 
+LCM or ROS?
+is vim taught over at MIT or are students just expected/encouraged to pick it up on their own time?
+Hi, thanks for the AMA. I'm an undergrad EE and I am interested in doing neuroprosthetics but I know nothing about robotics. I ordered an Arduino and I plan on playing with it but what subjects or fields do you think I should be familiar with if I want to stick a robot onto a human body? Also any advice would be nice.
+That Facebook thing seems like a likely app for Hololens.
+[deleted]
+huh, any particular reason why ROS is no good? I was thinking of looking into it myself.
+What age were you when you started getting interested in robotics and programming and how did you get interested?
+The pie is definitely and good device to learn how to program on. Install raspbian on it and it will already have some things for you to get started with.
+I do something similar, I imagine a council of monks living in my asshole that keep leather bound records of everything
+[deleted]
+Considering MIT isn't a member of the Ivy League I don't believe they can answer this.
+Sounds a lot like OOP.  A lot of small modules and functions that each do one thing.
+Ha ha, the most important answer that no one wants to hear. :)
+At what age did you first learn programming?  What language did you first learn?  Did you have any interesting projects that you worked on when you were younger that motivated you to enter the field?
+If you aren't taking AP classes at that point, sorry try again in the next life....or atleast get a 4.0 in undergrad and go for graduate school in MIT if they do that.  Thats how a guy I know got into Harvard
+Train Locomotives, naval engines, electric motors, hydroelectric generators, nuclear reactors, wind turbines, solar panels, and all the software needed to use them. And they also make household appliances.
+I'm not an MIT student, but I think if you look at the first question on your homework set and have no idea what to do then you likely have at least twelve hours of work ahead of you.
+I don't trust you. 
+[deleted]
+Fellow pole vaulter here! Currently go to OSU and wasn't good enough for D1 pole vaulting. I'm also a CS major and hoping to do graduate school at MIT if possible. First, could I pole vault as a grad student. Second what is your PR or your best athletes PR?
+We should form a committee to investigate this.
+That's extremely shitty advice
+I think the first half of the answer was mostly joking about the give and take between the two sides.
+I think you're just meant to put it in your mouth.
+Java is mainly meant for desktop applications and android apps, whereas JavaScript is mainly used on the web. JavaScript shares quite a bit of syntax with java but they aren't the same thing, and they aren't used for the same purpose
+Lol @ "technicial writing".
+So, I am an undergraduate business student, but I've always been really interested in CS. In the past whenever I've tried to study it, I've always struggled with getting past that big learning curve that you hit initially (it was mentioned in one of the comments on this AMA), and I was wondering if ya'll have any suggestions for getting in the right mindset for tackling the subject (when you're learning on your own and not via a class)?    BTW, I LOVED the PR2 disco-dancing robot. Epic. 
+If something is hard to understand at first it also takes a lot of time. Also, as someone who has finished a master in electrical engineering, I think you're exaggerating more than a little bit. 
+Hi there! I am a high school physics teacher who also runs a robotics club for 9th-12th grade students. What is the most important thing that I can teach my students/have them do to prepare them for a career in programming or engineering if they choose to persue it?  My club currently uses VEX robotics, so they do get a lot of great experience already. 
+What would be a good idea for a senior project as a computer engineering student?
+Wikipedia has [a section](http://en.wikipedia.org/wiki/JavaScript#JavaScript_and_Java) on their similarities and differences, but you probably need some programming knowledge to understand some of it.
+My grad advisor would strongly agree with you. We were talking yesterday and he said that most students are still stuck in the English  paper writing mode not technical writing.
+If you had the opportunity/ability to build a super-intelligent, self aware machine right now- would you do it? What kind of implications do you think that would have on humanity as we know it?
+A few questions that I think are very interesting.  Do you think Robots will replace humans in the workforce?  Do you think the singularity will ever happen?  Do you think AI/Robots will become advanced enough for emotional human/robot relationships to happen?
+My school just got a 3D printer. Do you have any experience with them? What program should I use to design things? Any suggestions on what to make
+Hi, Ive got two questions I've been dying to ask.   As a fifteen year old studying cs in school, what do you think I can do to have a shot of getting into MIT. I've learned Python, I'm learning Java and have mostly common knowledge about html and css.  Also, what are the biggest blunders you guys have had in CS, and what did they teach you?  Thanks even if you just see this!  
+My advice is to stop worrying about the school you go to. Don't operate under the assumption that if you're good enough you'll get in, because you _probably won't_, and then you'll think it's because of a personal fault rather than the fact that there are _too many damn good applicants_ for them to let all of them in.
+[deleted]
+Ehhhhh, I know it's ballsy to call out an MIT CS researcher on the definition of CS, however the way I have had it explained to me is Computer science is to progamming as physics is to engineering. You don't actually make new things when studying computer science, as what you are studying has already been done by someone else, even if you recreate it.  But programming is where you actually make things as it applies what you learned from computer science, in the same way engineers make new things by applying what they know about physics and the other sciences.
+Is there one overly important language you program with?
+Hi there, I plan on teaching myself objective C programming this summer. What is the best way to go about learning it? Is there a good beginner website I could use? YouTube channel? Book? I'm happy to hear what you have to say. Thank you.
+Research International Baccalaureate Program or go to /r/ibo 
+I'd highly recommend a LEGO set. The Mindstorms series will run you &gt;300 bucks which is pretty damn decent compared to what you're getting, and if you find the programming interface to simple, you can use alternate, widely-established programs to actually write code to run on them.  http://bricxcc.sourceforge.net This software lets me program a few different models in a C-based language, for example. (:
+Don't make me draw a map.
+To be fair, I wouldn't be surprised if P.A.T.R.I.C.K. is some obscure programming language. 
+I'm studying CSE at ohio state university at the moment, and I want your opinion on what language I should focus a lot more on. I really want to be able to master one language fully, and have solid experience in others. What do you recommend? 
+[deleted]
+Dude, the media tells you what you want to hear, as does reddit.  I've been in the computer vision field for 30 years and I've tried to explain some of the technological hurdles before, but when it comes to self-driving cars, reddit only wants to hear morons worshiping the circlejerk.
+Use that grammar when sending in the application. They'll know if you're not being yourself if you don't. 
+Thanks. Math is probably my strongest subject, so I'm good there. Actually studying for my calc two final right now. I have basic knowledge of programming and have done some small things. I look forward to college a lot. The campus has a better internet than my download speed of 100kB/sec...
+LEGO Mindstorm is great. My highschool has an FTC Robotics team and I was the programmer this year. We made it to the state finals and things broke :(
+And why isn't it Robots for Everyone?   It was the default ring tone for my Nexus 4, and it's not changing 
+Where do you go to school? I go to UCONN. We learned Matlab instead of objective C ... not sure why because C is much more practical. I'm planning on teaching myself C this summer though. Could you recommend any good tools I could use to make learning C easier. Thank you.
+ROS is good for getting basic stuff going in a hurry, especially if your use case matches really well with what the ROS developers had intended.  But as soon as you want to do something that's novel or cutting edge, you're going to find yourself fighting an uphill battle against the design decisions that went into ROS.  Also, if you need fast and reliable performance, you're not going to be terribly satisfied with what ROS offers. The interprocess communication protocol used by ROS has a lot of overhead and cannot really be considered *real time*. You'll also find modules (called nodes and servers) crash inexplicably in ROS, sometimes for reason that are beyond your control to prevent without making changes to ROS's source code.
+I think the lawyers will have to read over the proper regulations first. Time to get back to redditing. 
+I dont take IB, unfortunately. Do you know if the Irish Leaving Certificate is commonly recognised.
+Thanks for the help, will do!
+What set you apart that allowed for you to get accepted into MIT? Thanks for doing this ama!
+how big are all of your dicks?
+What programming language would you suggest to a High Schooler who is decent at computers, but isn't that great at math?
+I'm not saying it doesn't take twelve hours, I'm saying it's more akin to staring blankly at the paper for eleven hours and actually working for one, rather than doing monstrous calculations nonstop. Also, this probably varies depending on your major. I'm a math major, but I could imagine a mechanical engineering major would probably spend more time doing "manual labor" (3D-modeling, running tests, things that are more time-consuming than hard).
+Not OP, but currently in my third year of CS engineering.  &gt;Should I study computer science?  CS isn't necessarily hard, and it can help to be a bit more computer-literate than the average joe. However, CS requires a certain kind of thinking that most people need to learn. My advice would be to go into computer science if it attracts you, if you already wanted to go (or just liked it a lot) before asking.
+[deleted]
+My son will be a freshmen next year and is majoring in Micro sciences/Nanotech.  How long do you feel real life applications of nano-tech robotics is from becoming a reality?
+/r/raspberry_pi  Check the sub out!
+Haha, "going to the Internet to search for the solution is inefficient"   What would grandpa say? 
+What would your suggestion to a newbie about which programming language to learn first?  It won't be the last but which one in your opinion would position you the best to continue learning.  
+Academic labs typically don't have the infrastructure to research and develop a technology all the way to *deployment*. Academic mechanical engineers might come up with a theory and a prototype design that enables an advancement in machinery, but then you'll typically need to depend on industry to take that enabling technology and truly deploy it.  So the relationship between academia and industry is very much give-and-take.
+Yeah, having all interprocess communication go over TCP is awful for anything that you need to be scaleable, and if you're using anything like the stock Turtlebot nodes, they publish so much crap that your network is going to grind to a halt if you have more than two running
+Here's a weird one. I'm wondering if you guys have seen a video that I think was made in one of the labs there years (late 80s-early 90s?) ago, it's of a guy playing catch with a 3 fingered robot arm. My dad only showed me the video once when I was super young so I hardly remember it and to my knowledge he doesn't have a copy anywhere but id love to find it and maybe surprise him with it. If it helps at all, his name is Ken Salisbury.
+BTW, you can run an external power supply to the motors and just use the pwm for control using an ESC 
+I'm 30 years old and I would like to learn to make minecraft mods and then 3D print out the minecraft world I made.  Are there summer camps for adults?
+I've been using sublime for years and I'm very fast with it, and have spent only a week lightly learning VIM.  I'm not yet fast enough with VIM to do my primary development with it, but now that I know what VIM is capable of, I constantly get frustrated while using sublime.  It's hard not to think about how many less keystrokes I would use, how much more uninterrupted my stream of consciousness would be, and ultimately how much more productive I would be if I were using VIM.
+Could you elaborate? 
+How hard was it to get into MIT?, what GPA/SAT did you need?
+You can go to MIT too!
+I'm not familiar with their program, but generally it's quite consistent that some research experience is expected.  It can just be working in a lab as an undergrad, or experience in a relevant industry where you'd get lab-like experience.  Doing an honors thesis in undergrad is great, or you can work in a lab after you graduate.  There are lots of options.  It's so consistent because it's important to know if an applicant can work in a lab/research environment.  It's just not for everyone, even if they're perfectly capable/smart/motivated/etc.    Research is often incredibly frustrating, requiring both meticulous work and creative problem solving.  It's quite common for it to be demoralizing, at least for parts of your PhD.  All that is to say, even if it's not a strict requirement, *you* should want some experience before making that sort of commitment.
+To get paid more it sounds like.
+I'm just fucking with you. I was a math major in college, too. Maybe you've read the book "The Name of the Wind" by Patrick Rothfuss. If you have, you'll understand what I mean when I say that I have stared at a piece of paper so long I know its true name.
+What kind of capability are you looking for from industry? What I'm excited to see is improvements in accuracy and repeatability in the large robot arms that most people only see in car commercials. 
+I apologize if you are joking, but if you don't think vim is an IDE(integrated development environment) than you don't know much about vim.
+Yeah, I agree. I was thinking about some of MIT's summer programs or something just to experience the place
+[deleted]
+Good for anything you need! Except printing!
+[deleted]
+Is there any credence to the theory that political and institutional abuses of power (such as those referenced in Aaron Swartz research studies conducted at Harvard in 2010-11) and the subsequent attempts at placing debilitating controls on internet use could potentially lead to civil conflict between Hacktivist groups and government institutions in the near future?
+sounds like bullshit
+Tastes like it too, which is why I just disregarded his comment.
+My dream is to become a roboticist and I'm so glad I found this AMA!  What degree and classes would be the best to take to put myself on the right track for robotics?
+[deleted]
+No, you go get help.  Ask another student, someone in your dorm that already took the class, go to office hours, etc.  No reason to spin your wheels just not understanding something.
+Also a high school sophomore here, and I think you're simplifying it a bit too much. I feel like just doing what I want isn't enough. I'm a decently hard worker with the things that genuinely interest me and I do extracurriculars and things outside of school that are in programming/engineering/etc. but I still feel like it's a longshot. What did you do in high school and what were your grades like?
+12 hours of a genuine challenge is far preferable to 10 hours of busywork.
+I totally recommend picking up a cheap arduino and some components and doing some learning there. If you look on ebay/amazon you can find Arduinos for as cheap as 3 bucks if you don't mind waiting a while while it is shipped from China.  I've been collecting a bunch of parts including tons of LEDs, 4 arduinos of varying sizes, various wires, breadboards, sensors, and soon servos, and I've spent maybe $50 at the most.  Ninja Edit: Also, check to see if you have a hackerspace in your area. That's where I started messing with arduino and got hooked. They had a bunch to play with and people hanging out there were able to teach me a lot.  I'm still learning, but the system is straightforward enough you can start doing some pretty cool stuff very quickly.
+Does p=np?  And can you show your working?
+At my University some very smart people at the Robotics lab all say C is a better choice than C++. Can someone more knowledgeable enlighten me as to why? I have never personally worked with a microcontroller or a system without an OS and kernel.   Is the object oriented overhead and use of C++ features just too inefficient? Maybe compilers can't magic away bad things to provide the same advantages that having to code everything in straight C gives you?
+Have you ever heard of [VEX Robotics](http://www.vexrobotics.com/)? It's an introduction to robotics used for teaching robotics in middle and high school. My high school uses it and it's pretty easy to learn and build without being overly simplified. It uses ROBOTC which is based off of actual C programming. Programming on my high school robotics team is the first time I felt like I was a "real" programmer. It's not top quality and it's a bit more expensive than LEGO Mindstorms, but it's pretty good at teaching robotics without being too simple for an adult.
+I can't wait to get one. There are so many dope projects you can do. An IT guy at my company built a helicopter with one. I do automation and can't wait to see what my mind comes up with.  
+[deleted]
+Straight A's, and only 2 extracyrricular activities. Played a lot of Kerbal Space Program because it was interesting to me. I thought it was a long shot too and had plenty of other applications ready, but then MIT accepted me. I think the big thing was my essays. The MIT application has 6 essays each around 250 words. I put a lot of time into them and really made sure I let myself shine through. MIT is big on personality. Everyone applying is already super smart. The application is your chance to explain WHO you are. 
+When doing exams did you feel demotivated or consider that maybe you don't want to do computer science? I'm a second year undergrad doing computer science, currently in exam season and feeling demotivated despite having been completely interested in computing and programming since as long as I can remember. 
+What ending did you three pick in mass effect 3?
+The best advice that I can give is to keep pushing yourself to the limit. I've seen people who were capable enough to get in to MIT, fail because they became complacent. If you weren't good enough, then MIT probably wasn't right for you and you might not be able to keep up, but you'll still get into the best college that you could.
+C is simpler, C++ is more complicated. That's about the extent of it.   There's a lot of bad practices and good practices and okay-on-Tuesdays-but-not-Saturdays practices you have to be aware of in C++, and no two compilers ever seem to compile your code exactly quite the same way. C on the other hand has very limited features, but is very straightforward.
+I don't think there's much to understand in Computer Science. You need to learn to program which is comparatively simple (just learning how to teach the dumbest thing on the planet - a computer). After that, you need to think - what do you want to create, how are you going to build it, has someone already made something?, why not try augmenting that, etc.
+Hello, I'm about to go to a high school that doesn't have a robotics team, what do I do? I'm very interested in starting robotics
+Straight A's probably had something to do with it. My grades for non-STEM classes suck because I just don't care about them, and my grades for STEM classes are mostly B's because they're actually challenging. Although the application thing sounds interesting. Thanks for your explanation.
+If someone needs to convince you it's probably not the best choice for you, you're right. The motivations for grad school are more along the lines of getting more freedom in the projects you work on, the chance to work with experts in the field, and moving up to the forefront of research without necessarily needing a profit-based justification. 
+That sounds pretty general.
+But it's so boring.  
+"Give a man a fish, he eats for a day. Teach a man to fish, he eats for a lifetime. Build a robot to fish, do all men starve or do all men eat?" -- Scott Santens  How close are we to building an army of solar powered robot farmers?
+Oh you... I'm kind of impressed at this excuse.  What other shenanigans have you used to avoid doing real work?
+Thanks. That's an easily digestible explanation -- if you need to do very direct and straightforward things (something I would probably appreciate had I any experience with robotics), then by implementing them in the most straightforward language and environment you can to help minimize bad practices, implementations and complexities. That makes sense.
+In most engineering classes, if you know exactly what you are doing, the time commitment is actually pretty small. For most normal people, it takes time to figure out what they are doing, but then the actual work isn't that bad. For example, there is a difference between writing a 50 page paper and writing a conceptually difficult but short section of code. If you know what you are doing, the code takes a couple minutes. The essay takes hours even if you know what you want to write.
+That's why most job roles for programmers will be "Software Engineer" - it's more than just writing code.
+If you're a middle to lower class white or asian male that doesn't go to a very well known school, then you literally have no chance to get in, unless you do something amazing. Sorry, that's just how college admissions works. My best advice for you: be black.
+My son has always been interested in robotics so I was real happy to see your AMA.  I can't wait to send him the link!  My question is this.  What is the proper temp and time to cook a 6 1/2 pound sirloin beef roast in a gas oven to be perfectly rare with a good sear?
+[deleted]
+As a freshman in High school (please don't yell at me, I'm very aware of my age), and FRC participant (and one of two team drivers), I can say that FRC is amazing, and agree that this years game, called Recycle Rush, was rather underwhelming and slow.  Aerial assist was WAY more fun.
+If you're in high school you should look into an FRC program. It's a worldwide robotics competition, and a great introduction into the world of engineering and robotics. Depending on where you live, there's a good chance teams already exist, but if there aren't any teams around you you can talk to some people and see about starting a team. If you happen to be in a grade below 9th, First has other competitions available.  The basic gist of the program is that a game or task is given out on January 3rd, and teams have 6 weeks to design and build a working robot to accomplish the task and compete in the games. It's the busiest 6 weeks of my year, but it's amazing what a dedicated group of kids can do in such a short amount of time.   It's not exactly the personal programming you mentioned, but it's a hell of a time, and a great experience.  Source: was on a rookie team this year, wouldn't trade it for the world.
+Have you ever considered the raspberry-pi? You can get a B-model or the RPi-2 and buy additional chipboards for creating robots with a combination of hardware assembly and programming.
+Senior at MIT: unfortunately, the pool for international students is limited. You need to do something really truly incredible to stand out above the crowd. The internationals I know here have won golds at various science olympiads or imvented new technologies for their home communities or whatever. I hate to be the bearer of bad news, but getting in as an international is really tough, cause you are going against kids who have some really unbelievable stuff. 
+If you guys are so smart then why didn't you use the Oxford comma (sometimes referred to as a Harvard comma) in your description?
+Thanks! My plan for a robot tiger has been brewing for about 5 years now. I played around with electro magnet muscles but there were many issues. Was the mac and cheese edible? 
+I'm planning on getting a master's in mechanical engineering and I'm hoping to get into robotics. Since I've had very little CS experience, am really far behind?
+Senior at MIT with a class taught by an admissions officer here: you have no idea what you are taking about. This is probably the best advice I've read here. I know plenty of kids that never took an ap or ib class who are here, and many more with perfect gpas and test scores who didnt get in. APs and grades and extracurriculars are great, but guess what? That's not enough. There are way too many people with perfect test scores and all that; you need to set yourself apart.
+Grades are much less important than the essays tbh.
+&gt; Unfortunately... humans... are annoyingly robust.  Aka hard to kill.
+Just to add some-admittedly redundant-personal insight, FIRST, specifically FRC, is great.  The robots are huge and the games are-usually-face paced and fun.  The experience is great all around.
+Preference has nothing to do with what we're talking about...
+If you're in high school you should look into an FRC program. It's a worldwide robotics competition, and a great introduction into the world of engineering and robotics. Depending on where you live, there's a good chance teams already exist, but if there aren't any teams around you you can talk to some people and see about starting a team. If you happen to be in a grade below 9th, First has other competitions available.  If youre out of high school and just want to make some connections places, you can go and be a mentor for a team. Any experience is usually liked to have, whether it be in engineering or anything, FRC teams would love to have more mentors. You'll get to meet with tons of people related to robotics at competition or through the teams sponsors.  The basic gist of the program is that a game or task is given out on January 3rd, and teams have 6 weeks to design and build a working robot to accomplish the task and compete in the games. It's the busiest 6 weeks of my year, but it's amazing what a dedicated group of kids can do in such a short amount of time.   Source: was on a rookie team this year, wouldn't trade it for the world.
+Ehhhh, the kind of people who go to MIT don't tend to ask for help. 
+Do you think robots could ever have thick Austrian accents?
+Sorry, that's what I thought he meant. In /u/asportking 's comment I figured it was like this: the first kind is the type of problem set where you only spend 5-10 minutes per problem but it takes forever because there are so *many* of them; the second kind is the type of problem set where each is a genuine challenge and takes a while because of difficulty. That's what I meant.
+It depended in the class. Thermo was a lot of looking at llists of givens and equations and figuring out how they work together.
+I'm an MIT alum.  It's a collaborative environment.  There's lots of asking for help.
+I am a programmer with a background in AI, but I have limited hardware knowledge. My experience has been spending exhausting amounts of time writing and debugging code to use simple hardware. For example, using an infrared range finder requires calibration to map a 0-255 value to distance, (depending on the surface type, mind you) and any two will likely not be alike. So, you need to calibrate each one individually and normalize them on to some interface for use, which is tedious work if I want to get to the fun part of something like inventing and writing reactive logic to have a group of robots move into formation and follow something.  While I can offset these issues with a heavy dose of effort, I worry someone new to the field would find themselves frustrated and seek enjoyment elsewhere. I was hoping our kind roboticists might know some secret sauce I was missing, but it seems to be an unavoidable challenge in this relatively immature field. :)
+I'm a member of the underwater robotics club at nc state university, and we were considering switching to ROS when we rewite our software soon.  What would you recommend instead?
+Is P closed under reversal? Please provide proof.   Its the last question in my Automata Theory class. 
+How spectacular were your mustaches for March?
+any recommendations on programming? like how did you study c++ and python got familiar with them and for other languages.   also, how did you get into robotics? im trying to figure out what i want to study in IT
+Probably is but his point is relevant.  Maybe not at MIT but if you do poorly in school but have extracurricular activities that are outstanding there is a chance.   Some programmers do poorly in high school but have GitHubs with their own work and some schools may see you as a challenge to turn an excellent programmer into an excellent programming student.
+I know I missed the cutoff time but if you see this, I'm a UCSC first year now, how'd you get into working a the MIT lab?
+That's definitely pretty general if you ask me
+I think of an IDE as Intellij, Netbeans, Eclipse  VIM is literally "vi improved" which is very much a text editor. Of course you can install plugins to get some IDE functionality but it's really a text editor at heart.
+Is it true everyone at MIT uses LaTeX?
+I just took a class using MyRio by National Instruments. What is your favorite board?
+[deleted]
+Psst he's competing for a spot...
+You guys into any underwater hockey?
+Acceptance with timestamp or it didn't happen
+[deleted]
+Haskell? Get outta here
+Is there a general purpose library or framework you would recommend over ROS?
+"a text editor at heart" that is your argument as to why it is not an IDE?  That is ridiculous, any IDE is a "text editor at heart."  Vi is also certainly an IDE, and again you either don't understand the capabilities of vi/vim or don't understand the meaning of IDE. 
+@ross can you v-waltz with me sometime? you stud
+I was going to suggest FIRST. Glad to see someone beat me to it.
+LEGO Mindstorm is awesome. Was able to play with one a few years ago in one of my CS/IT classes.   Without going into detail...The UI graphically represents logic in an easy to understand manner.
+I'm nearly 30 years old, recently discovered a love for programming (thanks to a Android).   I've been wanting to expand my knowledge and get a job in this field, but i only have one year done in college, and im horrible doing essays so english classes kill me. Any suggestions?   Honestly, I wish I didn't screw around so much during high school and most of my years after HS. &lt;.&lt; Maybe things would've been easier if I paid attention. 
+Ditto. Recycle Rush is not one of the best ways to introduce people to FRC. I'd definitely show last year's game over this one. 
+I've a speculative question about AI learning. Deep learning has been the "way to go" for years, but what I've heard, there are some other new ways upcoming as well. Could you share some light on the matter?  Do you guys think that we'll eventually see an AI that is conscious?  I was thinking about the deep learning process and thought that if one could teach a program/computer a concept like "abstract", that'd be a real step forward. While deep learning is called deep learning, it still seems to be just layered structure of code that's followed.  Do you think that we'll eventually see an AI that isn't following a strict, algorithmic rule set while learning, but via "quantum interaction"? Do you think it's possible to learn in probabilistic nature?
+[deleted]
+"General purpose", probably not.  In general, you're going to get the best possible results by piecing together the software packages and tools that are best suited for your particular needs. ROS isn't really unique in terms of the tools it offers; you can find analogous (and typically much higher quality) software tools independent of ROS. In fact, most of the tools that ROS offers were originally created outside of ROS, and ROS just offers a standardized means of interfacing with all of them.  However, not everyone has the time or know-how to find the software tools that are right for them. Or they might not have the time or expertise to interface those tools together reliably. In those cases, ROS might be just fine for you.
+Good answer.  We're a student robotics team competing in the RoboSub competition, so ROS probably wouldn't limit us much if at all.  We're using a custom framework currently but we were planning to switch to ROS soon.
+Gonna be honest and say there's not much you can plan to do. Taking 15 AP classes and getting a 2400 on your SAT won't help because that's just going to be the norm for people applying to MIT.   That can get you into Stanford, CMU, Berkeley, or another top school, but to get into MIT you're probably going to need to do something that shows your passion for something. Get involved with whatever you find cool, whether that be research, or the UN, or politics or whatever. Don't be afraid to look up people in the field and ask to get involved.   This is just from my experience (got into several top technology schools, but not MIT) and the experience of my friends. 
+I imagine you have no trouble remembering shit.
+Hey! I am really interested in embedded programming and I really don't know where to start.  I am a junior CS student and the school I attend offers mostly higher level CS classes/theory classes and not so much engineering C++/C embedded systems classes... The C++/C classes that I can get into without having to take 2-3 circuit classes are just entry level C++/C courses that won't even challenge me.  I have taken C++ and OOP as a combined class(hardest c++ class my school offers readily for CS majors) and I liked it a lot and the place where I intern at uses c++ for their application software and also embedded C++ for flight software. I would really like to learn or get some general know how for the flight software in case I would like to pursue that role instead of ground software (c++ desktop applications).   Are there any online embedded C++ classes that you know about? Or maybe any books?  Thanks!
+ROS is great for doing research, and is getting better (slowly) for some other applications. I believe what ROSS was referring to was that it is painful to have ROS installed on your primary computer.  My experience is 2-3 years old at this point, but when I was heavily using ROS, there were tons of broken packages, and I was forced to use a badly supported version of Ubuntu, as well as lots of other hacks that made non-ROS development a pain.  I actually loved using ROS for my research work with the PR2
+If you can give me a general idea of what kind of software tools you're looking for, I might be able to offer some recommendations. But for a student team, in all likelihood I'd just end up pointing you at ROS.
+For C++, [CodeLite](http://codelite.org/) is free and pretty awesome - I use it for all of my dev work.
+Expand?
+TED?
+What about the impact of ubiquitous automation on our current economic model? Self-serve supermarket checkouts and airport checkins, self-driving mining trucks, etc. are rapidly reducing the demand for unskilled human labour. Soon there's going to be a significant portion of the human race that is unemployable because they're not capable of doing anything better or cheaper than a machine.
+So I'm guessing you guys haven't read Masinghka's thesis?
+Well if we host the Olympics on Mars next year, the pole-vaulters will obliterate the old, Terran gold records. Mind the cold weather though, I here it can get a "bit" chilly...
+Number 3 works in reverse, "The state of the world can change or affect us."
+So, our challenge involves designing an autonomous submarine that can complete an obstacle course and perform a couple of manipulation and navigation tasks with cameras, sonar, etc.  Videos:  https://www.youtube.com/watch?v=ZxOrYZThMtY  https://www.youtube.com/watch?v=sVER7hom9YE  https://www.youtube.com/watch?v=uFLweULoOhE  I guess I'd say most of our requirements are related to semi-easily setting up computer vision and autonomy code.  We know the layout of the course beforehand.  Also, the control system has to be slightly ridiculous, since there's 6 degrees of freedom (roll pitch yaw surge heave sway), a bit of positive buoyancy to fight against, slight currents in the pool, etc.  More like a quadcopter than it is a car.
+Do you think Moores law will ever peak where we just can't go any further?  Also, do you think we will ever get remotely close to the processing power of the human brain?
+Will Gundam type mechs ever come to fruition within my lifetime?
+One of ROS's best strengths happens to be the way it ties together a lot of vision and visualization tools. If you need to get a computer vision system working in a hurry, ROS probably *is* going to be your best bet.
+It's best to think of them as not related. Java is a compiled imperative language. That means that the code you type gets transformed into binary "byte code". In java, this is code for a fake "computer" called the java virtual machine. Any real computer that has an implementation of the java virtual machine can run java binary code.  JavaScript is a scripting language, which means that the text of the code itself is interpreted directly by whatever is running it (in many cases a web browser). It has java style syntax (as opposed to python, or Perl, or something entirely new) so they called it JavaScript.
+I am a CS student a top 50 university. I've good good understandings of programmning langauges and want to get into AI.   Can you point me to/where can I learn the major algorithims in AI right now?
+[deleted]
+Hi there, I rarely comment on AMAs, however I'd really like some advice. I'm 14 years old and I've been programming for about 3 years self taught through books/videos (my favorite language is C#). Next year I plan on transferring to a high school with a supposedly great robotics/programming classes. Do you have any advice for me after I graduate high school? I'd like to go down the game development or software development path. Thanks.
+They already do! There a whole field called reinforcement learning where the AI basically tries a bunch of things, figures out which ones work and which don't, and keeps trying new and better things. The most well known technique is probably the genetic algorithm.  These systems can "learn" to play games like Tetris, or how to move a robot with crazy legs, or fly an rc helicopter doing crazy stunts.
+Hey, I can fly. Aint proving it though lol fuck you
+The thing is it's a lot more difficult to manage your time when you have problem sets that you don't know how to approach at first.
+Too bad that analogy was pure shit.
+Was as realistic as someone with a 2.0 gpa going into one of the top universities in the world. 
+There has been plenty of discussion about the nature of this technological revolution. This time it's going to put a lot of people out of a job [computers driving cars, robots doing deliveries in a hospital]. We can find 'new jobs' but not everybody is going to be a coder, not everybody is going to be the next CEO of wonderful.corp.
+No... Not at all. There are still rare cases of people with low GPAs getting into top colleges. Acceptance isn't based 100% off GPA alone, you know.
+How hard was it to get into CMU or MIT or UCSC? (I'm going to be a freshman next year and my goal is to get a degree in CS or Robotics).
+So your friend had a billionaire dad?
+What is your favorite cheese?
+Notice how everyone says they use C++, but not that they like it...
+Our province's technical institute, Saskatchewan Polytechnique, sponsors a great event called the Robot Rumble.  They send out two Sumobot robot kits to schools and then support the groups.  The year ends with a friendly competition that this year brought in 45 teams from 103 schools.  The kits can be bought online and are great for the beginning programmer, plus there are tons of expansion packs.  My students loved it!  But I would qualify by saying that they are definitely HS level.
+When did I ever say that? And no.
+Then there's 0 chance of that actually happening, sorry.
+Aliens or singularity first? 
+You should check out scratch. It was developed by MIT and while somewhat rudimentary it is a great way to learn the basics. It is literally drag and drop prewritten code.
+When do I get a robot cheetah to ride around instead of a car ?
+What's your problem?
+Do any of you know what a living female breast feels like? I'm not trying to be insulting, just every time I try to ask someone they tell me like a bag of sand and I don't believe them.
+I love the mildly annoyed, 'we may as well get this over with' tone of this response.
+Do you have any cool stories about the AI lab involving Richard Stallman or anything of that era? Are people still using Lisp to do amazing things?  - an emacs user
+Don't forget FIRST FRC if you are in high school it is an amazing program to be a part of... Grants dim currently posting this from the FRC world championships so I may be biased. :)
+Why does no one, use good old fashion C any more. Blah.
+[deleted]
+Roboticist is an actual term? 
+What do you think of First Robotics?
+I'm a communications majors and I wanted to do switch into CS and eventually do a Masters in CS. I'm thinking of going for M.S in 2016. Can you suggest an outline that I can follow in the meantime to bring myself up-to speed in the field.
+can jet fuel melt steel beams?
+The world championship is actually going on this week/weekend. You can check it out at [The Blue Alliance](thebluealliance.com).
+Speaking of world... go team 107!
+You know how I know you aren't a student anymore?   So.many.meetings.
+Yeah, I'm from team 5480 out of Reno, NV. We went down to Vegas for regionals, and we're the only rookie team to make it to finals. Ended up taking home Rookie Inspiration, sadly didn't make Rookie All-Star, but hey, we did really well for a first year.  Good luck at Worlds, by the way!
+Thanks! I honestly hope we manage to get to Einstein (the final championship field, for you rookies :P), but I don't know how we can outplay/split Simbotics and RoboWranglers... We'll see.
+[deleted]
+Are you a fan of FIRST? My old team is at worlds this week!
+If you get a job at an auto assembly plant and show interest they will train you on industrial robots. Some brands are starting to get pretty technologically advanced. The new kuka robots are programmed in java and are usually the kind you see in the videos playing ping pong or catching balls.
+If you can already program at all I'd not suggest a mindstorm set. Its wonderful for kids and FIRST lego league uses them to great success, but the GUI is clunky IMO.  I'd highly recommend a [Boe-Bot.](https://www.parallax.com/product/28832). Its not cheap per say ($160), but its a complete kit with everything you need to build a cool little robot.    One project I did was a maze-navigation bot, where it automatically found its way out of a maze using proximity sensors. 
+Yeah. RoboWranglers is 148, right? We ended up teamed up with em during qualifiers, and it was the only round where we broke 100, and that was with us immediately breaking our grabbers during auto. We ended up replacing the grip and signing the broken one as a gift to team 148 for giving us an average that was better than terrible. It was a fun time, and I really wish you guys the best of luck in dealing with RoboWranglers. Best option that another team came up with is to try and jam up their stacker Robin with noodles, if you have a good enough thrower. The other option is just to team up with them like team 987, the High Rollers, did.
+[deleted]
+&gt; I would love to augment my brain with access to the internet.  How long before this is actually feasible?  I know we've used electrodes to measure peripheral nerve activation, but I'm unaware of anything augmenting the CNS.  There was also a device tracking eye movement using machine vision to operate a computer, but thats still a ways away from doing what you're talking about.  Who's actively working in this field?
+Have you ever thought about counting cards in Vegas? I've heard it's quite lucrative for your type. 
+You're not asking me, and this wasn't your question, but if you get the opportunity in high school, participate in FIRST. It's fun, and very educational.
+[deleted]
+That quote reads perfectly in Alan Rickman's voice. 
+Who knows, maybe while I suck at other sciences I'll be okay at this one. I will try learning something. Thank you for this motivation to try it!
+Same, are you me?
+Found this with just a simple google search. http://web.mit.edu/me-ugoffice/communication/technical-writing.pdf
+My dad was accepted into medical school. For the interview he wore a sweater instead of a suit and tie. The guy who interviewed him said he remembered him the most  because he stood out.
+&gt;most given by leaders in the field about things not even in textbooks yet  The majority of material in graduate level CS and Engineering courses has been known for decades. For example the support vector machine was invented in 1963 but is still very relevant in machine learning. Most important knowledge is old, that is until you are working on a thesis and zoomed in to such a tiny subset of the field that a tiny shift in the landscape seems large to you.
+I would have to pick that all men eat. We've come a long way from fishing and self-sufficiency and how it turned out?
+You'll be happy to know, ROS runs on 14.04 now quite happily and cleanly.   We use it in our lab with Baxters and inflatables. 
+there are 3 characters star,emptyspace and tab. Possible
+[deleted]
+It seems you may be a little mixed up. To put it bluntly, the computer scientist does the research behind the actual science of a computer to develop better algorithms or what not. Software engineers copy and paste other people's code and then add code to make it all work. If they are efficient engineers, they usually apply other people's work to solve their problem. 
+Unfortunately the majority of the public will piss their pants because "my privacy!!!" just like with Google Glass
+what if you're 20 years old and want to get into it? would a FIRST team be restricted to highschool only? If so, what would you recommend to me? Clubs on college campuses? 
+Hi! I will be joining MIT as a PhD student in the Distributed Robotics Lab this September. What is the atmosphere like for a PhD student?
+Wonderful!  1) Latency, real time versus near real time in human to machine interface. The interaction is affected/damaged by latent response to input, how do you get around that in programming? Motion and music applications are just a couple that are extremely limited in real time (if this exists) and near real time machine response.
+Unfortunately the program is only for K-12. However, a lot of colleges have their own robotics team. These are aimed more at the programming side of it, but there still are some mechanical engineering aspects.
+What do you think about Nick Bostrom's views on the existential risk of advanced AI?
+[deleted]
+Can we re-build him? Do we have the technology?
+FIRST Robotics!
+Have you ever done class exercise for the design of experiments where you build paper airplanes? The handout had MIT on it, and I thought it was a perfect demonstration of the concept is reduced the number of trials when experimenting. 
+I'm not sure about schools but with employers this can certainly be the case.
+that was a helpful explanation, thanks
+Hello ,  Couple questions.  Do yall design the hardware? (Pcb's, mechanical hydrolics etc.) or just code already built bots?     Do yall use fpga's? And or do yall do the hardware programming?  Please tell me yall have a 3-d printer to play with  How do yall program movements? I'd assume a grid system similar to g-code. Or maybe a visual sensors?  Are yall working on setting the bot to a  react  to stimulus or setting it task that doesn't react to environmental changes?
+Would you say someone who's worked at clearpath at a co-op job have a chance at getting into MIT for grad school? :P
+Right from the guerrilla's mouth
+What off the shelf robotics / electronics kit would you recommend for an introductory level hybrid grad-school course (mix of MFA and PHD) focusing on human interaction and experiential media design?  Little Bits, makey-makeup, etc?
+Do you guys do alot of vision? How come computer vision doesn't work at all? It's just so shitty. Any time real in the wild data is used everything fails. All the code researchers put out seems to only work on 100x100 images (looking at you graph cut). 
+I just finished coding my capstone project, which was an autonomous boat. I had no knowledge of the code, but surprisingly, I taught myself enough so that it works.  My question is, how much of coding for you is built on what others have done, and how much is started from scratch?
+[deleted]
+Yeah dood, look at AI's running on Neural Networks or Genetic Algorithms. I recently wrote a Tetris AI running on a GA that can play far better than a human.  It starts out being horrible at Tetris, but over time learns what is important and becomes insanely good. 
+hi, From Europe IST former student. MIT is in a close partnership with my old university in a lot of degrees and content though I never heard about the robotics segment. In a tl;dr kind of way what's the current state of the art in AI? And where do you see us in THREE years?  Thanks and have fun
+Get a arduino uno/ruggeduino then make your own robot!
+Have you heard of the kid from Colorado who started his own company building robotic arms that can now be controlled wirelessly? He open sourced his project info and even did a Ted Talks on his invention.  They say he may be revolutionizing the prosthetics industry.  Any general comments or opinions of his work and what may come of it?
+What is your point of view on transhumanism and do you think future sentients robots will have rigths ?
+Assembly has my goto.
+Check out [Vex Robotics](http://www.vexrobotics.com/). Start a club at your school. It is a great platform to start on.  
+So a tablet version of labview?
+Unfortunately that's not how it works. When applying to colleges and in particular Ivy's, you gotta play the game. Being yourself isn't enough to apply to, say, Wharton School of Business if you haven't done anything entrepreneurial in high school.
+Can confirm. Didn't have great grades or any of that honor society bullshit in high school, but I got into schools that people with GPAs much higher than mine didn't get into because of extracurricular stuff. Personal programming projects, and, incidentally, robotics. 
+FTC and FRC are what I did. Even now I have that stuff on my resume. Interviewers have started conversations with me about it. Turns out some software engineering companies do their own internal competitions very similar to FTC as teambuilding exercises.
+I assume you've all watched Big Hero 6 for the awesome robotics and such. One line I liked was "I programmed him with 10,000 medical procedures myself!"  To rough out an estimate, how long would it take one person to program that much information into a robot like Baymax?
+FIRST defined my high school years and made them extremely enjoyable.  I really loved it.  Check it out ASAP.  I would look at Ultimate Ascent for a good example of what it is.
+Well obviously it worked for me. I'm just sharing what my own experience was. 
+I know this is always a loaded question but... What is the best language IYO to begin to learn programming for the complete novice. I have constantly try to get into different ones all the time based on suggestions. But it seems like if you search long enough everyone always recommends every single language eventually. So I don't know where to begin. If it helps. I am interested in making programs, programming to eventually making "Internet of things" gadgets and working with robotic parts. What path should I take to get started?
+I understood that reference.   I'd post the gif but mobile. 
+Learning the basic principles of programming is more important than learning any single language. Understanding loops, logic and decision structures will take you a long way in whatever language you need to learn. That being said I found python easy enough to understand while learning the basics of general programming and pseudocode.
+As someone who is very interested in programming, what reasources could I use to teach myself?
+Haha I thought that was his full name so I googled it... woops
+Have you ever thought about making a sex robot?
+I suggest "accidents", blackmail, sex, and bribery.
+Linguistics in general would solve a lot of the issues surrounding AI programming that you mentioned earlier. There are actually answers to the problems you presented already out there in the form of philosophy and epistemology. I mean they don't necessarily have the answers per say, more an imperfect and incomplete but potentially functional framework for a system capable of functioning within the limitations you describe. The gist of it is you don't actually have to define these concepts as they exist, but rather define the general, or not so general, rule structure they seem to follow, in all it's variations, or schools. Something which has already been done nicely for you over the course of the last few thousand years, waiting to be translated into code.
+Read the history section on [this page](http://en.wikipedia.org/wiki/GE_Aviation).
+I recently finished building a 6-DoF robotic arm for a NASA competition that was controlled by an arduino, they put out the same 5V .5A on all of their pins. The way around it is to use an external power supply on the motors/servos and just use the arduino/Edison to control the input.
+Yet doing what interests you will only set yourself apart if your scores are WAAAAAY above average.
+I took a required class called 'Business Communications' that was basically technical report writing.  It was definitely benificial.  Every school should have this as a required class for anyone going into any technical field.
+[deleted]
+Would you rather fight a horse sized duck or a thousand duck sized horses?
+I see what you did there.
+[deleted]
+Modern ROS is actually quite good; it still has a lot of overhead and it publishes a lot of extra topics, but if you're looking to do control at 1 kHz or less it is a stellar bit of glue.   It didn't use to be though, it used to be miserable, and even now, to CS graduate students who can build something better, it is unnecessary. For ME / EE research however, who do not wish to write their own communication library, ROS is stellar.   We use it at the Robotics and Dynamics Lab here at BYU quite successfully. 
+Yeah, I got some clarification that assuaged my fears :)  ROS looks like the way for us to go.
+I am a mechatronics engineer graduate, but my grades weren't that good. i want to specialize in robotics. what should i study or focus on?
+Glad to hear it. It has a bit of a learning curve and getting things to work that span multiple workspaces can be tough, but for everything it does, ROS is pretty great.   Particularly for those of us who aren't super proficient programmers, having a system that allows me to easily set publishing rates for certain data to be received in multiple different programming languages, on multiple different computers, simultaneously, is irreplaceable. 
+They only care about grades in so far as they show that you can make it through. After that, its about what you love and how you'll use the opportunities here. If showing what you love doesnt really srem like it applies to mit, then you probably don't really want to go to mit. Admissions knows how to spot this from a mile away. If your only reason for "why mit" is "good school implies high paying job", you're gonna have a bad time. I was waitlisted on my original app and I had great grades, tons of extracurriculars, and a perfect ACT. I know someone who got in early action with a 27 on the ACT and mediocre grades in high school (they are way smarter than me too, but that's another topic). So then, I changed my strategy and sent a video explaining a more personal side and how I actually loved the sciences and did it on my own time all the time. That's what for me in; not my test scores. Take it from someone who has been there, its in your best interest to be honest and true to yourself. Show your passion and desire to take opportunities, not just your grades.
+I applied to MIT and was denied. What do you guys think is a critical part of getting into that fantastic school?
+&gt;They only care about grades in so far as they show that you can make it through  Hence my point. The big name schools have a reason for their name, and being easy is not it.  No need to make an entire speech about how it takes actually being interesting to interest people.
+I'm doing an undergraduate course on Information System (IS) this summer. Do you think I have made a wrong choice because reading this AMA makes CS sound really fun lol?
+How far off are we from making Gundam?
+I have been to the edge of their parking lot while they were walking Big Dog. We saw them from the upper-floor window across the street during a training class. I yelled a question or two to Big Dog's meat bag friends.
+Are your parents wealthy? Don't care too much about the school you to to. 
+Question: why did MIT kill Aaron?
+[deleted]
+Nice evasive response...  Care to actually address my concern now or not..?    
+Answering a question with a questuin..?  LMFAO

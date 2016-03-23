@@ -1,0 +1,522 @@
+What do you think of the interplay between ageism and sexism in tech hiring practices? I've been told I was already aging out of employment opportunities and I'm only 24!
+Why have women gained so much ground in science and math degrees, but very little in engineering and technology? What is the difference in circumstances?
+What do you guys think of the war on drugs?
+I can tell you that there's a strong unconscious social bias that keeps us from seeing women as a good fit for tech. It's a hard sell to make people believe that women will be strong when often women are socialized to be cooperative instead of confrontational.
+Who is John Flynt?
+Thanks for doing the AMA. I have a good friend who is very much into discussing the issues you're looking to bring forward in this book. I personally don't universally agree with all opinions brought forth, but I can hardly argue with academics. So I have two questions, if I may. First off, will your book be based on peer-reviewed academic research, personal opinion and experience, or a combination of the two? Second of all, a bit of a wider question (maybe too wide, in which case, I apologize!) but I was wondering what your view on feminist technoscience is, in general. Do you think it has a place in academics? If so/if not, why?  Thank you for your time. I'm curious to see your answer!
+Is the rampant sexism and misogyny that exists in the gaming world that is manifested in gamergate the most serious issue in gaming today? If not, what is?
+[deleted]
+AT TWENTY FOUR?!  *deep breath*  There's most certainly an interplay between the two. At one job I held, I know that women were judged much earlier than men when it came to aging. Male co-workers would make cracks about a manager's crow feet, or ask me if I thought so-and-so dyed her hair, or make comments about menopause if a woman was frustrated or upset.   In other words, the policing got even worse as the women got older. Agism still happened with me, but it appeared to set in later.
+Hey!  I'm working on a game - I'm paying staff, it's under construction, and it's well under way.  The question I have is when should I start planning the infrastructure - like, should I wait until its a finished product? When do I cross the line from hobbyist to developer?  Thanks for showing up!
+What is your ideal breakfast meal?
+Thanks for doing the AMA!  When did each of you know that you wanted to pursue a career in STEM? What were the most significant roadblocks you encountered along the way?
+I see this a lot with my husband, who does patent law for a major Biotech corporation. Interestingly, there's almost 50% parity in his field between men and women! Many people in his office how about the law degree and a science PhD!  I can only speak to my field, game development, but I think the difference is it's been a playground for adolescent boys for a long time. There are signs everywhere that say "no girls allowed" in ways the men here and don't see.  It's my hope that in 10 years, game development will have a level of professionalism more commensurate with other fields.
+Hey John, wanna streetrace?
+How can men (who aren't hiring-managers) best help women succeed in tech? What resources can we provide to our colleagues to help further progress in our offices and online?  NOTE: I asked this previously in the [other thread](http://www.reddit.com/r/IAmA/comments/2usevh/we_are_the_7_women_writing_the_book_women_in_tech/), but it got amazing responses, so I'm asking again over here.
+You've all seen more than your fair share of insults and curses thrown your way. Do you have a favorite comeback?
+What's been your proudest achievement so far in your careers?
+What really needs to happen to get men to understand the difficulties faced by women in tech?  It seems that many men feel they are under attack when this is discussed, and that women are mistaken about the problems they face, and they want special treatment. What discussion/phrasing needs to happen?  Thanks, you guys are great!
+When will John Flynt Street Race against The Commander to defend the SJWs honor?
+Only when they include un-fun mini-games.  Kidding aside, no, I don't. Played them all my life, hung out with gamers all my life, raised two little gamers, and I've never seen a change in violence when someone has moved to a more violent game. 
+Hi ladies,   Firstly) what do you think are the biggest cultural issues in tech right now and how do these affect you as women/how are you tackling them?  Secondly) brianna, you've been harassed, and chased from your home due to GG, there are a lot of people out there looking to hurt you and your career because of your involvement. Have you ever considered leaving the industry throughout all of this? What has been the best advice you've received throughout this mess? Are your colleagues worried that purely because of your involvement with rev60, it will fail due to instinctual maliciousness of your harassers regardless of how it is as a game? 
+I completely agree with Katie. I just had to tell a world-class Python developer that people were looking at the grey in her hair, not her Github, and that she was going to face more of the same. She's under 40.
+I see a lot of instances where criticism of women (especially in tech) is taken as an attack or straight up misogyny..  I want to know, How/When is it appropriate to criticize then?
+I have a lot of people to contact me of the writing projects. I turn almost all of them down, but I agreed to this one.   The reason is, it's a pragmatic how-to manual. This book is not going to be from an academic, it's not going to be from a journalist, it's going to be full of common sense strategies from women that have worked in this field and fought  these battles.
+The most serious issue in gaming today is clearly the nightmare that is 5th edition D&amp;D.
+As a woman in tech for 20 years and games for half of that, I've found the tech industry to be the most inviting and accepting of women and LGBT people. While harassment on the internet or at work is complete unacceptable, we don't experience anywhere near that level in a professional environment. Why do any of you feel that the harassment of women on the internet has any correlation to what women in professional positions within the industry experience?  Unfortunately I've felt uncomfortable expressing my opinion openly for fear of being attacked because my experience in tech has been so extremely positive. EDIT: Moved my question to the new AMA thread.
+Agism at 24 is crazy! In a way, I think it is related. There's a vision that's been popularized about who a tech person it is, and it's just not true. This study (https://www.linkedin.com/pulse/20140825160257-48794474-the-linkedin-report-on-tech-entrepreneurship) actually had some great insights re age and being an entrepreneur.
+No. I don't even think that they really cause too much de-sensitivity to it either.
+I love the responses that Ijeoma Oluo used on Twitter a week or so ago. She responded to every hateful comment with a Martin Luther King Jr quote. It was beautiful.
+Non techy dad with 2 daughters (both under 10) here. Any ideas of how to get them into programming and IT beyond simply using packages (eg MS office)? 
+&gt; feminist technoscience  Could you ELI5?
+Waffles.
+**I originally posted this in the old thread, as a reply to 3 comments from Tarah, Brianna and Katie**.  Lewis's Law is a decent point here (also, pardon me, I'm going to reply to all 3 of you in this post) but I genuinely wonder if the problem isn't being perpetuated by people who *mean well*, but aren't capable, or people who *seem* capable but genuinely don't mean well. It's definitely true that there's an extremely hostile anti-feminist environment. It's also definitely true that there are some extremely hostile feminists as well; even within the community, terms like TERF ("Trans-exclusionary radical feminist") have risen up in order to try to establish some feminists as engaging in the "wrong kind" of feminism. A major problem I see here comes from the fact that it takes *many* to build something but only one person to destroy it. There's definitely some crazy people out there who *represent* themselves as feminists. I see a lot of these people dogpiling others and engaging in damaging rhetoric, whether that rhetoric is simply poisonous or just woefully ignorant. A lot of the people (broadly) who comment on these kinds of things are outsiders looking in; they don't understand that other people *might not understand the problems* as they're stated. Often I see it said that, "We need more women in tech!". Someone will ask "Why?" and the responses are often filled with vitriol. This is an excellent way to turn someone into an anti-feminist, because they begin associating feminism with the vitriol they received.  I think we definitely need feminism. I don't think feminism is a bad thing, I think it's a very good thing. I do wonder, however, if a lot of people we *perceive* to be anti-female are actually just anti-(what they perceive to be)-feminism. If my perception of feminism was nothing but a bunch of people who talk about castrating/killiing/etc. all men, I think I'd be rather anti-feminist as well.  Like I said, **do you think some of the anti-feminist rhetoric we see in tech (and even more broadly) is the result of this? I do wonder, very deeply, if maybe the actions of an aggressive minority are breeding an aggressive counterculture, which in turn is reinforcing the original aggressive minority.**
+Lies!  AD&amp;D 2e was far more nightmarish than fifth, never mind the mental gear change that was 2nd to 3rd.
+How can you speak authoritatively about game development when the only developer you've ever worked for is the indie startup *you* created?
+[deleted]
+Sorry, I don't have the vocabulary to explain it that way, but I'll cite wikipedia any day of the week!  "Feminist technoscience is a transdisciplinary field that emerged from decades of feminist critiques, and became an amalgamation(unite) of the study of feminism and science, technology and society (STS). It can also be referred to as feminist science studies, feminist cultural studies of science, feminist studies of science and technology, or technology, gender and science.  Feminist technoscience is inspired by social constructionist approaches to gender, sex, intersectionalities, society, science and technology. Feminist technoscience addresses among other issues gender questions regarding science and technology"
+[deleted]
+Whoa, let's not have an edition war in here. Does this look like the internet to you? 
+I think in gaming, the most imperative issue is the bifurcation of the field. Do you remember the game Binary Domain that came out a few years ago? This is the kind of game that simply isn't made anymore, a B+ game the takes chances and tries something new. Now it's just AAA overbudget games and scrapy indie games.  I do think Gamergate is an incredibly important issue, and I frankly think our industry is failed miserably in addressing it. The truth is, the overwhelming majority i'm journalists interfield are men, and it's really shown in the way they responded. Absolutely shameful.
+Do you hire hot guys to decorate your places of work?
+I'd love to see more positive messages from the amazing men who support women in tech be publicly posted instead of privately sent to me.
+&gt;MarineTrainedTeen420  kek, you've done your research
+I think it's completely exogenous to the subject of this book.
+I totally fell into it.  I had great role models in my father and grandfather who both told me, forever, that I could be anything, do anything, and be anything that I put my mind to.  And they were both engineers, at least for part of their careers.   When it came time to pick, I declared different intentions for majors, by college.  Had I gone to one, I would have been pre-law.  Had I gone to another, journalism....another, music.  But I figured it would be much harder to transfer INTO engineering once I was in school than to transfer OUT if I found I didn't like it.  I ended up choosing the school where I applied to the college of engineering.  But I still wasn't sure.  The thing that really saved me was a program that was developing when I started school that taught a very well-rounded education that was super practically oriented.  (I am not one of those people who learn well if I can't see why I need to learn something.)  Even though it was supposed to build talent in manufacturing and operations (also not a lot of women!) and I thought I had no interest in it, the educational opportunity to stay in engineering but have requirements in business, foreign language, and flexibility to be more well rounded really got me engaged in engineering as a part of my whole study.  Having that program really kept me in engineering, and it ultimately led me to tech because of the power of software and computational power when it comes to doing awesome things.
+who would you like to see as the first female president?
+I'm pretty sure that I've always wanted a career in STEM of some sort ever since I was the daydreaming little girl who wanted to be a flight engineer for NASA! heheh... that didn't work out quite as planned.. The 'boys' club is the most major roadblock that I have ever encountered. Being a female and not being invited or allowed to attend and do certain things because of my gender.
+I made a company!!!
+I have a question about storytelling/game creation and worldview. How does someone create a compelling game or story that has a particular worldview or political view and it not be overly polemical? For example, the "Left Behind" movies are terrible in part because they beat the audience over the head with the theology they're advocating. How does one create art that means something and not just propaganda?
+NCWIT (National Center for Women in Technology) has a great ["Top 10 Ways To Be A Male Advocate For Technical Women" guide](http://www.ncwit.org/resources/read-online-maleadvocate) you can send the men - thanks for asking!
+Define "criticize."
+I wanted to go to space when I was little, and my parents told me I had to study science if I wanted to go to space. So I decided I'd be into science and math.  In high school, an intro to robotics class is what got me hooked on computer science. Interestingly, when deciding to study in computer science, my concern wasn't my ability to do the subject, it was the fact that I saw a lot of guys who weren't welcoming to women in my computer science class. Thankfully I got to university and made lots of great friends in computer science, male and female.  Other roadblocks fall into the category of pivoting into a new speciality and feeling like I'm behind everyone. That's one I still work on overcoming! 
+[deleted]
+The hardest comeback is none at all.  I am ALWAYS tempted to defend myself, but there are times that realizing that there is no positive outcome for continuing the conversation is the best avenue. Stop, wait, and take a new path of communicating (sometimes to someone aside from the assailant).  I've never been involved in a flame war that has left me feeling positive. At the end, I worry about my own feelings and self-care first.
+I can copy my response from that thread.  Be a male ally. I have really great friends who send me relevant news, give me advice, and provide a supportive ear. Sometimes we have conversations where we'll both uncover unconscious biases, things we've done that may have been positive or negative, etc, and I don't think they know how much I appreciate this.
+[deleted]
+Exactly, Brianna. That's the point and purpose here. These are real women who have succeeded. I have an artistic vision as well, which is to see the biggest possible cross section of women in tech. This isn't just the straight white privileged American women in tech book. It's the ALL WOMEN IN TECH BOOK.
+Under ten? Get them Scratch!  It's a free programming tool from MIT. It requires very little typing (which can be hard on little hands), but is still quite powerful. You can either download it and run it on your machine, or you can play with it online.  Get a book about Scratch (my daughter and I are working through http://shop.oreilly.com/product/9781593274092.do), and work through it together. 
+What are your favorite games? PC or Console?
+You've highlighted the difficulties facing women who choose a career in technology. Are there particular advantages to being a woman in the field?
+I really would love to see the ama ladies answer this, but as a father with a boy and a girl in the same age range, I'd say give them access to computers and tech (monitor them a bit, though).   If they get interested in programming or design, it's just like if they want to play soccer or the violin. Provide the tools and encouragement. 
+Why are you using misogyny, or sexism, or whatever the fuck as an excuse for your game being terrible and people just responding to it the same way they would if it was made by whomever?  You realise you are abusing what little authority you have over a random bunch of people to go support your terrible product? Do you really believe that if the game was good people would still hate it?  Do you realise how laughable this whole thing is to people in the real world? How little it matters?  Women fight our wars, take care of sick people, discover new species. You sit around claiming it's important to note how Mario is saving the princess and not the other way around.   Why does this need to be a discussion? You have the same tools, the same rights and the same talents to create a better product, why not do that instead of fighting about equality where such already exists?   You (Brianna Wu) made a game, and by industry standarts even for an indy dev it looks terrible, it looks like it plays terrible and the writing is poor. And when people responded to that you took offense and blamed it on misogyny.  Good artists and people with talent would try again and try harder, not choose the easy way to gain popularity.  You are not a good person, as much as you like to think you are. You are a user.  
+Do you agree with the foundations of a meritocracy?
+I think the anti-feminist rhetoric comes from some people who don't like to see women getting mouthy. Period.
+2e4life! Everything after that was a pale shadow. /grognard
+[deleted]
+How do you work with people who don't think this is an important problem to be fixing?
+what about sexual violence? https://twitter.com/spacekatgal/status/543861421529120768
+This is going to sound self-promoting and fake, but I swear: this is real...  Each step in my career has been my proudest achievement at the time.  Each project or role I've had has built on and achieved more (for me, for the company, for both) than the last.  And it's going to be tough to top this.  Being a CEO is incredibly fulfilling (and challenging!) for me and it feels like a big achievement for me.  And being able to run a company helping people level up or start their careers in technology every day is so incredibly fulfilling and inspiring for me!  
+[**@Spacekatgal**](https://twitter.com/Spacekatgal/)  &gt; [2014-12-13 20:14:02 UTC](https://twitter.com/Spacekatgal/status/543861421529120768)  &gt; I stand by my statement that the GTA5 Private Dance minigame is such a terrible message, it could lead to rape. https://www.youtube.com/watch?v=aNwsNw0_Exg  ----  ^This ^message ^was ^created ^by ^a ^bot  [^[Contact ^creator]](http://www.reddit.com/message/compose/?to=jasie3k&amp;amp;subject=TweetsInCommentsBot)[^[Source ^code]](https://github.com/janpetryk/reddit-bot) 
+[deleted]
+THANK GOD SOMEONE WHO UNDERSTANDS! :)  What do you think about the current flavors of Fate Core and the Linux-like explosion of flavors of Fate that seems to be primed and/or unfolding presently?
+As someone looking to take the plunge from 3.5 to 5, what do you perceive as the biggest problems in 5?  Most reviews have praised it as a great edition.
+Be the unbiased party for the women in tech that you like. Just because someone is a male, female, or toaster doesn't mean that they shouldn't be challenged and be held to the same standards. I feel that we get away from this concept in some of these conversations. Like Tarah said, being a positive voice publicly is great, but also being a true colleague and having a mutually beneficial professional dialogue about what is positive and negative about their performance, issues, etc. can help /as long as you both are on those terms/!
+Here's my reply from the other thread.  And double thank you!  Thank you for asking, and thank you for asking again!!  We all have bias. The toughest type of bias to correct is unconscious bias because it is...well...unconscious. But if you learn about your own tendencies to interpret behaviors, you can more easily identify your own bias and correct it. Or others'.   So my advice is to study gender bias. This made a huge impact on me in grad school (before which, I just put my head down, worked hard, and hoped that results would be enough), and it's helped me to call out and correct bad behaviors in a super constructive way. I think the same study can help men. There are a ton of great books. It's been years since I studied this, but the ones that made the biggest impact on me were *Beyond the Double Bind: Women and Leadership* and *You Just Don't Understand: Women and Men in Conversation*.   And then seek out opportunities to positively and proactively speak up or take action on behalf of your female colleagues.   Oh! And mentor! :)
+I don't think you should feel uncomfortable - it's great that you've had a positive experience, and I think we all want everyone to have such positive experiences!  Unfortunately, I do think that harassment of women online is bleeding into the professional environment. Usually it isn't so blatant, but I think it points to many unconscious biases people have. The best we can do is try to bring more awareness so that we can have more women who are able to say what you just said about your experience in the tech.
+&gt; Define "criticize."  Wow, that's a tough one.  Couldn't find a definition anywhere.  Here's one I did find though:  *evade* 1 **v** avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
+Being blessed to call people that I admire my friends. Having the collaboration and friendships with such amazing luminaries in tech is truly a blessing! That and still being able to do this for a living. (and being awake at 4am to do this Reddit AMA :) ) 
+I loved rev60. It's the best AAA game ever given it's high budget, top developer/publisher etc. As it won GOTY 2014 and was more critically acclaimed than Half Life, have you any plans to make a sequel?   EDIT: Cannot believe I've been down voted by these sexist mysoginists. It's a legit question and I'm now a victim statistic 
+How do we get women to treat each other better? Girl on girl hate makes me so sad but is seems pretty prevalent.  Also awesome video by Laci Green talking about this issue: https://www.youtube.com/watch?v=1t0UvvYs3AE
+I wanted to go into space too!! 
+You can learn along with them!  [Kano Kit](http://www.kano.me/kit)  [Made with Code](https://www.madewithcode.com/project/animation)  Minecraft is also a great game to play with them, especially when you start looking at the modding community. It's a great way to get them to ask questions about how things works, how they may be able to make their own, etc.   Edit: The current [Humble Book Bundle](https://www.humblebundle.com/books) is particularly relevant! 
+ELI5 is for people who have read the Wikipedia article and still don't understand.
+Yeah, I cut my teeth on 2e. I still kind of miss THAC0 and the weird mental arithmetic involved, but I have to admit that increasing AC and DC is a far more straightforward mechanic. If nothing else, it makes it easier to get new players into it.
+Because I've lived it.  Some women have been very, very lucky to have found an accepting home in tech. That has less to do with tech, though, and more to do with finding the perfect tribe to hang out with.  Me? I got forced out of one job due to having a son. I nearly got forced out of a second when I had my daughter. I've had dudes in meetings make comments about my breasts and legs, even though I dressed conservatively. My ex-boss tried to turn me into his secretary several times, because that's what the lady on the team does. My PM told me, quite seriously, that if I wanted our sys admin to do anything, I would have to flirt with him.  I, too, have had many good experiences. It's why I'm still here. But the bad experiences still happened, and have nothing to do with online harassment.
+I wasn't told that I was good at math until much, much too late to get degrees in it. I started calculus in grad school so I could do quantitative analysis of data on warfare and small arms transfers. I ended up doing hugely advanced computer simulations while doing PhD work, and I loved it! Turns out computer skills pay much better, too ;-)
+Not the best thing to reply in an Ask Me Anything.  You might get comments about being like Woody Harrelson.  If you don't want to have your opinions on this issue made public, simply don't answer.
+I agree with Kate's and your advice.  One of the things that has been speculated to have been a part of the decline of women in computer science since 1984 has been that once we all started having computers at home, the one computer ends up in the son's room.  Keep that computer out in the open and encourage learning play with Scratch and exercises like those on code.org's website.  
+On the Gamedev side? Disney Infinity is a wonderful tool. It's a kindergarten version of Unreal, and will let kids visually script their own game. 
+My parents fed both my sister and I a steady diet of legos, science kits, educational games, and encouraged us to think of ourselves as scientists. The thing that really got me was the lego mindstorms kit, which they got for me back in 2000 I think.
+YEAH, Whatever Katie says is the thing you should do; she's the top programming educator for Python in the world!
+Thank you both for your replies, I appreciate you taking the time. I will definitely recommend your project to my friend who is more personally invested in the field. I would've loved to see an academic standpoint, or at least the perspective of someone in academics. After all, to get into most "tech" areas, you have to have a pretty good degree, and from what I hear, university life (especially in STEM fields) is riddled with inequality. It would be interesting to see these issues and experiences addressed - I think they could prove relevant to the theme of "Women in Tech".  Again, thanks for responding. I appreciate the discussion.
+&gt; Unfortunately I've felt uncomfortable expressing my opinion openly for fear of being attacked because my experience in tech has been so extremely positive.  Same here. I come from an overall rather misogynistic country, but when I discovered I'm interested in STEM no one told me I should give up on it or anything. Some people expected less of me, but starting from the University level I was always treated as an equal (many times especially looked out for even because of women being a rarity). My overall experience is very positive as well. I don't understand most of the drama regarding this.  I come from Europe, maybe that makes a difference.
+Can you do so respectfully? And have you, in the past, criticized a man for the same act? Those are usually two good litmus tests.
+Have you ever successfully shipped a game, Kierufu?
+I have experienced this myself and would like to know what advice can be given in regards to creating a better work environment. As in what can I do?
+How do you deal with the massive amount of trolls and otherwise misogynistic people on the internet who bombard you with hate all the time?
+Pointing out flaws, pointing out logical inconsistencies, etc,
+All the carby goodness of pancakes, with special compartments for extra butter! 
+The others might disagree with me on this, but I think that we need to move away from the fear of 'wording things incorrectly'. If something a male says gets misconstrued, then it needs more communication.   I SO agree with the 'no special treatment'. Heck, I never really viewed myself as a 'Girl In Tech', just a person in tech. Yet, I don't want to not be included in the lunches, dinners, golf outings, off-sites, etc. because the wives/girlfriends will be jealous. This behavior is what makes us special snowflakes, and often times makes women feel things they shouldn't' feel in their careers.
+Listen more than you talk. Believe women when they tell you stories that conflict with how you see things. Respect their judgement on issues regarding the sexism and other negative behavior they experience - ultimately they have a perspective that you can't see, and that's not a bad thing.  Look for ways in daily life to correct small examples of sexism, male preference, male-as-default, or language used to equate women or something feminine with "lesser" or being inherently negative, whether you're changing your own habits or bringing it up to a friend or coworker. People will start consciously reconsidering these things when they've been brought to their attention enough.  Hope this helps :)
+[deleted]
+I hear a lot of people talk about the advantages of emotional literacy; I think that people skills are a kind of currency often overlooked by very technical minds. That being said, understanding someone's emotional state doesn't do you any good if they won't treat you as an equal.
+Diversity in general is killer when it is embraced.  Women bring a ton of value to products, empathy, teamwork and perspective and make a team/group/company better.  (MIT even says so: http://www.theatlantic.com/business/archive/2015/01/the-secret-to-smart-groups-isnt-smart-people/384625/)  And many women and men have a different/less-competitive relationship when working together.  So sometimes there is less posturing and more getting-work-done.
+[deleted]
+[deleted]
+What book? If you mean the AMA then it's not. It stands for "ask me anything"..
+[Made With Code](https://www.madewithcode.com/) and [Hour of Code](http://code.org/learn) are a good start to make simple programs and get an idea of what programming can do! There are plenty of free resources online from beginner to advanced level. 
+Really, anyone!  Just that step would be huge.  (I cringe as I say this, but I think I do believe it.)
+We used to talk about this all the time in grad school. So far, most of my friends who wanted children and did a PhD have managed to make that happen. The one thing they all have in common is a supportive spouse. So yes, possible, even if it isn't easy.
+CODE COMBAT!!! :)  There are tons of cool coding games and such available now. I'm SUPER jealous of kids growing up!   Also, MOST IMPORTANTLY, encourage what they want to do. Exposure is great, but I have seen an interesting turn with my 'tech-parent' friends who seem to be pushing it to kids who don't have the desire. Minecraft is amazing for kids to get the logic concepts though :)  
+ As part of the tech community, its great to be a piece of building so many cool and interesting products, I definitely couldn't imagine myself doing anything different. While I totally understand that there are issues in the industry, it is disappointing to see how everyone is equating the behavior of random idiots on the internet with how people behave in a professional environment.  I feel we're attacking the wrong enemy by internalizing the problem in tech.
+So what you want is to point out the flaws in another person, rub their face in their logical inconsistency, and have them still like you as a person?
+[deleted]
+Find me a recognized definition of criticism that includes the word sexist and we'll talk.  
+Destiny on PS4 currently. ;)
+I think you're assuming that we are closed to new chapters. I am actively seeking more people to participate, and I would LOVE to find a great woman academic technologist who will fit into the book. Reach out to the ones you know, and ask them to email me at t@thetarah.com
+Coffee!
+I thin that's generally the way to go. The more open and public people are in regards to supporting women in tech, the more it reinforces the idea that such behaviour is acceptable and how it should be.
+Hugs! I think there's few enough women in tech that I don't have the energy to worry about female competition. Instead, I worry about making sure that everyone has a voice. It's silencing, not shouting, that we need to combat.
+There's a lot to unpack in your statement. There seems to be an assumption in your statement that women are above criticism, which is demonstrably false. I believe that women are help to double and triple standards.   Your statement also assumes that you are the ultimate authority on what is misogyny and what is not. The truth is, in all of my dealings with Gamergate and the game industry, I have almost never encountered a man that understood when he was being sexist.   Maybe the women who feel you're being misogynist have a perspective on misogyny that you do not? Very often, men assume they have MORE information on this subject when the truth is they have less.  
+I don't know--I think that view is a little narrow! Huffington Post did a [survey](http://big.assets.huffingtonpost.com/toplines_gender_0411122013.pdf) (which I hope I have linked correctly!) that found that people *overwhelmingly* supported the basic idea of Feminism, that women be   &gt;Social, Political and Economic equals  But in spite of that, the largest majority declared that they weren't feminists. Everywhere I look, the term "feminism" takes on a very different meaning. I can completely empathize with anyone who hates *any* group because of the fringe minority. Perceptions are formed by experiences and the negative ones stick out the most strongly. I guess my primary concern is that the non-fringe majority *isn't acknowledging this*. I would love to see more women in tech; I would also love to see more people acknowledging that *everyone* needs to be more empathetic and understanding.  Part of this, I guess, stems from the fact that I can't say that people are inherently *bad*. **People do things, good or bad, for reasons and anyone attempting to champion change needs to acknowledge that, don't you think?**  At the very least, when *83%* of people want women to be equal to men, but only about *20%* think of themselves as "feminists", isn't that an indicator that *something is wrong*?  Edit: I missed an apostrophe and a t. My post must have been very confusing towards the end there.
+YEAH BRIANNA WHEN DO WE GET A NEW ONE!!!!!
+I should clarify -- I was thinking of Brianna specifically with this question (though others feel free to answer). I've heard Brianna make a number of comments on representation -- i.e. more and better representation of women in video games. How does one do this in a way that feels organic to the story and not just polemical?
+Mrs. Wu is the only one presenting herself as an expert in a field she's only ever been self-employed in, and has never enjoyed either commercial or critical success in.   Nice personal attack, though. It absolutely discredited my question.
+Constructively. There's been a big discussion recently about specifically *why* Linus Torvalds' approach of "shitting all over developers and their work" is a terrible way to try to engage volunteer developers, and why it works much better to say "This code isn't any good, here are the problems with it, I'm confident you can do better on your next attempt". If you're careful to express yourself in a way that shows that you want to help the person you're critiquing do better next time, and (more importantly) are open and receptive to people telling you that that was a shitty thing to say, you won't have to worry about coming across as aggressive or misogynistic.  Check it out here: http://www.curiousefficiency.org/posts/2015/01/abuse-is-not-ok.html
+I don't disagree at all, I think this is spot on.
+Sorry you had those experiences. Those are the exact types of behavior that HR and lawsuits are created for. Those are the people that need to be kicked out of tech.  As a mom of three, its been hard managing time at work and time at home over the years. Especially since I tend to take my work home with me a lot.  I do see many things improving especially now with the large amount of information and tools we have available to us that will hopefully bring many more people in general in to the tech industry. Exciting times :)
+so the obvious reply is, would it be "worth" electing Sarah Palin?
+[deleted]
+Hello! Woman in Tech here. Thanks for doing this (I am going to follow you all in Twitter, as well!)  My question: Getting women into tech is one thing, but having them stay is another. Why aren't there more initiatives with trying to get women to stay? I've already thought about it before, and some of my lovely friends have thankfully talked me out of it. But there is a hemorrhage, and no one seems to be addressing it at all!
+Wow, that's fascinating. 20 years with that little discrimination is nothing to sneeze at. Out of curiosity, would you be willing to share some examples of the companies you've worked at? It's good to know which workplaces are and aren't the welcoming environments you've mentioned.
+Now that I'm not typing on my iPhone, I can answer this question more completely. The most important thing is, educate yourself on the issues women face. Network with women, listen to them, advocate them professionally.   Men have a power over other men that women completely lack - being a peer. If I tell a guy to knock off some sexist behavior it's going to get really hostile, really fast. Men can do this with other men and it's more effective.   When women aren't included, speak up. The truth is, you have more power to fix this situation than we do. 
+As another woman in tech, I'd like to say that I don't experience much of it either (it comes and goes...) -- but I still think I should be there to support the women who DO have issues, and be there for them. Outright denial is not the way to go. :)
+Do you see any way to make Twitter better about banning harassing accounts such as @\_RogueStar\_ ?  He's already been banned, but just comes back, and Twitter makes us start all over again as though he has no history of harassing.  Twitter seems to know about the problem, but drags its feet.  A lot of 8chan harassment is actually carried out on Twitter, and most doxing starts when the person comes to baph's notice on Twitter.  Is there anything we can do to make Twitter safer for women to speak out on?  If not Twitter, is there a woman-friendly alternative you use?  I'm a fellow woman in tech.  I'd love to talk to you all on Twitter, but can't personally deal with the intense harassment there.
+I'm sorry, it seemed that way from reading your Kickstarter. Sorry for making assumptions. I know one or two people within academic informatics who might be interested in contributing. I'll be sure to let them know where to contact you, should they be interested!
+It's also so polarised of a topic that it's a great way to derail the thread.
+&gt;And have you, in the past, criticized a man for the same act?  So women come second once again , yay!  
+I had a moment last week where I felt overwhelmed because I had so many amazing projects going on, and so many options of other awesome projects to work on, and I thought to myself - this has got to be the greatest privilege that this is my dilemma. It's a long way from my low points, that's for sure.
+Yeah! ^/s    Actually, I mean pointing out any flaws I see in their work or public actions without being _unjustly_ maligned and slandered with vague catchall words that short-circuit discussion.   &gt;rub their face in their logical inconsistency  I never said anything about that  &gt;have them still like you as a person  Hmm? Who said anything about that?   So... is what I said an acceptable way to criticize a person?
+Launching Revolution 60 was a lifelong dream. But, I think when I'm 90 looking back over my career - standing up to Gamergate will be the moment I'm proudest of.   In Gamedev, every woman I know is terrified of it. But there are just a handful of us that have spoken up publicly, and we've taken a hell of a lot of heat for it.   When my moment came, I didn't back down - I stood up and I fought for what I believe in. And I'm proud as hell of it. 
+Parents of any gender have created solutions to working and parenting that work for them.   I host a popular series of events called [Bay Area Girl Geek Dinners](http://www.bayareagirlgeekdinners.com) which are full of successful technical women -- some who have kids, and some who don't.  Silicon Valley parents are often privileged to have strong (and often dual) incomes to assist with childcare and help around the home, here's [one story of software engineer parents](https://medium.com/@jean/about-alina-bfd2e4bc3eb4).  Generally, American parental leave policies leave much to be desired, as [this recent New Republic article illustrates](http://www.newrepublic.com/article/120939/maternity-leave-policies-america-hurt-working-moms).
+I agree with SecBarbie. I have been excluded from event after event, trips, parties, sports outings, and so many of the things that make up real professional life not because the wives or girlfriends would get jealous, but because that was the excuse offered to me so that having a woman along wouldn't harsh the buzz. Clearly, they've never partied with me.
+I couldn't agree with you more tatiana!   I have no answer for that. Girl on Girl hate is horrible in tech and out. You would think that we would figure it out by now. I believe that ladies in tech are 100x more awkward individually and that causes a ton more issues as they have often been the recipients of the 'mean girl' attitudes throughout their life.  
+There's a lot of talented female leadership out there.  I have no idea why she said "anyone". 
+I'd like to say that HR isn't always the way to go-- Oft times they have the company's interest at heart, not the people.  Case and point: I had words with HR about issues that I had at my previous company and they deemed my manager more valuable to the company, so they got rid of me instead. Unfortunately I wasn't there long enough to take them to employment tribunal, and I was also a skilled migrant on a t2 visa. Every story is different.
+Would you mind elaborating on Binary Domain? What did it try that was new and why wouldn't it be made today?  
+Agreed. THAC0 is a pain. I actually run 2e with that one change to AC from 3e for exactly that reason.
+Exactly.
+For me, it's the fact that many tech shops want me to erase my family.  It's a hard phenomenon to describe, but I've run into it at several shops. It's more than "Don't tell stupid stories about your kids." It's when a boss asks you to stay late at the last minute, and looks at you like you're an alien when you remind him that you have to get the kids at daycare. It's when you're asked to travel to a non-vital meeting at the drop of a hat, and they're peeved that you refuse because there's no way you can get your spouse's schedule switched in time. It's when a kid is sick and you have to explain, AGAIN, that you can't just drop him at day care and have them deal with it.  It's not the biggest issue facing all women, but it is one I keep running into over and over that's increasingly frustrating, because it's one of those problems that's impossible to solve perfectly without one spouse just giving up their career and becoming a homemaker. 
+[deleted]
+Why do you believe the push for getting women and girls into technology-related jobs is significantly larger than getting women and girls into other non-tech careers that are traditionally male-dominated?
+I have found that there are some parts of tech more available to women with families. Personally, I could not have started a company as the CEO and had young children. I focus so hard on making great product and building a great team that I have the emotional energy to collapse at the end of the day, and not much more. But it's a happy collapse ;-) I find that remote contract tech jobs are often very welcoming to women, because no one cares about anything other than whether you can code.
+Do you have any studies to back up your anecdotal experiences? I'm sorry that you had to endure that but is it reflective of the majority of women in this industry?
+Sure! Most have been larger companies like IBM, Microsoft, Sprint and then Infogrames and Electronic Arts. 
+Someone amazing.
+&lt;3
+What phase of authorship is the book in?  How has it been to collaborate on a single project this way?  How have you handled disagreements in the whole process, anyway?  (Edited) What have you been surprised to learn from each other working on that book you're all writing?
+You are absolutely nailing this thread. Loving all your answers so far!
+I think sexual harassment gets all the headlines, but I believe discrimination against mothers is the most critical issue women face in tech. I say that as a non-parent.   I could easily name 30 women software engineers that left the field because they got no support after having children. We've built this whole industry that is by men for men. It works fine for a dad with a wife at home, but it's not great for other kinds of parents.   For my employees with children, it's not complicated. You're flexible when emergencies come up, you respect that leaving at 5 to pick the kid up from daycare means leaving at 5 no matter what. You show genuine human interest in their responsibilities as a parent.   It takes so little, it's the right thing to do, and you're rewarded with immense loyalty. 
+This is a great question due to the fact that I have heard about this, but I've never really seen it happening. Sure, women (and men) leave the tech space when their personal lives change. Sometimes they choose to pursue careers or lifestyles that aren't as rigorous. Without knowing that a large group is all leaving for a similar reason, this is hard to answer.
+Honestly?  More to a country that allows this and actually wants their population to have children. IE: Sweden, Denmark, etc. Great social security and it's considered perfectly "normal" to have children. And for both of the parents to take time off equally for the children.  I just moved to Sweden-- I got a job offer here. There are lots of companies here hiring skilled migrants (especially in technology)-- and I know lots of researchers who have also found work here, too.
+I think more men need to understand that they can *benefit* from a crappy system without being *responsible* for it.   In most cases, we're not attacking a particular guy (unless he's been particularly heinous). We're attacking a system. If they can see that the system is bad *and is hurting them, too*, then it becomes easier to see where we're coming from.
+I think you've hit reply to the wrong comment or something.  You might one to check the usernames on comments before you reply.  This is an internet discussion board not a 1-to-1 chat room.
+What is it like to set women back a decade?
+WAR!!! Is it really a 'war'? Really?
+I'm going to answer your question because the OPs seemed to interpret it differently. I'm a female software engineer, and I've noticed occasional favoritism. They would sometimes prefer me ahead of men because 1) The company wants/needs more diversity 2) Women in general tend to be more organized/well documented.  Since I'm a rarity in my field, I've found that many people appreciate my presence even more. Since we are rare, I've noticed many men being more careful/courteous and be actively welcoming. Most of them treated me as an equal though which is obviously the best option. 
+I'm into a weird confab of American and British fried breakfast right now. Fried mushrooms and tomatoes, sunny side up eggs, tasty pig of some variety, toast with marmalade, TEAEARLGREYHOT.
+I also think it's spot on. 
+Actually, Linus is one of the best examples of the non-coddling management system working extremely well. You can't argue with results :)
+It's 6am here and you just made me mighty hungry!
+Does it matter?
+Why do you think this would set anything back?
+&gt; It's a hard sell to make people believe that women will be strong when often women are socialized to be cooperative instead of confrontational.  Do you think women need to (more) be confrontational to succeed in tech?
+Getting published!  I write technical books, and each one has felt like climbing a mountain. With coding, many of the successes are created of small victories (dev, alpha, beta, releasing, etc), so there's no big cymbal crash. With a book, I can hold it and smell it and flip through it and post pictures of it to my friends.
+The truth is, I won't do R62 without a lot more money. My team went through hell shipping it. We should have had twice the staff.   Four years is a long time to work on any project. For now, I'm concentrating on the VC scene to expand, and we'll see where it goes. 
+Scratch is great! Another good one is Stencyl, although that's a bit more complicated.
+Yeah, it is. My brother's ex-girlfriend tipped off a cop that my mom was keeping heroin in the house (she wasn't). Twelve squad cars showed up in the drive way and they entered the house without knocking, guns drawn. They took her pipe and less than an ounce of pot. No heroin was found.  How do you define war?
+FANTASTIC QUESTION! A+++  I've wondered this myself a LOT. I mean, is there a big push for female firefighters, construction workers, welders?  Perhaps this is why I have my attitude. I came from a construction family (I also have a degree in it!), and women involved just fought harder and didn't take people's shit. I feel that is the same in tech, but there are definitely no books or AMA's about it.
+I would, if women were part of defining what has merit. But, we're not. The industry is set up for men by men, and frequently there's unconscious bias against women. Hell, in gamedev, I run into people all the time that primarily value women for their looks. 
+NANO KICKS THE ASS OF VIM  /troll
+thank you all for doing an AMA! Brianna's been a hero through all this recent stuff, and i'm glad that you all are still speaking out and engaging and being role models.  assuming we feminists who are already in tech/development act in positive but quiet ways in our fields and with the women around us, do you think the healthier path forward is for us to:  * loudly proclaim ourselves as feminists and deal in a public fashion with all the misconceptions and biases people have about the word?  or  * keep on keepin' on and give support to public figures in private ways, and explain how we're feminists when asked?  i'm not a particularly public person, and i'm pretty sure i'd shrivel under a fraction of the abuse that lots of public feminists are suffering, but i don't want to *do nothing*. and even just the word "feminism" has so much baggage attached to it in so many people's minds, just discussing it feels like getting stuck in the weeds sometimes.
+I have a teen, so I'm pretty good at handing out a withering look. That's made the face to face ones back off pretty quick.  Online? Eh. I mostly ignore them. If they're lucky, they get an eye roll gif.
+What do you think of the position that focusing the trials that some women face in tech scares more women away from it, and causes companies to not want to hire women because they fear lawsuits?
+Geena Davis.
+Tabletop. I'm OG.
+We all take science and math classes in school, and have exposure to professionals like doctors, but most of us don't have computer science classes in K-12 classes or exposure to Software Engineers. So may this means your exposure to what it means to be in tech are movies like "The Social Network" or "The Internship", recent examples of highly unbalanced portrayals of women in tech. I think the combination of a lack of cs education and popular culture's portrayal of tech have hurt engineering and technology.
+&gt; the VC scene  Victim Complex?
+In general, I deliberately choose to work with people who don't think this is an important problem, but that's because I'm sometimes brought in as a consultant to help out companies that face a serious lack of diversity and have crummy poorly-targeted product as a result.
+I'm surprised you've not seen it happening, seeing it happens so often!  http://fortune.com/2014/10/02/women-leave-tech-culture/ http://www.fastcompany.com/3037075/strong-female-lead/why-are-women-are-leaving-science-engineering-tech-jobs etc...
+That's a beautiful response!
+If the main goal of a company is to make a profit, wouldn't it make sense from a logical standpoint to hire an employee who won't leave at random times over one that will?
+There are bigger fish to fry then video games on this topic. I think the GTA5 and other games that include overtly sexual events with women up to and including rape-like scenes are just ridiculous. The games don't benefit from it, neither do the gamers.
+My concern, as someone who is new to the industry, is that the internet is more and more becoming part of our professional environment. With indie developers especially. There has been a rising expectation that we need to interact very personally with the community. Unless I disappear into a very large company I fear that I'll be pressured to be more and more public. Do you have any experience with this?
+[deleted]
+For those of you who know women who have dropped out of the field and not because of parenting - which, while it happens, is neither the leading cause nor more prevalent than in other fields - what was their reason? And, on a positive note, do you know anyone who has left the industry who then returned later (and why)?
+Totally agree. We really need to address attrition. I used to wonder why all these women were leaving tech, and then the micro-agressions started to add up. I think it's up to all of us in tech to speak up about this and try to fix the things that lead to women leaving tech.
+Disney Infinity is a wonderful introductory tool. I'd suggest MIT's Scratch visual tool for younger kids as well. Gets into variables and loops using puzzle-type pieces and easy to use sprites.
+I took an inventory of my talents, and this was the one that I enjoyed, and that paid well. Romantic, eh?  My first biggest roadblock was getting laid off right after having my son. Let me tell you, it is NOT easy to get a tech job when you have a very small child. All of the entry level jobs basically wanted someone completely unattached, so they could work insane hours.  My second biggest roadblock was fighting managers who wanted me in other roles. One wanted me to be a secretary for the team. Another wanted me to be a PM. I've had them assume that I'm a designer (especially since I do accessibility work), or that I'm more junior than I am.
+[deleted]
+There's "not coddling" and then there's "being abusive". Linus leans toward the latter; I've read his email threads explaining why he wouldn't in a hundred million years consider accepting a given pull request.  He's a smart motherfucker, but he's also a raging asshole.
+What do you mean?
+What's your proudest career moment?
+Well, you have a phony like Wu in your collective. Other than the fact that there are no issues with women in tech, this is one of the more embarrassing things to come out of this AMA. Wu is the single worst possible person you could add to create some type of validity to this nonsense AMA.
+Recent headlines identified the top-earning woman in tech as a transgender who was born and socialised as male. Do you think that transgender m2f should be included in statistics about women in tech? Should they participate programs designed for women, since any place they take means one less woman who was born female can participate.
+I'm a nerd. I've done dev, pm, test, ops, and release management over my career. I'm also a woman. It seems the more I hear about women in tech struggling the more a voice inside me says that all the good &amp; bad things that happen to me are related to my gender.  For example, I just got a really cool opportunity but I'm having trouble enjoying it since I keep wondering if I get this chance because I'm a woman or because I'm just a badass in general. Any tips for shutting up my internal gender discrimination monologue?
+Men need to be less confrontational and make room. All the way across the board.
+One that I don't have to put together myself.  Love the meal, hate cooking that early.
+Hi,   I'm a game development student and can't wait to get into the industry. There are far fewer women than men in my major but from what I have seen the women are treated equally and I hope to see this continue into the industry itself.   So, what do you mean by "there are signs everywhere that say 'no girl allowed'"? I haven't seen anything of the sort and would love to be able to recognize them.
+OMG I wanted to be an astronaut so bad!!!
+I've sure experienced it. I literally just left court today to testify about the death threats I've gotten from the very misogynist game industry. And I have other horror stories from other women here.  Your question is about the industry itself. I think you can look at the outcome and see women are clearly not making it into the upper echelons. We're not given a fair shake in the VC process, we're not considered for the top spot.   I think almost none of this comes from conscious discrimination. And I think there are good people with harmful attitudes they don't understand.   I strongly agree with the comment that outright denial is not the way to go. 
+Film critics can criticize a film without ever making a film. The same can be done in games.
+*inhale* I live in Washington. The war on drugs is over who gets the last Dorito.
+[deleted]
+Challenge your own subconscious biases. Work to figure out why conflict is there without labeling it as petty/female or meaningful/male.
+This is a big issue facing everyone who has different lifestyle complexities. Going back to the question as to why people (women and men) leave tech, this is a great example. Quality of life wins sometimes. (Says the girl on the last-minute trip to Asia)
+sigh...   http://imgur.com/a/TtAZb  Just downvote away... wouldn't want anyone to challenge that narrative with facts now...
++1 on Minecraft. I hear that parents love Minecraft for expanding out kids' spatial awareness. Also, my husband plays it with his son and loves it.
+Thank you for the book recommendations! Added to my wishlist
+Thank you!!! =)
+Women are the only employees that leave jobs randomly. Noted.
+No.   Working is tech is a very creative field. Who wants to work with a dictator sitting on a throne decreeing when and where you must code? That might work for a fast food chain, but it's not a good way to build great software.  Employing someone is a two-way street. I give them something, I get something. I have to give criticism as well as receive it. The best teams have a culture of mutual respect.   Kids get sick. My co-founders daughter randomly got extremely sick last year, and she very correctly spent several days at the hospital by her side. It was crunch, but who cares? You would have to be a monster to not have flexibility in that situation. 
+&gt; Hope this helps  It does. Thank you for your thoughtful response.
+Wu, Would you consider crying poverty to solicit donations from others, for the purpose of funding your own personal ambitions of independance, before during and after purchasing yourself a new motorcycle to be ethical or unethical? Honest or dishonest?
+Yes, this is what's happened with me! Thankfully I'm at a fantastic place now, but my previous job was absolutely horrendous. So one can hope that things will get better.  But not every woman has this experience. If they keep going from one bad company to another, they'll probably just get worn out. And that is a loss.  I wouldn't want to get girls into this sector if we can't even manage to keep women in it. :/
+maybe the main goal of the company shouldn't be profit but ingenuity and the product it puts out, profit can come from having those foundations. 
+Trust me, if you got that chance, it's because you're a badass.  I know people like to act like women get some sort of special equal-opportunity-employer ticket, but the truth is, it's *harder* for us to get those chances, because those looking at us start detracting points from us the second they see that we're a woman.  I mean, look at what happened when a guy added "Mr" in front of his name: http://whatwouldkingleonidasdo.tumblr.com/post/54989171152/how-i-discovered-gender-discrimination
+Flexibility depends on the ethos of the company. Personally, yes, being a primary caregiver or a split-caregiver family complicates things. Females can have nanny's, Females can have stay at home spouses too. Or you choose the occupation and career that fits your lifestyle. Work isn't everything.
+Wait you worked four years on that piece of shit? Hahahah
+So well said. I actually had that conversation with a friend re how parental leave policies and how we use them affect women and men differently. He didn't realize that though he's definitely a male ally, he'd inadvertently benefited from not having to take leave when having a child.
+Unfortunately I think you're probably right. It really pisses me off that I could have more of a voice than a woman to speak up for women.  ^PS: ^HUGE ^fan ^of ^Isometric! ^Rocket ^is ^growing ^on ^me.
+I concur that you have every right in the US to criticize things you don't understand.
+Nice resource, thanks for sharing.
+Because its not as bad as she makes it out to be.  This took 12 seconds to find...  http://www.mcvuk.com/news/read/top-100-women-in-games-rhianna-pratchett/0144602
+C'mon man, leave Donna Quijote alone.
+All about that Tea. Earl Grey. Hot.
+[deleted]
+I think women are a lot more fun to hang out with socially. I think we're throwing the better party. Otherwise, no.   I think some men feel like beautiful women get all the career breaks. But, I have to say. I have friends of mine that are particularly gorgeous in this field and it seems like it introduces a whole string of headaches. I think they're not taken as seriously. I think it doesn't matter how skilled they are, men primarily see them for their looks. And I think its something that's inevitably going to fade over a career.   Don't take my word for it - look at outcome. Who is dominating the top fields in tech, and ask yourself if they're men or women? 
+Venture capital.
+It's a tough call. Recognize that the profound disadvantages you face will, statistically, never be overcome by any preferential treatment you imagine you're receiving. If that was the case, you wouldn't, statistically, be making 82c on the male dollar. I just like meeting people and working with them to the best of my ability, and I leave guilt behind due to my understanding of the stats.
+&gt; "This code isn't any good  Some people would be offended by that.
+Sorry. I just don't like lies. What's even more pathetic? People eat that shit up and donate all that money..... which she used to pay off her bike. Smh
+Honestly, most companies don't fear lawsuits. I mean, they'll say they do, but they know the numbers are on their side: Women won't report out of fear, and cases will be hard to win, because proving something like 'sexism in the workplace' is hard to prove.  I don't think ignoring the issues will solve anything, because we all find them when we start in tech. 
+Loudly proclaim in public, please. It helps to add positive voices. I get a lot of furtive messages of support from people who wouldn't publicly post anything saying they're a feminist because they will lose friends. 
+I still struggle with this. Some years ago I went to the Grace Hopper Conference from Women in Tech, and that experience helped me to realize that many women struggle with this.  Somehow, knowing that we're all having this internal monologue helps me to discredit that voice and ignore it.
+[deleted]
+You don't have to make games to criticize games, but claiming you're an expert on *the employment of women* in game development when you've literally -=*NEVER*=- worked for a company that *you didn't start* is intellectually disingenuous in the *extreme*.  
+I hope your project advances beyond your greatest expectations. How will you celebrate?
+It's a critical question.   All respect to my friend Jean McDonald at App Camp for Girls, but sometimes I see people talking about getting girls interested in tech like it's the answer and I want to scream, "What about the ones that are already here!!!???"   I think the long term solution comes from getting women in management.
+That's a loaded question. I like to think that what we need to do is not force either "side" to be more "x" than they already are. Instead it's incumbent on each of us to recognize how the other person is trying to communicate with you, and to place the best possible interpretation on that style. Don't think weak, think cooperative.
+Mallory Archer
+I loudly declare my feminism. You get some flack from it, but that's been helpful at times. I've had many people I know out themselves as someone I don't need to associate with, and that just saves me time and effort.
+[deleted]
+So it's illogical to hire a more consistent worker over a less consistent worker in order to optimize profits?
+Sleeping!
+&gt; I could easily name 30 women software engineers that left the field because they got no support after having children.   Name 5.
+I have a friend who left a job and considered leaving the field for quite a while. The little microagressions just added up, and afterwards, she was too worried about picking a new job that might have all of the same issues. There's a happy end to this story though - she's now working on a startup that she cofounded!
+I've been following both sides of the Gamergate debate since the beginning. It seems like there are some legitimate concerns about journalistic ethics &amp; narrative pushing in the media that are being written off as misogyny. Do you think there is any validity to those concerns?
+I think about unicorns and rainbows.
+Just like how Brianna Wu always talks about women.
+&gt; Other than the fact that there are no issues with women in tech  [You](http://static.comicvine.com/uploads/original/13/132947/4122337-0226737847-colbe.gif)
+What brought you all together to make this book?
+Do you think continuing to push a sub par product, rather than moving in a more positive direction, is damaging to the professional careers of the junior developers working on the project?
+Honestly, giving me a filter for tweets directed at me would be GRAND. If you're not my friend, I think we can safely assume that there's a whole set of words I'd rather not have directed at me.
+This is a huge subject, but before I answer I'd like to stress - women are generally not the problem women face in tech. So, let's remember that.   I think a lot of women here define themselves as not like other women. And I think some women that have had longer careers are playing with an outdating playbook, where women are competition and silence is rewarded.   I have a professional rule to never attack other women, and I think it's a good one. Did you know that a Republican woman and a Liberal woman agree on more things than a Liberal woman and a male moderate? Feminism is not a single point we're moving towards, it's a continuum of all our views. 
+Downvoting merely means your question was not seen as adding to the conversation. Jumping to call downvoters sexist misogynists (note the spelling) and playing the victim because 3 people didn't like your question makes you look foolish. Maybe you should stay away from reddit until you can handle it like a grownup.
+I have an unhealthy love for the Mass Effect series. Final Fantasy, Danganronpa, Final Fantasy Tactics and the Tomb Raider reboot - I could go on for hours. 
+I think it's exogenous to this discussion. 
+Tarah is the amazing life-force that has connected a lot of us. It's fantastic to collaborate on a project with women across a lot of different spectrums in tech!
+Maybe I'm in the minority, and from the vast amount of pull requests from developers (male, female, toaster) it would seem I'm not, but that doesn't seem abusive. Sure, it's rather brunt. Abuse is much different than merely being told you aren't a good programmer and your work isn't good.
+I didn't know you had a construction degree! So cool..
+A lack of role models was huge. It's why I spend a lot of my time talking to students and trying to be the career example I never had. 
+PyLadies (at least how we do it in DC) is part outreach and part getting women to stay. Being in a network is a powerful thing, as you've already seen. Sometimes, we need someone to talk us into giving tech one last chance.  It is something that needs to be addressed further, though, and it should get easier as the more trying parts of our industry become rarer.
+I gave up on it about 8 years ago when I moved away from the US. Been watching it from afar. It's a lot better to watch from 10000km away. :)  Although I admit I left at the right time-- I had no property, nothing to my name. The US makes it difficult for ex-pats, but it's not impossible.
+I did. To be clearer, I ratcheted up some courage and asked some of the most famous tech women in the world to write short autobios of why they love technology.
+[deleted]
+I have to be honest - I personally haven't seen agism. 
+Where?
+"Lookie here, your compiler does some absolutely insane things with the spilling, including spilling a *constant*. For chrissake, that compiler shouldn't have been allowed to graduate from kindergarten. We're talking "sloth that was dropped on the head as a baby" level retardation levels here" -- Linus Torvalds.  That's abusive.
+Who could be a better expert than someone who's hired lots of people?
+I've just moved from London which had lots of Women who Code things and whatnot-- but the stars never aligned properly for me to meet up with them! So now looking for similar things in Stockholm :)
+As I understand it, Tarah is my editor. I have a chapter, she's my boss. 
+One way? Call others out on it, kindly. I've had to do this a few times, and I always remind the other woman that this kind of stuff is put in place by a crap system that would rather women fight each other than help each other.
+&gt; "so let's make it better"  Immediately fixes that. Constructive criticism includes guidance on how to improve.
+I almost wrote that I'm not saying to ignore the issue, but I thought, naaah, it should be clear I'm not advocating that. I'm advocating for balance. Many women report having very positive experiences in tech.
+The best comeback of all is ignoring them. A cheery "Go fuck yourself," doesn't affect them - but letting them eat static? Oh, it's so delicious.   I take glee in blocking people and watching them scream. 
+Having the courage to take my company to the next level and being humble enough to know that the organization wouldn't work without the people that make it amazing!
+If I were an employer and my hardest-working and best employee was a woman, I would gladly give her time off for maternity leave if needed. Things like this would only be a problem if they directly affected performance. If people need time off for whatever reason, be it a family emergency, illness, or some other sort of "drop-everything-and-do-it" obligation, they absolutely deserve time off on the condition that their work ethic never falters. Giving time off for reasonable purposes is better than lower-quality work caused by the firing of hard-working employees, and nobody needs the additional stress of their boss refusing to respect their needs. Having to take care of children shouldn't be the deciding factor that ruins one's job security. That's just unethical.
+At this point in my career? I don't.   But that's my privilege showing. I've been around long enough and wracked up enough points so that I can pick and choose where I go. When I was greener, I simply refused to engage. When one dude baited me one too many times, I asked him if he wanted our next conversation to be in HR. He backed off, after that.
+I think Randi Lee Harper does an automatic Twitter block list app that's pretty cool.
+As an IT professional I feel that the professional career and career advancement of junior developers, system admin or network security individuals is ENTIRELY in their own hands. One project or the direction of a project should not dictate the educational advancement of an individual. Even failed projects should be learning opportunities for the betterment of all individuals on the team. Especially, junior team members. 
+Got any proof of issues with women in the tech industry? I'd love to see it. 
+That's mean, sure. That's not abuse though. It's also quite funny. It's also talking about a compiler, not a person. I'm sure the compiler won't have any long term emotional damage from it.
+Logical Fallacy detected!  But just for fun, here, I've shipped multiple titles, I'll ask that question then.  How can you speak authoritatively about game development when the only developer you've ever worked for is the indie startup you created? 
+Sleeping.
+Try VERY hard to not let it really get to you or bring you down. Sometimes it will tear at you, but sometimes you have to realize that people think they screen protects them and they wouldn't have the same reactions when faced with the humanity of a in-person conversation. 
+I've got to be honest. I'm trying very hard to not leave the industry right now. What's so frustrating is, my career isn't just about me anymore. If I left, it would be a bigger sign that the bullies are winning the war on women in games.   I wish I could say I've gotten advice, but the truth is - very few of the top women in games have been there for me. Most of them are very scared they'll be next, and they've made careers out of staying silent. Women in power are by definition working within the status quo, and I'm blazing a new trail. There is no help. There is no support. There is no backup if I fail.   The truth is, I don't know what the next year will be like for me. I hope I can find the strength to keep doing this. I'm going to keep going on day at a time. 
+[You](http://media.tumblr.com/f9d10e85c7d2c9545e88d5a38834fb66/tumblr_inline_n9ag6xinGs1rkg7ly.gif)
+Flexibility!  I've been a remote worker for the past three years. This allows me to work full-time, but to also be there when the kids get home, work staggered hours so I can help with homework if needed, and avoid a commute.  There's few fields where you can do this, and get compensated well.
+Well yeah, if you have an employee who is still outperforming the rest while taking time off, you don't fire them.  I'm saying to hire based on merit.
+Why do you have someone like Brianna Wu included into this book? It seems like there would be plenty more qualified women to include. Based on the fact that Rev 60 is the only thing of note this person has done in the tech industry, it seems you want her here just for the controversy that comes with her. Basically it seems like a stunt to get people to buy the book/support the kickstarter based on the universal hate of gamergate by Wu's followers and the SJW crowd.
+One question... WHAT'S CRACKALACKIN????
+Because technology is increasingly the fabric of the world we inhabit. Engineers literally build our society, and software engineers increasingly create the world of our relationships.   This is where the power is. It's where the money is as well. 
+&gt; Believe women when they tell you stories that conflict with how you see things.   What if they tell me the world is flat?
+Tarah,  Are you aware of the rules regarding Vote Brigading on Reddit?  https://twitter.com/tarah/status/563089789692698625 http://tweetsave.com/tarah/status/563089789692698625  Aside from that:  Why do you have someone like Brianna Wu included in this book?   It seems like there would be plenty more qualified women to include. Based on the fact that Rev 60 is the only thing of note that she has created, it seems you want her here just for the controversy that comes with her.   Would it not be true to say that this is a publicity stunt to get people to buy the book/support the kickstarter based on the universal hate of gamergate by Wu's followers?
+[**@tarah**](https://twitter.com/tarah/)  &gt; [2015-02-04 21:40:42 UTC](https://twitter.com/tarah/status/563089789692698625)  &gt; Starting to see some rotten \#GamerGate behavior on our AmA with @Spacekatgal Please come upvote! https://www.reddit.com/r/IAmA/comments/2usldu/we_are_tarah_wheeler_van_vlack_brianna_wu_kristin/  ----  ^This ^message ^was ^created ^by ^a ^bot  [^[Contact ^creator]](http://www.reddit.com/message/compose/?to=jasie3k&amp;amp;subject=TweetsInCommentsBot)[^[Source ^code]](https://github.com/janpetryk/reddit-bot) 
+PC or handheld. Console controllers hurt my hands :(  These days, I'm playing Fantasy Life on my 3DS, and Minecraft on my computer. I also watch LPs like I'm getting paid to do so.
+I thought your parents was where the money was
+&gt;  I literally just left court today to testify about the death threats I've gotten from the very misogynist game industry    And you're making a case against who? Twitter? The internet? Commander Jayce?
+Brianna Wu is one of the toughest women I've ever met, and she's rapidly turning into my hero. She's doing this AmA from the courthouse where she's testifying against one of the men threatening to kill her. She's a BADASS and one hell of an example of someone who refuses to back down when someone tries to kick her.   And she ships product.
+Pretty perfectly said, Katie.   Feminism is about the equality of women. That we have to tap-dance around the problem to make some people happy pretty much says it all. 
+Bourbon.
+I've "shipped a game" (a few flash and mobile games) and would also like to know how she can claim to speak authoritatively about game development.  Also, Kierufu doesn't have to be a game developer to ask her this question.
+and this is where my problem is... why equality for only women and not everyone? I think this shows a bit of selfishness which people may think that what you really want is superiority. Should everyone not be fighting for the equality of everyone? 
+Thanks for the article! I had heard before that the average age of entrepreneurs was older than the image I've seen in media, good to see data on that. 
+[deleted]
+It's a strategy for short term profit while ignoring long term structural issues.   If people can't make a living and have children, they won't. We see this happening all across the developed world where fertility rates are below the replacement rate and dropping. Maybe the current economic system can function in an economy with a *stable* population, but the resulting structural problems will become increasingly apparent as the populations of developed countries across the world start dealing with population *decline* (Japan passed that milestone this year).  So while it seems very logical as a way to maximize profits in the near term, if every company did the same thing you'd be out of customers within a few generations. Demographics is destiny and unless we foster a culture where one can be a worker and a parent, and where everyone understands the value of being both, we're on a one-way road to the dustbin of history.
+Getting published!  I write tech books, and each one has been like climbing a mountain. There's nothing like getting a copy of your book and being able to hold it, flip through it, and smell it (don't judge me).
+I also don't have an easy answer. I can say, it's my experience that women in tech seem to sabotage ourselves with these doubts. Our increased emotional awareness leads to increased self-critisim. I think it can be healthy, but I think it can cause us to limit ourselves. 
+Somebody who has worked at multiple studios not funded by their parents, has credibility, and worked multiple positions in these studios. That would be a better expert.
+I never said that. If a man is leaving randomly and there are better employees available, I'm not going to employ him.
+Got a flavor in particular?
+I'm hoping to see a clarification on this.
+I left and came back!  I left because I was laid off, and after my treatment at the company, I wasn't sure if I wanted to go back. I was treated like an alien and was constantly pushed into areas that weren't about coding, even though I was *hired* to code. I started looking into other fields.  I returned because I got a second chance I couldn't refuse, and because I realized that I really, really loved coding. Sure, I was good at the things they had me doing, but my best days were those when I could just push code around and make things with it.
+I don't block people. Someone I pay does it for me. Let that sink in for a moment, I have so many people harassing me that I have to pay someone to block people on Twitter for me.   Our blocking pipeline is like this. She read your comment, found little value in it, scrolled through your post history, and decided you were a troll. That's really on you at that point.  Just because you have a Twitter account doesn't mean I have to listen to you. 
+That is a very good response to the question thanks. While I do not doubt that she has recieved threats, the only issue I have of it is that the Massachusetts court records do not show that Brianna has ever filed a case, let alone testified in court. You can search for yourself here http://www.masscourts.org/eservices/home.page.7
+[deleted]
+[deleted]
+&gt; She's doing this AmA from the courthouse where she's testifying against one of the men threatening to kill her.  I've seen those "threats" and the interview by Wu's friend, to call them credible is ridiculous.  &gt; She's a BADASS and one hell of an example of someone who refuses to back down when someone tries to kick her.  &gt; And she ships product.  Didn't giantspacekat have a lot of trouble working on the Rev60 port before the patreonbux started coming in?
+Well, I suppose deleting your tweet is a step in the right direction
+Have you messaged and engaged every developer on Steam's Greenlight, whom you didn't vote for, on your reasons why and to create a "dialogue"?
+That doesn't actually answer the question and Kierufu is not running around every media channel they can find gushing about what an expert in the field they are.  So. Maybe answer the question instead of evading it.
+My parents have nothing whatsoever to do with GSX. They've not given me a dime since college. 
+Please do not quit! As a male I know we desperately need more points of view. We need YOUR point of view!
+It's implied. 
+I have deleted that tweet. This is my first time doing an IAmA, and fortunately, there is a crowd of awesome moderators helping me to do a good job. They let me know that asking people to defend Brianna against all the downvoting was against the rules, and now I know.
+That's cool! Can you tell us the titles or the topics?
+Makers Mark, most days. It's nothing fancy, but I can depend on it.
+How much do you pay them?
+This AMA has been removed because the OP asked for upvotes on twitter.  This violates reddit's rules against vote brigading and manipulation.  https://twitter.com/tarah/status/563089789692698625
+An example I like to give was the 2012 GDC. Going between Moscone East to Moscone West, I passed a woman in a bikini handing out fliers to a Rockstar recruitment party. This sends a very clear signal, "No girls allowed." 
+No, no, she paid off part of her house with hipster welfare,  so was then able to re-allot other money to pay off the bike. Totally different.
+I considered using that, but realized that it also blocks the actionable threats, just making me blind to harm baph has scheduled to come my way.  Thanks for answering!  I hope someday to have a safe space to just talk shop!  Been in tech way longer than most here; tons of stories, tons more questions, but talking specifics doesn't feel safe at this time, given how baph mosaics such experience into doxes and specific harassment.  Don't need to have my job stop trusting me because of BS they would write into the internet record about me.  Watched what's happened to you guys, and very much appreciate your bravery!  Hope to meet you all someday when it's safer.
+[deleted]
+You left out "your patreon."
+If you stand for everything, you ultimately stand for nothing. 
+Sure! Accessibility and Python! Just search for Katie Cunningham on Amazon, and know that I didn't write the book on gambling.
+Please. I think being silent is how we got here in the first place. 
+Honesty is usually the best way to go, and honestly saying what you do and don't see helps everyone!
+Thank you for doing this AMA. With all the difficulties that women in tech face, what are the things in your job that keep you going? The good that balances out the bad?
+You don't necessarily have to stand up for others, just stand aside.
+Translation: Do things my way or else you're a misogynist!
+Thank you! I think there's no one way to fight, but I think being silent is how we got here in the first place.
+You know what they say about assumptions...
+I'm so sorry! I didn't realize that asking for help vs the crowd of downvoters was not appropriate. I have deleted this tweet, apologized in the thread, and told everyone not to do it.  Victoria says she is talking to you now. Is there anything else you need from me to reinstate the AMA?
+Check out her code. Really bad. 
+&gt; 2012 GDC  Searched GDC 2012. No mention from a single person about this bikini girl. No pictures, no articles. In fact the only mention of a rockstar bikini girl at GDC 2012 is a tweet by you in 2013.
+You also seem to be equating consistency with merit, and attendance with consistency.  I don't think you've justified those equivalences.  There is also no single linear scale called "merit".   For example, in a creative endeavor, it may be more useful to build a team to maximize diversity, in order to maximize the differences in life experiences from which this team will draw inspiration.
+Can we just focus on Rampart please.
+This was something I was considering a highlight. It's both a blessing and a curse. In some sense, it's nice to stand out, but at the same time, it's not necessarily something you want to stand out for. I guess the key here is to try and use this in a positive way.
+I love making things. Making websites or games or apps is something that gives me gratification. It's a thing I'm proud of at the end of the day.  Oh, and money. I like getting paid for doing something I enjoy.
+Sorry, so many charities needed to support a business that's supposed to be supported by games it's developed.
+What is the best strategy to advance into management and upper management?
+Yes, I would say the same thing to a man. In some cases I probably would be harsher..
+[deleted]
+Maybe it's under John Flynt.
+&gt;hired lots of people  citations plox. Including paygrades and benefits offered and not counting people who were coerced or convinced to work without financial compensation.
+I second both of your answers!  I also really like not only making things, but seeing people having a good time using them.   And yes, money is good. :)
+Merit, in the context of my post, is whether or not you perform your duties to the satisfaction of your employer. Random absences are, by definition, not known when to occur in the future. An employer generally doesn't prefer somebody who will not be able to perform their duties at an unknown point in the future.  Man, woman, or toaster, inconsistency is objectively negative in a merit based sense.
+We sent you an email to discuss some possibilities.  Let's continue discussion there.  
+There are a lot of things for us to be angry about; we're even now being flooded with abuse reports, complaints, and hordes of people posting vile things in this thread. I can't keep a hold of all of them and sooner or later, I'll make mistakes and this thread will disappear or be downvoted to oblivion.   Can any of you think of a better quote than this?  The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.  Martin Luther King, Jr. 
+Seeking balance is not silent, sir.
+[deleted]
+[deleted]
+There's also Microsoft's Project Spark, I've only seen a little bit of it but it seemed like it might be good for kids that are interested in game dev.
+[deleted]
+"Maybe the women who feel you're being misogynist have a perspective on misogyny that you do not? Very often, men assume they have MORE information on this subject when the truth is they have less."  I hold women in the team to the same standards as the men. I am dealing with web development, so the thing either works or doesnt!  What if I do have more information on the subject? In many regards the information is purely objective. It is either right or wrong.. there is no subjectivity to it at all. How can I get that across without sounding like I am "mansplaining" as is often the term?     
+How do you reconcile your years of discrimination-free work and Microsoft's CEO last year proclaiming "women in tech should just trust their employers to pay them a fair wage"? Do you think you experience is representative of other women in tech? Or do you think it's possible you just got lucky? If the former, do you propose these remarks by a CEO of one of the world's largest and most profitable tech companies just exist in a vacuum?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
