@@ -50,13 +50,13 @@
                 <div class="jumbotron" style="box-shadow: 1px 1px 5px #888888;">
                     <p style="font-size: 3vh;">Enter Link of AMA you would like to summarise</p>
                     <br/>
-                    <div class="form-group" ng-controller="inputCtrl">
+                    <div class="form-group">
                         <div class="row">
                             <div class="col-xs-1"></div>
                             <div class="col-xs-10">
-                                <input class="form-control" type="text" ng-model="ama.url" placeholder="https://www.reddit.com/r/IAmA/">
+                                <input class="form-control" type="text" ng-model="amaUrl" placeholder="https://www.reddit.com/r/IAmA/">
                                 <br/>
-                                <button class="btn btn-warning btn-block" type="button">Begin</button>
+                                <button class="btn btn-warning btn-block" type="button" ng-click="send()">Begin</button>
                             </div>
                             <div class="col-xs-1"></div>
                         </div>
@@ -77,5 +77,7 @@
     <script src="js/bootstrap.min.js"></script>
 </body>
 <script src="js/angular.min.js"></script>
+<script src="js/angular-route.js"></script>
+<script src="controller/inputCtrl.js"></script>
 
 </html>
