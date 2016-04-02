@@ -4,6 +4,8 @@ from collections import OrderedDict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
+import summpy1
+from summpy1.lexrank import summarize
 import re
 
 
@@ -97,16 +99,27 @@ json_data_all = []
 # print "Cluster ID      Sentence"
 # print len(documents)
 
-k = 0
-for q in question_dict:
+for x in xrange(5):
+    sentences,debug_info=summarize(cluster_docs[x],sent_limit=10,continuous=False,debug=True,use_divrank=True)
+    # print sentences
     line = ""
-    for answers in question_dict[q].ans:
-        line = line + answers
-    json_data = {}
-    json_data["id"] = str(index[k])
-    json_data["text"] = line
+    for sent in sentences:
+        line=line+sent
+    json_data={}
+    json_data["id"]=str(x)
+    json_data["text"]=line
     json_data_all.append(json_data)
-    k = k + 1
+
+# k = 0
+# for q in question_dict:
+#     line = ""
+#     for answers in question_dict[q].ans:
+#         line = line + answers
+#     json_data = {}
+#     json_data["id"] = str(index[k])
+#     json_data["text"] = line
+#     json_data_all.append(json_data)
+#     k = k + 1
 
 json_final_data = {}
 json_final_data["message"] = json_data_all

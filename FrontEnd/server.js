@@ -106,7 +106,7 @@ app.post('/api/v1/cluster',function(req,res){
 							body:querystring.stringify(requestDATA) 	
 						},function(error,response,body){
 							console.log(body.concepts);
-							console.log(requestDATA.text.length);
+							console.log(requestDATA.text);
 						})
 					}
 					call(index);

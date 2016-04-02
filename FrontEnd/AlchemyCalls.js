@@ -32,6 +32,7 @@ exports.test=function(req,res){
 						'outputMode':'json',
 						'knowledgeGraph':'1'
 					}
+					console.log("-->>"+documents[index]); 
 					requestData.push(data);
 				}
 				for(var index=0;index<=4;index++){
@@ -50,11 +51,11 @@ exports.test=function(req,res){
 							body:querystring.stringify(requestDATA) 	
 						},function(error,response,body){
 							console.log(body.concepts);
-							console.log(requestDATA.text.length);
+							console.log(requestDATA.text);
 						})
 					}
 					call(index);
-				}
+				} 
 			}
 			sendData();
 		}
