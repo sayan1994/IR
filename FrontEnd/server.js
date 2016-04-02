@@ -1,7 +1,7 @@
 // ===========
 // BASIC SETUP
 // ==========
-
+  
 var express  = require('express');
 var app 	 = express();
 var port     = process.env.PORT || 8080;
@@ -15,7 +15,6 @@ var path 		 = require('path');
 
 var APIRouter = require('./app/routes/APIRouter');
 var PythonShell = require('python-shell');
-var AlchemyCall=require('./AlchemyCalls');
 
 // set up our express application
 app.use(morgan('dev')); // log every request to the console
@@ -99,7 +98,7 @@ app.post('/api/v1/cluster',function(req,res){
 							url:ALCHEMY_URL,
 							json:true,
 							method:"POST",
-							headers:{
+							headers:{ 
 								"content-type":"application/x-www-form-urlencoded"
 							},
 							proxy:"http://10.3.100.207:8080",

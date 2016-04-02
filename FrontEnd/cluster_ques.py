@@ -32,7 +32,7 @@ class QnA:
 
 with open("answer_thread.txt") as files:
     for line in files:
-        words = line.split()
+        words = line.split() 
         comment_dict["t1_" + words[0]] = "t1_" + words[1]
 
 with open(filename) as data_file:
@@ -100,7 +100,7 @@ json_data_all = []
 # print len(documents)
 
 for x in xrange(5):
-    sentences,debug_info=summarize(cluster_docs[x],sent_limit=10,continuous=False,debug=True,use_divrank=True)
+    sentences,debug_info=summarize(cluster_docs[x],sent_limit=10,continuous=False,debug=True,use_divrank=False)
     # print sentences
     line = ""
     for sent in sentences:
