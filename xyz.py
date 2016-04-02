@@ -205,9 +205,11 @@ doc_test_set = []
 
 path = './data/tech1/*.txt'
 files = glob.glob(path) 
-# print files 
-for name in files[0:35]: # 'file' is a builtin type, 'name' is a less-ambiguous variable name.
+doc_name=[]
+print files 
+for name in files[0:]: # 'file' is a builtin type, 'name' is a less-ambiguous variable name.
     try:
+        doc_name.append(name)
         # print name
         with open(name) as f: # No need to specify 'r': this is the default.
             doc_new_set.append(f.read())
@@ -216,7 +218,7 @@ for name in files[0:35]: # 'file' is a builtin type, 'name' is a less-ambiguous 
             raise # Propagate other kinds of IOError.
 
 
-for name in files[25:]: # 'file' is a builtin type, 'name' is a less-ambiguous variable name.
+for name in files[0:]: # 'file' is a builtin type, 'name' is a less-ambiguous variable name.
     try:
         with open(name) as f: # No need to specify 'r': this is the default.
             doc_test_set.append(f.read())
@@ -225,7 +227,7 @@ for name in files[25:]: # 'file' is a builtin type, 'name' is a less-ambiguous v
             raise # Propa
 
 
-print len(doc_new_set)
+# print len(doc_new_set)
 print len(doc_test_set)
 # print doc_new_set
 # list for tokenized documents in loop
@@ -277,21 +279,25 @@ dictionary_test = corpora.Dictionary(texts_test)
 corpus_test = [dictionary_test.doc2bow(text) for text in texts_test]
 
 # generate LDA model
-ldamodel = gensim.models.LdaMulticore(corpus, num_topics=10, id2word = dictionary, passes=200,workers=3)
-# ldamodel.save('lda.model')
+# ldamodel = gensim.models.LdaMulticore(corpus, num_topics=10, id2word = dictionary, passes=200,workers=7)
+ldamodel=gensim.models.ldamodel.LdaModel.load('ldaNew.model')
+# ldamodel.save('ldaNew.model')
 
 #print (corpus[0])
 K = ldamodel.num_topics
 # doc_f_bow = dictionary.doc2bow(doc_f.lower().split())
-a = list(sorted(ldamodel[corpus_test], key=lambda x: x[1]))
+a = list((ldamodel[corpus_test]))
 print a
 print '\n'
+count=0
 for i in a:
-	i = list(sorted(i, key=lambda x: x[1]))
-	print i[-1]
-	print '\n'
-	print ldamodel.print_topic(i[-1][0])
-	print '\n'
+    print doc_name[count]
+    i = list(sorted(i, key=lambda x: x[1]))
+    print i[-1]
+    print '\n'
+    print ldamodel.print_topic(i[-1][0])
+    print '\n'
+    count=count+1
 # topicWordProbMat = ldamodel.print_topics(K)
 # print K
 # print topicWordProbMat
