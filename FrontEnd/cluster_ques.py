@@ -10,11 +10,11 @@ import re
 
 
 filename = "posts.jsons"
-author=""
+author = ""
 
 with open('./AMA_main.jsons') as data_file:
-        data = json.loads(data_file.readline())
-        author=data["author"]
+    data = json.loads(data_file.readline())
+    author = data["author"]
 
 question_dict = OrderedDict()
 comment_dict = OrderedDict()
@@ -32,7 +32,7 @@ class QnA:
 
 with open("answer_thread.txt") as files:
     for line in files:
-        words = line.split() 
+        words = line.split()
         comment_dict["t1_" + words[0]] = "t1_" + words[1]
 
 with open(filename) as data_file:
@@ -50,6 +50,12 @@ with open(filename) as data_file:
                 tmp = question_dict[comment_dict[data["name"]]]
                 tmp.addAnswer(data["body"])
                 question_dict[comment_dict[data["name"]]] = tmp
+
+for q in question_dict:
+    if len(question_dict[q].ans) == 0:
+        question_dict.pop(q, None)
+
+# print "SIZE", len(question_dict)
 
 # tot = 0
 # for i in question_dict:
@@ -100,14 +106,14 @@ json_data_all = []
 # print len(documents)
 
 for x in xrange(5):
-    sentences,debug_info=summarize(cluster_docs[x],sent_limit=10,continuous=False,debug=True,use_divrank=False)
+    sentences, debug_info = summarize(cluster_docs[x], sent_limit=10, continuous=False, debug=True, use_divrank=False)
     # print sentences
     line = ""
     for sent in sentences:
-        line=line+sent
-    json_data={}
-    json_data["id"]=str(x)
-    json_data["text"]=line
+        line = line + sent
+    json_data = {}
+    json_data["id"] = str(x)
+    json_data["text"] = line
     json_data_all.append(json_data)
 
 # k = 0
