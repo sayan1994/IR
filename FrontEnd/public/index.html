@@ -83,14 +83,14 @@
                     <div class="row">
                         <div class="col-md-1"></div>
                         <div class="col-md-10">
-                            <div ng-repeat="" align="left">
-                                <div ng-repeat="">
+                            <div ng-repeat="Alchemy in AlchemyArray" align="left">
+                                <div ng-repeat="alchemyTopics in Alchemy.concepts">
                                     <i class="fa fa-hashtag fa-lg"></i>
-                                    <font size="5vh" style="padding-left: 1vh; font-weight: bold;">{{alchemy.topic}}</font>
+                                    <font size="5vh" style="padding-left: 1vh; font-weight: bold;">{{alchemyTopics.text}}</font>
                                 </div>
                                 <br/>
                                 <p>
-                                    {{alchemy.text}}
+                                    {{Alchemy.text}}
                                 </p>
                             </div>
                         </div>

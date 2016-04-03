@@ -11,6 +11,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser   = require('body-parser');
 var session      = require('express-session');
 var path 		 = require('path');
+var async		 = require('async');
 
 
 var APIRouter = require('./app/routes/APIRouter');
@@ -63,6 +64,7 @@ app.post('/api/v1/cluster',function(req,res){
 	var request=require('request');
 	var querystring=require('querystring');
 	var deferred=require('deferred');
+	var reply=[];
 
 		clusterPython.on('message',function(message){
 		console.log('TEST function CALLED');
@@ -77,6 +79,9 @@ app.post('/api/v1/cluster',function(req,res){
 				documents[data.message[index].id]+=data.message[index].text;
 				sumLength+=data.message[index].text.length;
 			}
+			var sendReply=function(){
+				res.send({'status':'200','message':reply});
+			}
 			var sendData=function(){
 				var requestData=[];
 				console.log("document length->"+sumLength);
@@ -89,8 +94,13 @@ app.post('/api/v1/cluster',function(req,res){
 					}
 					requestData.push(data);
 				}
-				for(var index=0;index<=4;index++){
-					var call=function(index){
+
+
+				(function again(index){
+					if(index==5){
+						res.send({'status':'200','message':reply});
+					}
+					else{
 						console.log('CALLED FOR CLUSTER '+index);
 						var ALCHEMY_URL="http://gateway-a.watsonplatform.net/calls/text/TextGetRankedConcepts";
 						var requestDATA=requestData[index];
@@ -106,17 +116,38 @@ app.post('/api/v1/cluster',function(req,res){
 						},function(error,response,body){
 							console.log(body.concepts);
 							console.log(requestDATA.text);
+							reply.push({'concepts':body.concepts,'text':requestDATA.text});
+							again(index+1);
 						})
 					}
-					call(index);
-				}
+				})(0);
+				// res.send({'status':'200','message':reply});
 			}
 			sendData();
 		}
 		putData();
-		res.send({'status':'200'});
+		//res.send({'status':'200','message':responseData});
 	})
 });
+
+// exports.awesomeThings = function(req, res) {
+//     client.lrange("awesomeThings", 0, -1, function(err, awesomeThings) {
+//         var len = awesomeThings.length;
+//         var things = [];
+//         (function again (i){
+//             if (i === len){
+//                 //End
+//                 res.send(JSON.stringify(things));
+//             }else{
+//                 client.hgetall("awesomething:"+awesomeThings[i], function(err, thing) {
+//                     things.push(thing);
+
+//                     //Next item
+//                     again (i + 1);
+//                 })
+//             }
+//         })(0);
+// });
 
 app.get('/', function (req, res) {
 	res.sendfile('./public/index.html');
