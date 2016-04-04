@@ -1,79 +1,4 @@
-var myApp = angular.module('myApp', ['ngRoute', 'ngMaterial']);
-myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location', function($scope, $http, $window, $log, $location, $q) {
-    console.log('Hello World from inputCtrl');
-
-    $scope.AlchemyArray = [];
-    $scope.nameList = "";
-    $scope.list = [];
-
-    var self = this;
-    self.value = {};
-    self.simulateQuery = false;
-    self.isDisabled = false;
-    self.states = loadAll();
-    self.selectedItem = {};
-    self.querySearch = querySearch;
-    self.selectedItemChange = selectedItemChange;
-    self.searchTextChange = searchTextChange;
-
-    function querySearch(query) {
-        var results = query ? self.states.filter(createFilterFor(query)) : self.states,
-            deferred;
-        if (self.simulateQuery) {
-            deferred = $q.defer();
-            $timeout(function() { deferred.resolve(results); }, Math.random() * 1000, false);
-            return deferred.promise;
-        } else {
-            return results;
-        }
-    }
-
-    function searchTextChange(text) {
-        $log.info('Text changed to ' + text);
-    }
-
-    function selectedItemChange(item) {
-        $log.info('Item changed to ' + JSON.stringify(item));
-        self.selectedItem = item;
-        $scope.amaUrl1 = item;
-        // console.log($scope.amaUrl1);
-    }
-
-    $scope.send = function() {
-        console.log($scope.amaUrl1);
-        // $http.post('api/v1/extractJSON',{link:$scope.amaUrl}).success(function(response){
-        //     var responseData=response;
-        //     console.log(response.status);
-        //     if(responseData.status=='200'){
-        //         $http.post('api/v1/commentAuthorParent').success(function(response){
-        //             if(response.status=='200'){
-        //                 console.log('Till Here');
-        //                 $http.post('api/v1/treeCreation').success(function(response){
-        //                     if(response.status=='200'){
-        //                         console.log('Over Here');
-        //                         $http.post('api/v1/cluster').success(function(response){
-        //                             console.log('Now here');
-        //                             console.log(response);
-        //                             $scope.AlchemyArray=response.message;
-        //                         })
-        //                     }
-        //                 })
-        //             }
-        //         })
-        //     }
-        // });
-        // console.log('here->'+$scope.amaUrl);
-    }
-
-    function createFilterFor(query) {
-        var lowercaseQuery = angular.lowercase(query);
-        return function filterFn(state) {
-            return (state.value.indexOf(lowercaseQuery) === 0);
-        };
-    }
-
-    function loadAll() {
-        var allStates = [
+[
   {
     "url": "t3_904bj",
     "name": "I am a prosecutor. AMA."
@@ -24262,11 +24187,4 @@ myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location'
     "url": "t3_37wmup",
     "name": "I teach rope bondage. AMA!"
   }
-]; //load from file
-        // var allStates=$scope.list;
-        return allStates.map(function(state) {
-            state.value=state.name.toLowerCase();
-            return state;
-        });
-    }
-}])
+]

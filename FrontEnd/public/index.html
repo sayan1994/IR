@@ -12,12 +12,14 @@
     <!-- Custom styles for this template -->
     <link href="css/navbar-fixed-top.css" rel="stylesheet">
     <link href="css/spage.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/0.11.2/angular-material.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/spinner.css">
 </head>
 
-<body ng-controller="inputCtrl" ng-init="init()">
+<body ng-controller="inputCtrl as ctrl" ng-init="init()">
     <!-- Fixed navbar -->
+
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">Reddit AMA <b>Summariser</b></a>
@@ -74,6 +76,37 @@
     <div align="center" style="position: relative;top: -12vh;">
         <h2>Results</h2>
     </div>
+    <div layout="column" ng-cloak>
+  <md-content class="md-padding">
+    <form ng-submit="$event.preventDefault()">
+      <md-autocomplete
+          ng-disabled="ctrl.isDisabled"
+          md-no-cache="ctrl.noCache"
+          md-selected-item="ctrl.selectedItem"
+          md-search-text-change="ctrl.searchTextChange(ctrl.searchText)"
+          md-search-text="ctrl.searchText"
+          md-selected-item-change="ctrl.selectedItemChange(item)"
+          md-items="item in ctrl.querySearch(ctrl.searchText)"
+          md-item-text="item.name"
+          md-min-length="0"
+          placeholder="Enter the name of the reddit AMA?">
+        <md-item-template>
+        <span class="item-name">
+        <span>{{item.name}}</span>
+        </md-item-template>
+        <md-not-found>
+          No AMA's matching "{{ctrl.searchText}}" were found.
+        </md-not-found>
+      <br/>
+      <br/>
+      <br/>
+    </form>
+  </md-content>
+</div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <br/>
     <div align="center" style="position: relative;top: -12vh;">
         <div class="row" align="center">
@@ -108,6 +141,11 @@
         <script>
         window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
         </script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-animate.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-aria.js"></script>
+        <!-- Angular Material Javascript using GitCDN to load directly from `bower-material/master` -->
+        <script src="https://gitcdn.link/repo/angular/bower-material/master/angular-material.js"></script>
         <script src="js/bootstrap.min.js"></script>
 </body>
 <script src="js/angular.min.js"></script>
