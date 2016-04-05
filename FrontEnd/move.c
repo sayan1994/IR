@@ -5,13 +5,8 @@
 // <executable> <url>  e.g. ./a.out t3_1a0klp    (url DOES NOT contain any extension)
 int main( int argc, char *argv[])
 {
-	if( argc != 2)
-	{
-		printf("Incorrect Arguments\n");
-		exit(1);
-	}
 	char str[200];
-	strcpy( str, argv[1]);
+	strcpy(str,argv[1]);
 	char path1_init[200] = {"./public/data/ama_main/"}, path2_init[200] = {"./public/data/train_jsons/"};
 	strcat( path1_init, str);
 	strcat( path1_init, ".jsons");
