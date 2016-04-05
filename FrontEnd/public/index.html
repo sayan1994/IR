@@ -19,7 +19,6 @@
 
 <body ng-controller="inputCtrl as ctrl" ng-init="init()">
     <!-- Fixed navbar -->
-
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">Reddit AMA <b>Summariser</b></a>
@@ -58,7 +57,24 @@
                         <div class="row">
                             <div class="col-xs-1"></div>
                             <div class="col-xs-10">
-                                <input class="form-control" type="text" ng-model="amaUrl" placeholder="https://www.reddit.com/r/IAmA/">
+                                <!-- <input class="form-control" type="text" ng-model="amaUrl" placeholder="https://www.reddit.com/r/IAmA/"> -->
+                                <div layout="column" ng-cloak>
+                                    <md-content>
+                                        <form ng-submit="$event.preventDefault()">
+                                            <md-autocomplete ng-disabled="ctrl.isDisabled" md-no-cache="ctrl.noCache" md-selected-item="ctrl.selectedItem" md-search-text-change="ctrl.searchTextChange(ctrl.searchText)" md-search-text="ctrl.searchText" md-selected-item-change="ctrl.selectedItemChange(item)" md-items="item in ctrl.querySearch(ctrl.searchText)" md-item-text="item.name" md-min-length="0" placeholder="Enter the name of the reddit AMA?">
+                                                <md-item-template>
+                                                    <span class="item-name">
+                                                    <span>{{item.name}}</span>
+                                                </md-item-template>
+                                                <md-not-found>
+                                                    No AMA's matching "{{ctrl.searchText}}" were found.
+                                                </md-not-found>
+                                                <br/>
+                                                <br/>
+                                                <br/>
+                                        </form>
+                                    </md-content>
+                                </div>
                                 <br/>
                                 <button class="btn btn-warning btn-block has-spinner" type="button" ng-click="send()">
                                     <span class="spinner"><i class="fa fa-spin fa-refresh"></i></span> Begin
@@ -76,37 +92,6 @@
     <div align="center" style="position: relative;top: -12vh;">
         <h2>Results</h2>
     </div>
-    <div layout="column" ng-cloak>
-  <md-content class="md-padding">
-    <form ng-submit="$event.preventDefault()">
-      <md-autocomplete
-          ng-disabled="ctrl.isDisabled"
-          md-no-cache="ctrl.noCache"
-          md-selected-item="ctrl.selectedItem"
-          md-search-text-change="ctrl.searchTextChange(ctrl.searchText)"
-          md-search-text="ctrl.searchText"
-          md-selected-item-change="ctrl.selectedItemChange(item)"
-          md-items="item in ctrl.querySearch(ctrl.searchText)"
-          md-item-text="item.name"
-          md-min-length="0"
-          placeholder="Enter the name of the reddit AMA?">
-        <md-item-template>
-        <span class="item-name">
-        <span>{{item.name}}</span>
-        </md-item-template>
-        <md-not-found>
-          No AMA's matching "{{ctrl.searchText}}" were found.
-        </md-not-found>
-      <br/>
-      <br/>
-      <br/>
-    </form>
-  </md-content>
-</div>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
     <br/>
     <div align="center" style="position: relative;top: -12vh;">
         <div class="row" align="center">
