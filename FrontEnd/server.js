@@ -60,13 +60,16 @@ app.post('/api/v1/treeCreation',function(req,res){
 
 app.post('/api/v1/createFile',function(req,res){
 	var options={
-		args=[req.params.fileName]
+		args:[req.body.fileName]
 	}
+	console.log(req.body.fileName);
 	PythonShell.run('createFiles.py',options,function(error,results){
 		if(error){
 			throw error;
 		}
+		res.send({'status':'200'});
 	})
+	// res.send({'status':'200'});
 })
 
 app.post('/api/v1/cluster',function(req,res){

@@ -7,7 +7,7 @@ int main( int argc, char *argv[])
 {
 	char str[200];
 	strcpy(str,argv[1]);
-	char path1_init[200] = {"./public/data/ama_main/"}, path2_init[200] = {"./public/data/train_jsons/"};
+	char path1_init[200] = {"./data/ama_main/"}, path2_init[200] = {"./data/train_jsons/"};
 	strcat( path1_init, str);
 	strcat( path1_init, ".jsons");
 	strcat( path2_init, str);
@@ -34,5 +34,6 @@ int main( int argc, char *argv[])
     fclose( fp1_to);
     fclose( fp2_from);
     fclose( fp2_to);
+    printf("DONE!!\n");
 	return 0;
 }

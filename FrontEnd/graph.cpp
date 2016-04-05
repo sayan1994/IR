@@ -50,7 +50,7 @@ typedef long long ll;
 typedef pair<int,int>pii;
 typedef vector<int> vi;
 typedef complex<double> point;
-#define NUM 800
+#define NUM 8000
 char authors[NUM][50];
 char comment_id[NUM][50];
 char parent_id[NUM][50];

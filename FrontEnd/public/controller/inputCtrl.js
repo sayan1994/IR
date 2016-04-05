@@ -22,7 +22,7 @@ myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location'
             deferred;
         if (self.simulateQuery) {
             deferred = $q.defer();
-            $timeout(function() { deferred.resolve(results); },1000000000, false);
+            $timeout(function() { deferred.resolve(results); },10, false);
             return deferred.promise;
         } else {
             return results;
@@ -43,7 +43,7 @@ myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location'
     $scope.send = function() {
         console.log($scope.amaUrl1);
         $http.post('api/v1/createFile',{fileName:$scope.amaUrl1.url}).success(function(response){
-          if(responseData.status=='200'){
+          if(response.status=='200'){
             $http.post('api/v1/extractJSON',{link:$scope.amaUrl}).success(function(response){
                 var responseData=response;
                 console.log(response.status);
