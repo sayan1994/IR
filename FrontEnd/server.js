@@ -12,6 +12,7 @@ var bodyParser   = require('body-parser');
 var session      = require('express-session');
 var path 		 = require('path');
 var async		 = require('async');
+var fs 			 = require('fs');
 
 
 var APIRouter = require('./app/routes/APIRouter');
@@ -52,8 +53,19 @@ app.post('/api/v1/treeCreation',function(req,res){
 			throw error;
 			res.send({'status':'400'});
 		}
-		console.log('donw tith tree creation');
+		console.log('done tith tree creation');
 		res.send({'status':'200'});
+	})
+})
+
+app.post('/api/v1/createFile',function(req,res){
+	var options={
+		args=[req.params.fileName]
+	}
+	PythonShell.run('createFiles.py',options,function(error,results){
+		if(error){
+			throw error;
+		}
 	})
 })
 
