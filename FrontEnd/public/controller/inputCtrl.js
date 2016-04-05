@@ -15,13 +15,14 @@ myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location'
     self.querySearch = querySearch;
     self.selectedItemChange = selectedItemChange;
     self.searchTextChange = searchTextChange;
+    self.noCache=false;
 
     function querySearch(query) {
         var results = query ? self.states.filter(createFilterFor(query)) : self.states,
             deferred;
         if (self.simulateQuery) {
             deferred = $q.defer();
-            $timeout(function() { deferred.resolve(results); }, Math.random() * 1000, false);
+            $timeout(function() { deferred.resolve(results); },1000000000, false);
             return deferred.promise;
         } else {
             return results;
@@ -29,11 +30,11 @@ myApp.controller('inputCtrl', ['$scope', '$http', '$window', '$log', '$location'
     }
 
     function searchTextChange(text) {
-        $log.info('Text changed to ' + text);
+        // $log.info('Text changed to ' + text);
     }
 
     function selectedItemChange(item) {
-        $log.info('Item changed to ' + JSON.stringify(item));
+        // $log.info('Item changed to ' + JSON.stringify(item));
         self.selectedItem = item;
         $scope.amaUrl1 = item;
         // console.log($scope.amaUrl1);
