@@ -106,14 +106,15 @@ json_data_all = []
 # print len(documents)
 
 for x in xrange(5):
-    # sentences, debug_info = summarize(cluster_docs[x], sent_limit=10, continuous=False, debug=True, use_divrank=False)
+    sentences, debug_info = summarize(cluster_docs[x], sent_limit=10, continuous=False, debug=True, use_divrank=False)
     # # print sentences
-    # line = ""
-    # for sent in sentences:
-    #     line = line + sent
+    line = ""
+    for sent in sentences:
+        line = line + sent
     json_data = {}
     json_data["id"] = str(x)
     json_data["text"] = cluster_docs[x]
+    json_data["summary"]=line
     # print "---->>>>"+cluster_docs[x]
     json_data_all.append(json_data)
 
@@ -130,7 +131,8 @@ for x in xrange(5):
 
 json_final_data = {}
 json_final_data["message"] = json_data_all
-
+# for i in json_data_all:
+#     print i["id"]+'-------->'+i['text']+'\n$$$$$$$$$$$$$$$\n\n\n'+i['summary']+'##########\n\n\n\n'
 print json.dumps(json_final_data)
 
 # print '{ "message":[',
