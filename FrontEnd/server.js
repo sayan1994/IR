@@ -4,7 +4,7 @@
   
 var express  = require('express');
 var app 	 = express();
-var port     = process.env.PORT || 8080;
+var port     = process.env.PORT || 8000;
 
 var morgan       = require('morgan');
 var cookieParser = require('cookie-parser');
@@ -84,6 +84,8 @@ app.post('/api/v1/cluster',function(req,res){
 		clusterPython.on('message',function(message){
 		console.log('TEST function CALLED');
 		var data=JSON.parse(message);
+		var dataToUse=JSON.parse(message);
+		console.log(dataToUse);
 		var documents=[];
 		for(var index=0;index<data.message.length;index++){
 			documents.push('');
@@ -99,6 +101,7 @@ app.post('/api/v1/cluster',function(req,res){
 			}
 			var sendData=function(){
 				var requestData=[];
+				var summaryArray=[];
 				console.log("document length->"+sumLength);
 				for(var index=0;index<=4;index++){
 					var data={
@@ -107,6 +110,8 @@ app.post('/api/v1/cluster',function(req,res){
 						'outputMode':'json',
 						'knowledgeGraph':'1'
 					}
+					summaryArray.push({'summary':dataToUse.message[index].summary});
+					console.log("SUMMARY->"+dataToUse.message[index].summary);
 					requestData.push(data);
 				}
 
@@ -129,9 +134,9 @@ app.post('/api/v1/cluster',function(req,res){
 							proxy:"http://10.3.100.207:8080",
 							body:querystring.stringify(requestDATA) 	
 						},function(error,response,body){
-							console.log(body.concepts);
-							console.log(requestDATA.text);
-							reply.push({'concepts':body.concepts,'text':requestDATA.text});
+							// console.log(body.concepts);
+							// console.log("CONCEPTS->"+summaryArray[index]);
+							reply.push({'concepts':body.concepts,'text':requestDATA.text,'summary':summaryArray[index].summary});
 							again(index+1);
 						})
 					}
